@@ -1,0 +1,177 @@
+<datasets>
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_FilamentousFungus</prop>
+    <prop name="snpStrainAbbrev">D111</prop>
+    <prop name="sraQueryString">SRR1779206</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_FilamentousFungus</prop>
+    <prop name="snpStrainAbbrev">D112</prop>
+    <prop name="sraQueryString">SRR1779209</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_FilamentousFungus</prop>
+    <prop name="snpStrainAbbrev">D113</prop>
+    <prop name="sraQueryString">SRR1779219</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_FilamentousFungus</prop>
+    <prop name="snpStrainAbbrev">JW148</prop>
+    <prop name="sraQueryString">SRR1779164</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_FilamentousFungus</prop>
+    <prop name="snpStrainAbbrev">JW179</prop>
+    <prop name="sraQueryString">SRR1779170</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_FilamentousFungus</prop>
+    <prop name="snpStrainAbbrev">JW193</prop>
+    <prop name="sraQueryString">SRR1779176</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_FilamentousFungus</prop>
+    <prop name="snpStrainAbbrev">JW196</prop>
+    <prop name="sraQueryString">SRR1779179</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_FilamentousFungus</prop>
+    <prop name="snpStrainAbbrev">JW199</prop>
+    <prop name="sraQueryString">SRR1779181</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_FilamentousFungus</prop>
+    <prop name="snpStrainAbbrev">JW204</prop>
+    <prop name="sraQueryString">SRR1779183</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_FilamentousFungus</prop>
+    <prop name="snpStrainAbbrev">JW22</prop>
+    <prop name="sraQueryString">SRR1777709</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_FilamentousFungus</prop>
+    <prop name="snpStrainAbbrev">JW220</prop>
+    <prop name="sraQueryString">SRR1779187</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_FilamentousFungus</prop>
+    <prop name="snpStrainAbbrev">JW222</prop>
+    <prop name="sraQueryString">SRR1779185</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_FilamentousFungus</prop>
+    <prop name="snpStrainAbbrev">JW224</prop>
+    <prop name="sraQueryString">SRR1779190</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_FilamentousFungus</prop>
+    <prop name="snpStrainAbbrev">JW228</prop>
+    <prop name="sraQueryString">SRR1779192</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_FilamentousFungus</prop>
+    <prop name="snpStrainAbbrev">JW242</prop>
+    <prop name="sraQueryString">SRR1779195</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_FilamentousFungus</prop>
+    <prop name="snpStrainAbbrev">JW246</prop>
+    <prop name="sraQueryString">SRR1779198</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_FilamentousFungus</prop>
+    <prop name="snpStrainAbbrev">JW258</prop>
+    <prop name="sraQueryString">SRR1779201</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_FilamentousFungus</prop>
+    <prop name="snpStrainAbbrev">JW75</prop>
+    <prop name="sraQueryString">SRR1779467</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_FilamentousFungus</prop>
+    <prop name="snpStrainAbbrev">P4452</prop>
+    <prop name="sraQueryString">SRR1779469</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_FilamentousFungus</prop>
+    <prop name="snpStrainAbbrev">P4463</prop>
+    <prop name="sraQueryString">SRR1779223</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_FilamentousFungus</prop>
+    <prop name="snpStrainAbbrev">P4468</prop>
+    <prop name="sraQueryString">SRR1779227</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_FilamentousFungus</prop>
+    <prop name="snpStrainAbbrev">P4471</prop>
+    <prop name="sraQueryString">SRR1779287</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_FilamentousFungus</prop>
+    <prop name="snpStrainAbbrev">P4476</prop>
+    <prop name="sraQueryString">SRR1779470</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_FilamentousFungus</prop>
+    <prop name="snpStrainAbbrev">P4479</prop>
+    <prop name="sraQueryString">SRR1779276</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_FilamentousFungus</prop>
+    <prop name="snpStrainAbbrev">P4489</prop>
+    <prop name="sraQueryString">SRR1779281</prop>
+  </dataset>
+
+</datasets>

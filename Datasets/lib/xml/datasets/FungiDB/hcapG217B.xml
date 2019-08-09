@@ -1,0 +1,133 @@
+<datasets>
+  <constant name="organismAbbrev" value="hcapG217B"/>
+  <constant name="strainAbbrev" value="G217B"/>
+  <constant name="referenceStrainOrganismAbbrev" value="hcapNAm1"/>
+  <constant name="familyRepOrganismAbbrev" value="hcapNAm1"/>
+  <constant name="projectName" value="FungiDB"/>
+  <constant name="ncbiTaxonId" value="447094"/>
+  <constant name="speciesNcbiTaxonId" value="5037"/>
+  <constant name="soTerm" value="contig"/>
+  <constant name="genomeSource" value="UCSF"/>
+  <constant name="genomeVersion" value="2005-09-21"/>
+  <constant name="source" value="UCSF"/>
+  <constant name="functAnnotVersion" value="2005-09-21"/>
+
+  <dataset class="validateOrganismInfo">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="strainAbbrev">$$strainAbbrev$$</prop>
+    <prop name="ncbiTaxonId">$$ncbiTaxonId$$</prop>
+    <prop name="speciesNcbiTaxonId">$$speciesNcbiTaxonId$$</prop>
+    <prop name="genomeVersion">$$genomeVersion$$</prop>
+  </dataset>
+
+  <dataset class="fasta_primary_genome_sequence">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="ncbiTaxonId">$$ncbiTaxonId$$</prop>
+    <prop name="name">$$genomeSource$$</prop>
+    <prop name="version">$$genomeVersion$$</prop>
+    <prop name="soTerm">$$soTerm$$</prop>
+    <prop name="table">DoTS::ExternalNASequence</prop>
+    <prop name="sourceIdRegex">^>(\S+)</prop>
+    <prop name="releaseDate">$$genomeVersion$$</prop>
+  </dataset>
+
+  <dataset class="NoPreprocess_primary_genome_features">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="ncbiTaxonId">$$ncbiTaxonId$$</prop>
+    <prop name="source">$$genomeSource$$</prop>
+    <prop name="version">$$genomeVersion$$</prop>
+    <prop name="soTerm">$$soTerm$$</prop>
+    <prop name="mapFile">genemRNAExonCDS2Gus.xml</prop>
+  </dataset>
+
+  <dataset class="comments">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="name">UCSF_gene</prop>
+    <prop name="version">$$genomeVersion$$</prop>
+  </dataset>
+
+  <dataset class="aliases">
+    <prop name="name">PreviousGeneIDs</prop>
+    <prop name="version">$$genomeVersion$$</prop>
+    <prop name="idType">previous id</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="columnSpec">primary_identifier</prop>
+    <prop name="url"/>
+    <prop name="urlUsesSecondaryId"/>
+    <prop name="target">NAFeature</prop>
+    <prop name="viewName">GeneFeature</prop>
+  </dataset>
+
+  <dataset class="dbxref_simple">
+    <prop name="name">HistoBase</prop>
+    <prop name="version">$$genomeVersion$$</prop>
+    <prop name="columnSpec">primary_identifier</prop>
+    <prop name="target">NAFeature</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="genomeVersion">$$genomeVersion$$</prop>
+    <prop name="url"><![CDATA[http://histo.ucsf.edu/cgi-bin/HistoAnnotation/NameLookup.cgi?id=EXTERNAL_ID_HERE]]></prop>
+    <prop name="urlUsesSecondaryId">false</prop>
+    <prop name="viewName">GeneFeature</prop>
+  </dataset>
+
+  <dataset class="dbxref_gene2Entrez">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="ncbiTaxonId">$$ncbiTaxonId$$</prop>
+    <prop name="genomeVersion">$$genomeVersion$$</prop>
+    <prop name="version">2017-10-18</prop>
+  </dataset>
+
+  <dataset class="dbxref_gene2PubmedFromNcbi">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="ncbiTaxonId">$$ncbiTaxonId$$</prop>
+    <prop name="genomeVersion">$$genomeVersion$$</prop>
+    <prop name="version">2017-10-18</prop>
+  </dataset>
+
+  <dataset class="dbxref_gene2Uniprot">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="ncbiTaxonId">$$ncbiTaxonId$$</prop>
+    <prop name="genomeVersion">$$genomeVersion$$</prop>
+    <prop name="version">2017-10-18</prop>
+  </dataset>
+
+  <dataset class="ECAssocFromUniprot">
+    <prop name="speciesNcbiTaxonId">$$speciesNcbiTaxonId$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="version">TODAY</prop>
+  </dataset>
+
+  <dataset class="transcriptsFromReferenceStrain">
+    <prop name="referenceStrainOrganismAbbrev">$$referenceStrainOrganismAbbrev$$</prop>
+  </dataset>
+
+  <dataset class="epitopesFromReferenceStrain">
+    <prop name="referenceStrainOrganismAbbrev">$$referenceStrainOrganismAbbrev$$</prop>
+  </dataset>
+
+  <dataset class="isolatesFromFamilyRepresentative">
+    <prop name="name">genbank</prop>
+    <prop name="familyRepOrganismAbbrev">$$familyRepOrganismAbbrev$$</prop>
+  </dataset>
+
+  <dataset class="rnaSeqExperiment">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="name">Sil_Hyphae_Yeast</prop>
+    <prop name="version">2015-07-15</prop>
+    <prop name="limitNU">30</prop>
+    <prop name="isStrandSpecific">true</prop>
+    <prop name="hasPairedEnds">true</prop>
+    <prop name="alignWithCdsCoordinates">false</prop>
+  </dataset>
+
+</datasets>

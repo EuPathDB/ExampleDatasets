@@ -1,0 +1,31 @@
+<datasets>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Scherf_Intraerythrocytic_cycle</prop>
+    <prop name="sampleName">ERR174301</prop>
+    <prop name="sraQueryString">ERR174301</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Scherf_Intraerythrocytic_cycle</prop>
+    <prop name="sampleName">ERR185969</prop>
+    <prop name="sraQueryString">ERR185969</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Scherf_Intraerythrocytic_cycle</prop>
+    <prop name="sampleName">ERR185970</prop>
+    <prop name="sraQueryString">ERR185970</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Scherf_Intraerythrocytic_cycle</prop>
+    <prop name="sampleName">ERR185971</prop>
+    <prop name="sraQueryString">ERR185971</prop>
+  </dataset>
+
+</datasets>

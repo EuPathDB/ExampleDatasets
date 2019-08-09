@@ -1,0 +1,107 @@
+<datasets>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">lamaMHOMBR71973M2269</prop>
+    <prop name="experimentName">Fernandes_LA_Infection</prop>
+    <prop name="sampleName">SRR2171253</prop>
+    <prop name="sraQueryString">SRR2171253</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">lamaMHOMBR71973M2269</prop>
+    <prop name="experimentName">Fernandes_LA_Infection</prop>
+    <prop name="sampleName">SRR2171254</prop>
+    <prop name="sraQueryString">SRR2171254</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">lamaMHOMBR71973M2269</prop>
+    <prop name="experimentName">Fernandes_LA_Infection</prop>
+    <prop name="sampleName">SRR2171255</prop>
+    <prop name="sraQueryString">SRR2171255</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">lamaMHOMBR71973M2269</prop>
+    <prop name="experimentName">Fernandes_LA_Infection</prop>
+    <prop name="sampleName">SRR2156274</prop>
+    <prop name="sraQueryString">SRR2156274</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">lamaMHOMBR71973M2269</prop>
+    <prop name="experimentName">Fernandes_LA_Infection</prop>
+    <prop name="sampleName">SRR2163242</prop>
+    <prop name="sraQueryString">SRR2163242</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">lamaMHOMBR71973M2269</prop>
+    <prop name="experimentName">Fernandes_LA_Infection</prop>
+    <prop name="sampleName">SRR2163283</prop>
+    <prop name="sraQueryString">SRR2163283</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">lamaMHOMBR71973M2269</prop>
+    <prop name="experimentName">Fernandes_LA_Infection</prop>
+    <prop name="sampleName">SRR2156271</prop>
+    <prop name="sraQueryString">SRR2156271</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">lamaMHOMBR71973M2269</prop>
+    <prop name="experimentName">Fernandes_LA_Infection</prop>
+    <prop name="sampleName">SRR2163237</prop>
+    <prop name="sraQueryString">SRR2163237</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">lamaMHOMBR71973M2269</prop>
+    <prop name="experimentName">Fernandes_LA_Infection</prop>
+    <prop name="sampleName">SRR2163279</prop>
+    <prop name="sraQueryString">SRR2163279</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">lamaMHOMBR71973M2269</prop>
+    <prop name="experimentName">Fernandes_LA_Infection</prop>
+    <prop name="sampleName">SRR2156856</prop>
+    <prop name="sraQueryString">SRR2156856</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">lamaMHOMBR71973M2269</prop>
+    <prop name="experimentName">Fernandes_LA_Infection</prop>
+    <prop name="sampleName">SRR2163272</prop>
+    <prop name="sraQueryString">SRR2163272</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">lamaMHOMBR71973M2269</prop>
+    <prop name="experimentName">Fernandes_LA_Infection</prop>
+    <prop name="sampleName">SRR2163289</prop>
+    <prop name="sraQueryString">SRR2163289</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">lamaMHOMBR71973M2269</prop>
+    <prop name="experimentName">Fernandes_LA_Infection</prop>
+    <prop name="sampleName">SRR2156860</prop>
+    <prop name="sraQueryString">SRR2156860</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">lamaMHOMBR71973M2269</prop>
+    <prop name="experimentName">Fernandes_LA_Infection</prop>
+    <prop name="sampleName">SRR2163276</prop>
+    <prop name="sraQueryString">SRR2163276</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">lamaMHOMBR71973M2269</prop>
+    <prop name="experimentName">Fernandes_LA_Infection</prop>
+    <prop name="sampleName">SRR2163399</prop>
+    <prop name="sraQueryString">SRR2163399</prop>
+  </dataset>
+
+</datasets>

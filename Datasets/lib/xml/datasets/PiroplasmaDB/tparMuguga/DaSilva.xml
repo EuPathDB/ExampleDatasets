@@ -1,0 +1,10 @@
+<datasets>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tparMuguga</prop>
+    <prop name="experimentName">DaSilva</prop>
+    <prop name="sampleName">SRR3001169</prop>
+    <prop name="sraQueryString">SRR3001169</prop>
+  </dataset>
+
+</datasets>

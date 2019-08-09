@@ -1,0 +1,115 @@
+<datasets>
+<!--The asymptomatic (f2, f5, f7, f12) and symptomatic sample names got swapped. -->
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">mory70-15</prop>
+    <prop name="experimentName">Islam_WheatBlast</prop>
+    <prop name="sampleName">asymptomatic_2_rep1</prop>
+    <prop name="sraQueryString">ERR1360186</prop>
+  </dataset>
+<!--The asymptomatic (f2, f5, f7, f12) and symptomatic sample names got swapped. -->
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">mory70-15</prop>
+    <prop name="experimentName">Islam_WheatBlast</prop>
+    <prop name="sampleName">asymptomatic_2_rep2</prop>
+    <prop name="sraQueryString">ERR1360187</prop>
+  </dataset>
+<!--The asymptomatic (f2, f5, f7, f12) and symptomatic sample names got swapped. -->
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">mory70-15</prop>
+    <prop name="experimentName">Islam_WheatBlast</prop>
+    <prop name="sampleName">asymptomatic_5_rep1</prop>
+    <prop name="sraQueryString">ERR1360188</prop>
+  </dataset>
+<!--The asymptomatic (f2, f5, f7, f12) and symptomatic sample names got swapped. -->
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">mory70-15</prop>
+    <prop name="experimentName">Islam_WheatBlast</prop>
+    <prop name="sampleName">asymptomatic_5_rep2</prop>
+    <prop name="sraQueryString">ERR1360189</prop>
+  </dataset>
+<!--The asymptomatic (f2, f5, f7, f12) and symptomatic sample names got swapped. -->
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">mory70-15</prop>
+    <prop name="experimentName">Islam_WheatBlast</prop>
+    <prop name="sampleName">asymptomatic_7_rep1</prop>
+    <prop name="sraQueryString">ERR1360190</prop>
+  </dataset>
+<!--The asymptomatic (f2, f5, f7, f12) and symptomatic sample names got swapped. -->
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">mory70-15</prop>
+    <prop name="experimentName">Islam_WheatBlast</prop>
+    <prop name="sampleName">asymptomatic_7_rep2</prop>
+    <prop name="sraQueryString">ERR1360191</prop>
+  </dataset>
+<!--The asymptomatic (f2, f5, f7, f12) and symptomatic sample names got swapped. -->
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">mory70-15</prop>
+    <prop name="experimentName">Islam_WheatBlast</prop>
+    <prop name="sampleName">asymptomatic_12_rep1</prop>
+    <prop name="sraQueryString">ERR1360192</prop>
+  </dataset>
+<!--The asymptomatic (f2, f5, f7, f12) and symptomatic sample names got swapped. -->
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">mory70-15</prop>
+    <prop name="experimentName">Islam_WheatBlast</prop>
+    <prop name="sampleName">asymptomatic_12_rep2</prop>
+    <prop name="sraQueryString">ERR1360193</prop>
+  </dataset>
+<!--The asymptomatic (f2, f5, f7, f12) and symptomatic sample names got swapped. -->
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">mory70-15</prop>
+    <prop name="experimentName">Islam_WheatBlast</prop>
+    <prop name="sampleName">symptomatic_f2_rep1</prop>
+    <prop name="sraQueryString">ERR1360178</prop>
+  </dataset>
+<!--The asymptomatic (f2, f5, f7, f12) and symptomatic sample names got swapped. -->
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">mory70-15</prop>
+    <prop name="experimentName">Islam_WheatBlast</prop>
+    <prop name="sampleName">symptomatic_f2_rep2</prop>
+    <prop name="sraQueryString">ERR1360179</prop>
+  </dataset>
+<!--The asymptomatic (f2, f5, f7, f12) and symptomatic sample names got swapped. -->
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">mory70-15</prop>
+    <prop name="experimentName">Islam_WheatBlast</prop>
+    <prop name="sampleName">symptomatic_f5_rep1</prop>
+    <prop name="sraQueryString">ERR1360180</prop>
+  </dataset>
+<!--The asymptomatic (f2, f5, f7, f12) and symptomatic sample names got swapped. -->
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">mory70-15</prop>
+    <prop name="experimentName">Islam_WheatBlast</prop>
+    <prop name="sampleName">symptomatic_f5_rep2</prop>
+    <prop name="sraQueryString">ERR1360181</prop>
+  </dataset>
+<!--The asymptomatic (f2, f5, f7, f12) and symptomatic sample names got swapped. -->
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">mory70-15</prop>
+    <prop name="experimentName">Islam_WheatBlast</prop>
+    <prop name="sampleName">symptomatic_f7_rep1</prop>
+    <prop name="sraQueryString">ERR1360182</prop>
+  </dataset>
+<!--The asymptomatic (f2, f5, f7, f12) and symptomatic sample names got swapped. -->
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">mory70-15</prop>
+    <prop name="experimentName">Islam_WheatBlast</prop>
+    <prop name="sampleName">symptomatic_f7_rep2</prop>
+    <prop name="sraQueryString">ERR1360183</prop>
+  </dataset>
+<!--The asymptomatic (f2, f5, f7, f12) and symptomatic sample names got swapped. -->
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">mory70-15</prop>
+    <prop name="experimentName">Islam_WheatBlast</prop>
+    <prop name="sampleName">symptomatic_f12_rep1</prop>
+    <prop name="sraQueryString">ERR1360184</prop>
+  </dataset>
+<!--The asymptomatic (f2, f5, f7, f12) and symptomatic sample names got swapped. -->
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">mory70-15</prop>
+    <prop name="experimentName">Islam_WheatBlast</prop>
+    <prop name="sampleName">symptomatic_f12_rep2</prop>
+    <prop name="sraQueryString">ERR1360185</prop>
+  </dataset>
+<!--The asymptomatic (f2, f5, f7, f12) and symptomatic sample names got swapped. -->
+</datasets>

@@ -1,0 +1,515 @@
+<datasets>
+ 
+
+<dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">FcHcl4</prop>
+   <prop name="sraQueryString">SRR3676321</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">FcHcl4</prop>
+ </dataset>
+ 
+<dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">FcHcl3</prop>
+   <prop name="sraQueryString">SRR3676320</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">FcHcl3</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">FcHcl2</prop>
+   <prop name="sraQueryString">SRR3676319</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">FcHcl2</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">FcHcl1</prop>
+   <prop name="sraQueryString">SRR3676318</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">FcHcl1</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">CGl14</prop>
+   <prop name="sraQueryString">SRR3676317</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">CGl14</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">CGl13</prop>
+   <prop name="sraQueryString">SRR3676316</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">CGl13</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">V3</prop>
+   <prop name="sraQueryString">SRR3676315</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">V3</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">V2</prop>
+   <prop name="sraQueryString">SRR3676314</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">V2</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">V1</prop>
+   <prop name="sraQueryString">SRR3676313</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">V1</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">H15</prop>
+   <prop name="sraQueryString">SRR3676312</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">H15</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">CGl12</prop>
+   <prop name="sraQueryString">SRR3676311</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">CGl12</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">H14</prop>
+   <prop name="sraQueryString">SRR3676310</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">H14</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">H12</prop>
+   <prop name="sraQueryString">SRR3676309</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">H12</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">H8</prop>
+   <prop name="sraQueryString">SRR3676285</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">H8</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">H7</prop>
+   <prop name="sraQueryString">SRR3676283</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">H7</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">H6</prop>
+   <prop name="sraQueryString">SRR3676282</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">H6</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">H5</prop>
+   <prop name="sraQueryString">SRR3676281</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">H5</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">H4</prop>
+   <prop name="sraQueryString">SRR3676280</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">H4</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">H3</prop>
+   <prop name="sraQueryString">SRR3676279</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">H3</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">H2</prop>
+   <prop name="sraQueryString">SRR3676278</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">H2</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">H1a</prop>
+   <prop name="sraQueryString">SRR3676277</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">H1a</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">CGl11</prop>
+   <prop name="sraQueryString">SRR3676276</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">CGl11</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">X12422-P1C3</prop>
+   <prop name="sraQueryString">SRR3676275</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">X12422-P1C3</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">X10462-P1C9</prop>
+   <prop name="sraQueryString">SRR3676274</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">X10462-P1C9</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">TD25</prop>
+   <prop name="sraQueryString">SRR3676273</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">TD25</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">TD23</prop>
+   <prop name="sraQueryString">SRR3676272</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">TD23</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">H1b</prop>
+   <prop name="sraQueryString">SRR3676271</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">H1b</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">TBM3519W1</prop>
+   <prop name="sraQueryString">SRR3676270</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">TBM3519W1</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">TBM3479B1</prop>
+   <prop name="sraQueryString">SRR3676269</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">TBM3479B1</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">TBM3406B1</prop>
+   <prop name="sraQueryString">SRR3676268</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">TBM3406B1</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">TBM3324</prop>
+   <prop name="sraQueryString">SRR3676267</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">TBM3324</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">FcHcl5</prop>
+   <prop name="sraQueryString">SRR3676266</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">FcHcl5</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">CGl10</prop>
+   <prop name="sraQueryString">SRR3676265</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">CGl10</prop>
+ </dataset>
+
+ <dataset class="SNPs_HTS_Sample_QuerySRA">
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="snpStrainAbbrev">Columbiana</prop>
+   <prop name="sraQueryString">SRR3676264</prop>
+ </dataset>
+
+ <dataset class="copyNumberVariationSamples">
+   <prop name="projectName">TriTrypDB</prop>
+   <prop name="organismAbbrev">tcruSylvioX10-1</prop>
+   <prop name="experimentName">Talavera-LopezAntigenicRepeats</prop>
+   <prop name="experimentVersion">2016-09-20</prop>
+   <prop name="sampleName">Columbiana</prop>
+ </dataset>
+
+</datasets>
+

@@ -1,0 +1,300 @@
+<datasets>
+  <constant name="organismAbbrev" value="cimmRS"/>
+  <constant name="strainAbbrev" value="RS"/>
+  <constant name="referenceStrainOrganismAbbrev" value="cimmRS"/>
+  <constant name="familyRepOrganismAbbrev" value="cimmRS"/>
+  <constant name="projectName" value="FungiDB"/>
+  <constant name="ncbiTaxonId" value="246410"/>
+  <constant name="speciesNcbiTaxonId" value="5501"/>
+  <constant name="familyNcbiTaxonIds" value="5500"/> <!-- use genus as familyNcbiTaxonIds here -->
+  <constant name="genomeVersion" value="2015-03-12"/>
+  <constant name="soTerm" value="supercontig"/>
+  <constant name="source" value="GenBank"/>
+  <constant name="idPrefix" value=""/>
+  <constant name="functAnnotVersion" value="2018-10-22"/>
+
+  <dataset class="validateOrganismInfo">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="strainAbbrev">$$strainAbbrev$$</prop>
+    <prop name="ncbiTaxonId">$$ncbiTaxonId$$</prop>
+    <prop name="speciesNcbiTaxonId">$$speciesNcbiTaxonId$$</prop>
+    <prop name="genomeVersion">$$genomeVersion$$</prop>
+  </dataset>
+
+  <dataset class="genbank_primary_genome">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="ncbiTaxonId">$$ncbiTaxonId$$</prop>
+    <prop name="version">$$genomeVersion$$</prop>
+    <prop name="name">$$source$$</prop>
+    <prop name="soTerm">$$soTerm$$</prop>
+    <prop name="mapFile">genbankWithAltSplByProduct2Gus.xml</prop>
+    <prop name="releaseDate">2015-03-12</prop>
+  </dataset>
+
+  <dataset class="genbank_organelle_genome">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="ncbiTaxonId">$$ncbiTaxonId$$</prop>
+    <prop name="version">$$genomeVersion$$</prop>
+    <prop name="name">$$source$$</prop>
+    <prop name="soTerm">mitochondrial_chromosome</prop>
+    <prop name="mapFile">genbankGenbank2Gus.xml</prop>
+    <prop name="organelle">mitochondrion</prop>
+  </dataset>
+
+  <dataset class="productNames">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="version">$$functAnnotVersion$$</prop>
+    <prop name="name">Sanger</prop>
+  </dataset>
+
+  <dataset class="EnzymeCommissionAssociations">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="version">$$functAnnotVersion$$</prop>
+    <prop name="name">Sanger</prop>
+  </dataset>
+
+  <dataset class="geneName">
+    <prop name="name">Sanger</prop>
+    <prop name="version">$$functAnnotVersion$$</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="genomeVersion">$$genomeVersion$$</prop>
+  </dataset>
+
+
+  <dataset class="dbxref_simple">
+    <prop name="name">pmid_from_annotation</prop>
+    <prop name="version">$$functAnnotVersion$$</prop>
+    <prop name="columnSpec">primary_identifier</prop>
+    <prop name="target">NAFeature</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="genomeVersion">$$genomeVersion$$</prop>
+    <prop name="url"><![CDATA[http://www.ncbi.nlm.nih.gov/pubmed/?term=EXTERNAL_ID_HERE]]></prop>
+    <prop name="urlUsesSecondaryId">false</prop>
+    <prop name="viewName">Transcript</prop>
+  </dataset>
+
+  <dataset class="comments">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="name">Sanger_transcript</prop>
+    <prop name="version">$$functAnnotVersion$$</prop>
+  </dataset>
+
+  <dataset class="dbxref_simple">
+    <prop name="name">refseq_from_annotation</prop>
+    <prop name="version">$$functAnnotVersion$$</prop>
+    <prop name="columnSpec">primary_identifier</prop>
+    <prop name="target">NAFeature</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="genomeVersion">$$genomeVersion$$</prop>
+    <prop name="url"><![CDATA[https://www.ncbi.nlm.nih.gov/gene/?term=EXTERNAL_ID_HERE]]></prop>
+    <prop name="urlUsesSecondaryId">false</prop>
+    <prop name="viewName">Transcript</prop>
+  </dataset>
+
+  <dataset class="dbxref_simple">
+    <prop name="name">merops_fam_from_annotation</prop>
+    <prop name="version">$$functAnnotVersion$$</prop>
+    <prop name="columnSpec">primary_identifier</prop>
+    <prop name="target">NAFeature</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="genomeVersion">$$genomeVersion$$</prop>
+    <prop name="url"><![CDATA[https://www.ebi.ac.uk/merops/cgi-bin/famsum?family=EXTERNAL_ID_HERE]]></prop>
+    <prop name="urlUsesSecondaryId">false</prop>
+    <prop name="viewName">Transcript</prop>
+  </dataset>
+
+  <dataset class="comments">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="name">GenBank_gene</prop>
+    <prop name="version">$$genomeVersion$$</prop>
+  </dataset>
+
+  <dataset class="aliases">
+    <prop name="name">PreviousGeneIDs</prop>
+    <prop name="version">$$genomeVersion$$</prop>
+    <prop name="idType">previous id</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="columnSpec">primary_identifier</prop>
+    <prop name="url"></prop>
+    <prop name="urlUsesSecondaryId"></prop>
+    <prop name="target">NAFeature</prop>
+    <prop name="viewName">GeneFeature</prop>
+  </dataset>
+
+  <dataset class="aliases">
+    <prop name="name">PreviousAltSplGeneIds</prop>
+    <prop name="version">2016-05-13</prop>
+    <prop name="idType">previous id</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="columnSpec">primary_identifier</prop>
+    <prop name="url"></prop>
+    <prop name="urlUsesSecondaryId"></prop>
+    <prop name="target">NAFeature</prop>
+    <prop name="viewName">GeneFeature</prop>
+  </dataset>
+
+  <dataset class="aliases">
+    <prop name="name">gbProteinId</prop>
+    <prop name="version">$$genomeVersion$$</prop>
+    <prop name="idType">alternate id</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="columnSpec">primary_identifier</prop>
+    <prop name="url"><![CDATA[http://www.ncbi.nlm.nih.gov/protein/EXTERNAL_ID_HERE]]></prop>
+    <prop name="urlUsesSecondaryId"></prop>
+    <prop name="target">NAFeature</prop>
+    <prop name="viewName">GeneFeature</prop>
+  </dataset>
+
+  <dataset class="aliases">
+    <prop name="name">PreviousSequenceIDs</prop>
+    <prop name="version">2015-03-12</prop>
+    <prop name="idType">previous id</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="columnSpec">primary_identifier</prop>
+    <prop name="url"></prop>
+    <prop name="urlUsesSecondaryId"></prop>
+    <prop name="target">NASequence</prop>
+    <prop name="viewName">ExternalNASequence</prop>
+    <prop name="viewName">ExternalNASequence</prop>
+  </dataset>
+
+
+  <dataset class="rnaSeqExperiment">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="name">Taylor_SaprobicParasitic</prop>
+    <prop name="version">2012-06-25_gus4</prop>
+    <prop name="limitNU">30</prop>
+    <prop name="isStrandSpecific">false</prop>
+    <prop name="hasPairedEnds">false</prop>
+    <prop name="alignWithCdsCoordinates">false</prop>
+  </dataset>
+
+  <dataset class="dbxref_gene2Entrez">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="ncbiTaxonId">$$ncbiTaxonId$$</prop>
+    <prop name="genomeVersion">$$genomeVersion$$</prop>
+    <prop name="version">2016-05-05</prop>
+  </dataset>
+
+  <dataset class="dbxref_gene2Uniprot">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="ncbiTaxonId">$$ncbiTaxonId$$</prop>
+    <prop name="genomeVersion">$$genomeVersion$$</prop>
+    <prop name="version">2016-05-05</prop>
+  </dataset>
+
+  <dataset class="dbxref_gene2PubmedFromNcbi">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="ncbiTaxonId">$$ncbiTaxonId$$</prop>
+    <prop name="genomeVersion">$$genomeVersion$$</prop>
+    <prop name="version">2016-05-05</prop>
+  </dataset>
+
+  <dataset class="ECAssocFromUniprot">
+    <prop name="speciesNcbiTaxonId">$$speciesNcbiTaxonId$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="version">TODAY</prop>
+  </dataset> 
+
+  <dataset class="referenceStrain-dbEST">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="speciesNcbiTaxonId">$$speciesNcbiTaxonId$$</prop>
+  </dataset>
+
+  <dataset class="transcriptsFromReferenceStrain">
+    <prop name="referenceStrainOrganismAbbrev">$$referenceStrainOrganismAbbrev$$</prop>
+  </dataset>
+
+  <dataset class="referenceStrain-epitope_sequences_IEDB">
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="speciesNcbiTaxonId">$$speciesNcbiTaxonId$$</prop>
+    <prop name="version">2.4</prop>
+  </dataset>
+
+  <dataset class="epitopesFromReferenceStrain">
+    <prop name="referenceStrainOrganismAbbrev">$$referenceStrainOrganismAbbrev$$</prop>
+  </dataset>
+
+  <dataset class="isolatesFromFamilyRepresentative">
+    <prop name="name">genbank</prop>
+    <prop name="familyRepOrganismAbbrev">$$familyRepOrganismAbbrev$$</prop>
+  </dataset>
+
+  <dataset class="familyRepresentative-isolatesGenbank">
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="ncbiTaxonId">$$familyNcbiTaxonIds$$</prop>
+  </dataset>
+
+  <dataset class="dbxref_simple">
+    <prop name="name">PHI-base_linkouts</prop>
+    <prop name="version">2017-06-14</prop>
+    <prop name="columnSpec">primary_identifier</prop>
+    <prop name="target">NAFeature</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="genomeVersion">$$genomeVersion$$</prop>
+    <prop name="url"><![CDATA[http://www.phi-base.org/searchFacet.htm?queryTerm=EXTERNAL_ID_HERE]]></prop>
+    <prop name="urlUsesSecondaryId">false</prop>
+    <prop name="viewName">GeneFeature</prop>
+  </dataset>
+
+  <dataset class="GFF">
+    <prop name="name">Kirkland_TE</prop>
+    <prop name="version">2018-01-19</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="genomeVersion">$$genomeVersion$$</prop>
+    <prop name="gffFormat">2</prop>
+  </dataset>
+
+
+  <dataset class="microarrayPlatform">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="name">GPL16610</prop>
+    <prop name="version">2013-07-11</prop>
+    <prop name="isAffymetrixGeneArray">false</prop>
+    <prop name="isNimbleGenGeneArray">true</prop>
+    <prop name="vendorMappingFileName">100722_CIRS_TK_EXP.ndf</prop>
+    <prop name="probeRows">NA</prop>
+    <prop name="probeCols">NA</prop>
+    <prop name="limitNU">30</prop>
+    <prop name="numInsertions">1</prop>
+    <prop name="variableLengthReads">true</prop>
+  </dataset>
+
+  <dataset class="microarrayExpressionExperiment">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="experimentName">Viriyakosol_Mycelia_Differentiation</prop>
+    <prop name="experimentVersion">2013-07-11</prop>
+    <prop name="microarrayPlatformName">GPL16610</prop>
+    <prop name="microarrayPlatformVersion">2013-07-11</prop>
+    <prop name="doExpressionAnalysis">false</prop>
+    <prop name="usesAffymetrixGeneArray">false</prop>
+    <prop name="usesNimbleGenGeneArray">true</prop>
+ </dataset>
+
+
+</datasets>
+

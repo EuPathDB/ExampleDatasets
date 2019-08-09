@@ -1,0 +1,33 @@
+<datasets>
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pknoH</prop>
+    <prop name="experimentName">Fraschka_Pk_HP1</prop>
+    <prop name="sampleName">Pk_A1-C-1_schizont_HP1</prop>
+    <prop name="inputName">Pk_A1-C-1_schizont_Input</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pknoH</prop>
+    <prop name="experimentName">Fraschka_Pk_HP1</prop>
+    <prop name="sampleName">Pk_A1-H-1_schizont_HP1</prop>
+    <prop name="inputName">Pk_A1-H-1_schizont_Input</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pknoH</prop>
+    <prop name="experimentName">Fraschka_Pk_HP1</prop>
+    <prop name="sampleName">Pk_A1-C-1_schizont_Input</prop>
+    <prop name="inputName">Pk_A1-C-1_schizont_Input</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pknoH</prop>
+    <prop name="experimentName">Fraschka_Pk_HP1</prop>
+    <prop name="sampleName">Pk_A1-H-1_schizont_Input</prop>
+    <prop name="inputName">Pk_A1-H-1_schizont_Input</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+</datasets>

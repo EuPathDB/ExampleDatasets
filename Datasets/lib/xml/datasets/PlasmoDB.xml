@@ -1,0 +1,1557 @@
+<datasets>
+  <constant name="projectName" value="PlasmoDB"/>
+  <constant name="genbankIsolateMapperVersion" value="2015-11"/>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pvivPvl01</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000174</prop>
+    <prop name="publicOrganismAbbrev">pvivPvl01</prop>
+    <prop name="organismFullName">Plasmodium vivax-like Pvl01</prop>
+    <prop name="organismNameForFiles">Pvivax-likePvl01</prop>
+    <prop name="speciesNcbiTaxonId">27990</prop>
+    <prop name="isReferenceStrain">true</prop>
+    <prop name="referenceStrainOrganismAbbrev">pvivPvl01</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">pvlk</prop>
+    <prop name="strainAbbrev">Pvl01</prop>
+    <prop name="genomeSource">Sanger</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="genomeVersion">2018-06-21</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="referenceStrain">
+    <prop name="organismAbbrev">pvivPvl01</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">ppraG01</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000141</prop>
+    <prop name="publicOrganismAbbrev">ppraG01</prop>
+    <prop name="organismFullName">Plasmodium praefalciparum strain G01</prop>
+    <prop name="organismNameForFiles">PpraefalciparumG01</prop>
+    <prop name="speciesNcbiTaxonId">880534</prop>
+    <prop name="isReferenceStrain">true</prop>
+    <prop name="referenceStrainOrganismAbbrev">ppraG01</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">ppra</prop>
+    <prop name="strainAbbrev">G01</prop>
+    <prop name="genomeSource">Sanger</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="genomeVersion">2017-11-29</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="referenceStrain">
+    <prop name="organismAbbrev">ppraG01</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pblaG01</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000139</prop>
+    <prop name="publicOrganismAbbrev">pblaG01</prop>
+    <prop name="organismFullName">Plasmodium blacklocki G01</prop>
+    <prop name="organismNameForFiles">PblacklockiG01</prop>
+    <prop name="speciesNcbiTaxonId">880536</prop>
+    <prop name="isReferenceStrain">true</prop>
+    <prop name="referenceStrainOrganismAbbrev">pblaG01</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">pblg</prop>
+    <prop name="strainAbbrev">G01</prop>
+    <prop name="genomeSource">Sanger</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="genomeVersion">2017-11-29</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="referenceStrain">
+    <prop name="organismAbbrev">pblaG01</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pbilG01</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000137</prop>
+    <prop name="publicOrganismAbbrev">pbilG01</prop>
+    <prop name="organismFullName">Plasmodium billcollinsi G01</prop>
+    <prop name="organismNameForFiles">PbillcollinsiG01</prop>
+    <prop name="speciesNcbiTaxonId">720590</prop>
+    <prop name="isReferenceStrain">true</prop>
+    <prop name="referenceStrainOrganismAbbrev">pbilG01</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">pbil</prop>
+    <prop name="strainAbbrev">G01</prop>
+    <prop name="genomeSource">Sanger</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="genomeVersion">2017-11-29</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="referenceStrain">
+    <prop name="organismAbbrev">pbilG01</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">padlG01</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000136</prop>
+    <prop name="publicOrganismAbbrev">padlG01</prop>
+    <prop name="organismFullName">Plasmodium adleri G01</prop>
+    <prop name="organismNameForFiles">PadleriG01</prop>
+    <prop name="speciesNcbiTaxonId">880535</prop>
+    <prop name="isReferenceStrain">true</prop>
+    <prop name="referenceStrainOrganismAbbrev">padlG01</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">padl</prop>
+    <prop name="strainAbbrev">G01</prop>
+    <prop name="genomeSource">Sanger</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="genomeVersion">2017-11-29</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="referenceStrain">
+    <prop name="organismAbbrev">padlG01</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">prelSGS1-like</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000134</prop>
+    <prop name="publicOrganismAbbrev">prelSGS1-like</prop>
+    <prop name="organismFullName">Plasmodium relictum SGS1-like</prop>
+    <prop name="organismNameForFiles">PrelictumSGS1-like</prop>
+    <prop name="speciesNcbiTaxonId">85471</prop>
+    <prop name="isReferenceStrain">true</prop>
+    <prop name="referenceStrainOrganismAbbrev">prelSGS1-like</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">prel</prop>
+    <prop name="strainAbbrev">SGS1-like</prop>
+    <prop name="genomeSource">GeneDB</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="genomeVersion">2017-01-09</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="referenceStrain">
+    <prop name="organismAbbrev">prelSGS1-like</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pgabSY75</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000133</prop>
+    <prop name="publicOrganismAbbrev">pgabSY75</prop>
+    <prop name="organismFullName">Plasmodium gaboni strain SY75</prop>
+    <prop name="organismNameForFiles">PgaboniSY75</prop>
+    <prop name="speciesNcbiTaxonId">647221</prop>
+    <prop name="isReferenceStrain">true</prop>
+    <prop name="referenceStrainOrganismAbbrev">pgabSY75</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">pgas</prop>
+    <prop name="strainAbbrev">SY75</prop>
+    <prop name="genomeSource">GenBank</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="genomeVersion">2016-06-16</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="referenceStrain">
+    <prop name="organismAbbrev">pgabSY75</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pgabG01</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000140</prop>
+    <prop name="publicOrganismAbbrev">pgabG01</prop>
+    <prop name="organismFullName">Plasmodium gaboni strain G01</prop>
+    <prop name="organismNameForFiles">PgaboniG01</prop>
+    <prop name="speciesNcbiTaxonId">647221</prop>
+    <prop name="isReferenceStrain">false</prop>
+    <prop name="referenceStrainOrganismAbbrev">pgabSY75</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">pgab</prop>
+    <prop name="strainAbbrev">G01</prop>
+    <prop name="genomeSource">Sanger</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="genomeVersion">2017-11-29</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">povaGH01</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000039</prop>
+    <prop name="publicOrganismAbbrev">povaGH01</prop>
+    <prop name="organismFullName">Plasmodium ovale curtisi GH01</prop>
+    <prop name="organismNameForFiles">PovalecurtisiGH01</prop>
+    <prop name="speciesNcbiTaxonId">864141</prop>
+    <prop name="isReferenceStrain">true</prop>
+    <prop name="referenceStrainOrganismAbbrev">povaGH01</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">pova</prop>
+    <prop name="strainAbbrev">GH01</prop>
+    <prop name="genomeSource">GeneDB</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="genomeVersion">2017-03-06</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="referenceStrain">
+    <prop name="organismAbbrev">povaGH01</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pmalUG01</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000038</prop>
+    <prop name="publicOrganismAbbrev">pmalUG01</prop>
+    <prop name="organismFullName">Plasmodium malariae UG01</prop>
+    <prop name="organismNameForFiles">PmalariaeUG01</prop>
+    <prop name="speciesNcbiTaxonId">5858</prop>
+    <prop name="isReferenceStrain">true</prop>
+    <prop name="referenceStrainOrganismAbbrev">pmalUG01</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">pmal</prop>
+    <prop name="strainAbbrev">UG01</prop>
+    <prop name="genomeSource">GeneDB</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="genomeVersion">2016-09-19</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="referenceStrain">
+    <prop name="organismAbbrev">pmalUG01</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pvinvinckeivinckei</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000130</prop>
+    <prop name="publicOrganismAbbrev">pvinvinckeivinckei</prop>
+    <prop name="organismFullName">Plasmodium vinckei vinckei strain vinckei</prop>
+    <prop name="organismNameForFiles">Pvinckeivinckeivinckei</prop>
+    <prop name="speciesNcbiTaxonId">5860</prop>
+    <prop name="isReferenceStrain">true</prop>
+    <prop name="referenceStrainOrganismAbbrev">pvinvinckeivinckei</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">pvin</prop>
+    <prop name="strainAbbrev">vinckeivinckei</prop>
+    <prop name="genomeSource">GenBank</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="genomeVersion">2014-06-17</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="referenceStrain">
+    <prop name="organismAbbrev">pvinvinckeivinckei</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pvinpetteriCR</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000131</prop>
+    <prop name="publicOrganismAbbrev">pvinpetteriCR</prop>
+    <prop name="organismFullName">Plasmodium vinckei petteri strain CR</prop>
+    <prop name="organismNameForFiles">PvinckeipetteriCR</prop>
+    <prop name="speciesNcbiTaxonId">5860</prop>
+    <prop name="isReferenceStrain">false</prop>
+    <prop name="referenceStrainOrganismAbbrev">pvinvinckeivinckei</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">pvpc</prop>
+    <prop name="strainAbbrev">petteriCR</prop>
+    <prop name="genomeSource">GenBank</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="genomeVersion">2014-01-31</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pinuSanAntonio1</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">1237626</prop>
+    <prop name="publicOrganismAbbrev">pinuSanAntonio1</prop>
+    <prop name="organismFullName">Plasmodium inui San Antonio 1</prop>
+    <prop name="organismNameForFiles">PinuiSanAntonio1</prop>
+    <prop name="speciesNcbiTaxonId">52288</prop>
+    <prop name="isReferenceStrain">true</prop>
+    <prop name="referenceStrainOrganismAbbrev">pinuSanAntonio1</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">false</prop>
+    <prop name="orthomclAbbrev">pinu</prop>
+    <prop name="strainAbbrev">SanAntonio1</prop>
+    <prop name="genomeSource">GenBank</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="genomeVersion">2014-01-31</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="referenceStrain">
+    <prop name="organismAbbrev">pinuSanAntonio1</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pfraNilgiri</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000037</prop>
+    <prop name="publicOrganismAbbrev">pfraNilgiri</prop>
+    <prop name="organismFullName">Plasmodium fragile strain nilgiri</prop>
+    <prop name="organismNameForFiles">PfragileNilgiri</prop>
+    <prop name="speciesNcbiTaxonId">5857</prop>
+    <prop name="isReferenceStrain">true</prop>
+    <prop name="referenceStrainOrganismAbbrev">pfraNilgiri</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">pfra</prop>
+    <prop name="strainAbbrev">Nilgiri</prop>
+    <prop name="genomeSource">GenBank</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="genomeVersion">2016-07-26</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="referenceStrain">
+    <prop name="organismAbbrev">pfraNilgiri</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pcoaHackeri</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000035</prop>
+    <prop name="publicOrganismAbbrev">pcoaHackeri</prop>
+    <prop name="organismFullName">Plasmodium coatneyi Hackeri</prop>
+    <prop name="organismNameForFiles">PcoatneyiHackeri</prop>
+    <prop name="speciesNcbiTaxonId">208452</prop>
+    <prop name="isReferenceStrain">true</prop>
+    <prop name="referenceStrainOrganismAbbrev">pcoaHackeri</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">pcoa</prop>
+    <prop name="strainAbbrev">Hackeri</prop>
+    <prop name="genomeSource">GenBank</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="genomeVersion">2016-09-16</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="referenceStrain">
+    <prop name="organismAbbrev">pcoaHackeri</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">1274352</prop>
+    <prop name="publicOrganismAbbrev">pcynM</prop>
+    <prop name="organismFullName">Plasmodium cynomolgi strain M</prop>
+    <prop name="organismNameForFiles">PcynomolgiM</prop>
+    <prop name="speciesNcbiTaxonId">5827</prop>
+    <prop name="isReferenceStrain">true</prop>
+    <prop name="referenceStrainOrganismAbbrev">pcynM</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">false</prop>
+    <prop name="orthomclAbbrev">pcym</prop>
+    <prop name="strainAbbrev">M</prop>
+    <prop name="genomeSource">Sanger</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="genomeVersion">2017-10-23</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="referenceStrain">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pcynB</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">1120755</prop>
+    <prop name="publicOrganismAbbrev">pcynB</prop>
+    <prop name="organismFullName">Plasmodium cynomolgi strain B</prop>
+    <prop name="organismNameForFiles">PcynomolgiB</prop>
+    <prop name="speciesNcbiTaxonId">5827</prop>
+    <prop name="isReferenceStrain">false</prop>
+    <prop name="referenceStrainOrganismAbbrev">pcynM</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">false</prop>
+    <prop name="orthomclAbbrev">pcyn</prop>
+    <prop name="strainAbbrev">B</prop>
+    <prop name="genomeSource">gb</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="genomeVersion">2012-09-19</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pyoeyoelii17X</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000033</prop>
+    <prop name="publicOrganismAbbrev">pyoeyoelii17X</prop>
+    <prop name="organismFullName">Plasmodium yoelii yoelii 17X</prop>
+    <prop name="organismNameForFiles">Pyoeliiyoelii17X</prop>
+    <prop name="speciesNcbiTaxonId">5861</prop>
+    <prop name="isReferenceStrain">true</prop>
+    <prop name="referenceStrainOrganismAbbrev">pyoeyoelii17X</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">pyoe</prop>
+    <prop name="strainAbbrev">yoelii17X</prop>
+    <prop name="genomeSource">GeneDB</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="genomeVersion">2016-10-27</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="referenceStrain">
+    <prop name="organismAbbrev">pyoeyoelii17X</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pyoeyoelii17XNL</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">352914</prop>
+    <prop name="publicOrganismAbbrev">pyoeyoelii17XNL</prop>
+    <prop name="organismFullName">Plasmodium yoelii yoelii 17XNL</prop>
+    <prop name="organismNameForFiles">Pyoeliiyoelii17XNL</prop>
+    <prop name="speciesNcbiTaxonId">5861</prop>
+    <prop name="isReferenceStrain">false</prop>
+    <prop name="referenceStrainOrganismAbbrev">pyoeyoelii17X</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">false</prop>
+    <prop name="orthomclAbbrev">pyxn</prop>
+    <prop name="strainAbbrev">yoelii17XNL</prop>
+    <prop name="genomeSource">GenBank</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="genomeVersion">2005-09-01</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pyoeyoeliiYM</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000006</prop>
+    <prop name="publicOrganismAbbrev">pyoeyoeliiYM</prop>
+    <prop name="organismFullName">Plasmodium yoelii yoelii YM</prop>
+    <prop name="organismNameForFiles">PyoeliiyoeliiYM</prop>
+    <prop name="speciesNcbiTaxonId">5861</prop>
+    <prop name="isReferenceStrain">false</prop>
+    <prop name="referenceStrainOrganismAbbrev">pyoeyoelii17X</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">pyoy</prop>
+    <prop name="strainAbbrev">yoeliiYM</prop>
+    <prop name="genomeSource">GeneDB</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="genomeVersion">2015-06-18</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000036</prop>
+    <prop name="publicOrganismAbbrev">pvivP01</prop>
+    <prop name="organismFullName">Plasmodium vivax P01</prop>
+    <prop name="organismNameForFiles">PvivaxP01</prop>
+    <prop name="speciesNcbiTaxonId">5855</prop>
+    <prop name="isReferenceStrain">true</prop>
+    <prop name="referenceStrainOrganismAbbrev">pvivP01</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">pvip</prop>
+    <prop name="strainAbbrev">P01</prop>
+    <prop name="genomeSource">GeneDB</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="genomeVersion">2018-02-28</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="referenceStrain">
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pvivSal1</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">126793</prop>
+    <prop name="publicOrganismAbbrev">pvivSal1</prop>
+    <prop name="organismFullName">Plasmodium vivax Sal-1</prop>
+    <prop name="organismNameForFiles">PvivaxSal1</prop>
+    <prop name="speciesNcbiTaxonId">5855</prop>
+    <prop name="isReferenceStrain">false</prop>
+    <prop name="referenceStrainOrganismAbbrev">pvivP01</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">false</prop>
+    <prop name="orthomclAbbrev">pviv</prop>
+    <prop name="strainAbbrev">Sal1</prop>
+    <prop name="genomeSource">GeneDB</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="genomeVersion">2015-06-18</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">preiCDC</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000034</prop>
+    <prop name="publicOrganismAbbrev">preiCDC</prop>
+    <prop name="organismFullName">Plasmodium reichenowi CDC</prop>
+    <prop name="organismNameForFiles">PreichenowiCDC</prop>
+    <prop name="speciesNcbiTaxonId">5854</prop>
+    <prop name="isReferenceStrain">true</prop>
+    <prop name="referenceStrainOrganismAbbrev">preiCDC</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">prei</prop>
+    <prop name="strainAbbrev">CDC</prop>
+    <prop name="genomeSource">GeneDB</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="genomeVersion">2015-06-18</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="referenceStrain">
+    <prop name="organismAbbrev">preiCDC</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">preiG01</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000138</prop>
+    <prop name="publicOrganismAbbrev">preiG01</prop>
+    <prop name="organismFullName">Plasmodium reichenowi G01</prop>
+    <prop name="organismNameForFiles">PreichenowiG01</prop>
+    <prop name="speciesNcbiTaxonId">5854</prop>
+    <prop name="isReferenceStrain">false</prop>
+    <prop name="referenceStrainOrganismAbbrev">preiCDC</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">preg</prop>
+    <prop name="strainAbbrev">G01</prop>
+    <prop name="genomeSource">Sanger</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="genomeVersion">2017-11-29</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pgal8A</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000032</prop>
+    <prop name="publicOrganismAbbrev">pgal8A</prop>
+    <prop name="organismFullName">Plasmodium gallinaceum 8A</prop>
+    <prop name="organismNameForFiles">Pgallinaceum8A</prop>
+    <prop name="speciesNcbiTaxonId">5849</prop>
+    <prop name="isReferenceStrain">true</prop>
+    <prop name="referenceStrainOrganismAbbrev">pgal8A</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">pgal</prop>
+    <prop name="strainAbbrev">8A</prop>
+    <prop name="genomeSource">GeneDB</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="genomeVersion">2017-01-09</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="referenceStrain">
+    <prop name="organismAbbrev">pgal8A</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">36329</prop>
+    <prop name="publicOrganismAbbrev">pfal3D7</prop>
+    <prop name="organismFullName">Plasmodium falciparum 3D7</prop>
+    <prop name="organismNameForFiles">Pfalciparum3D7</prop>
+    <prop name="speciesNcbiTaxonId">5833</prop>
+    <prop name="isReferenceStrain">true</prop>
+    <prop name="referenceStrainOrganismAbbrev">pfal3D7</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">false</prop>
+    <prop name="orthomclAbbrev">pfal</prop>
+    <prop name="strainAbbrev">3D7</prop>
+    <prop name="genomeSource">GeneDB</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="genomeVersion">2015-06-18</prop>
+    <prop name="isFamilyRepresentative">true</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds">5820</prop>
+    <prop name="familyNameForFiles">Plasmodium</prop>
+  </dataset>
+
+  <dataset class="referenceStrain">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pfalIT</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000005</prop>
+    <prop name="publicOrganismAbbrev">pfalIT</prop>
+    <prop name="organismFullName">Plasmodium falciparum IT</prop>
+    <prop name="organismNameForFiles">PfalciparumIT</prop>
+    <prop name="speciesNcbiTaxonId">5833</prop>
+    <prop name="isReferenceStrain">false</prop>
+    <prop name="referenceStrainOrganismAbbrev">pfal3D7</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">pfai</prop>
+    <prop name="strainAbbrev">IT</prop>
+    <prop name="genomeSource">Sanger</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="genomeVersion">2018-04-20</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pfal7G8</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">57266</prop>
+    <prop name="publicOrganismAbbrev">pfal7G8</prop>
+    <prop name="organismFullName">Plasmodium falciparum 7G8</prop>
+    <prop name="organismNameForFiles">Pfalciparum7G8</prop>
+    <prop name="speciesNcbiTaxonId">5833</prop>
+    <prop name="isReferenceStrain">false</prop>
+    <prop name="referenceStrainOrganismAbbrev">pfal3D7</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">false</prop>
+    <prop name="orthomclAbbrev">pfag</prop>
+    <prop name="strainAbbrev">7G8</prop>
+    <prop name="genomeSource">Sanger</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="genomeVersion">2018-04-20</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pfalCD01</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000142</prop>
+    <prop name="publicOrganismAbbrev">pfalCD01</prop>
+    <prop name="organismFullName">Plasmodium falciparum CD01</prop>
+    <prop name="organismNameForFiles">PfalciparumCD01</prop>
+    <prop name="speciesNcbiTaxonId">5833</prop>
+    <prop name="isReferenceStrain">false</prop>
+    <prop name="referenceStrainOrganismAbbrev">pfal3D7</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">pfac</prop>
+    <prop name="strainAbbrev">CD01</prop>
+    <prop name="genomeSource">Sanger</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="genomeVersion">2018-04-20</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pfalDd2</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">57267</prop>
+    <prop name="publicOrganismAbbrev">pfalDd2</prop>
+    <prop name="organismFullName">Plasmodium falciparum Dd2</prop>
+    <prop name="organismNameForFiles">PfalciparumDd2</prop>
+    <prop name="speciesNcbiTaxonId">5833</prop>
+    <prop name="isReferenceStrain">false</prop>
+    <prop name="referenceStrainOrganismAbbrev">pfal3D7</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">false</prop>
+    <prop name="orthomclAbbrev">pfad</prop>
+    <prop name="strainAbbrev">Dd2</prop>
+    <prop name="genomeSource">Sanger</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="genomeVersion">2018-04-20</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pfalGA01</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000143</prop>
+    <prop name="publicOrganismAbbrev">pfalGA01</prop>
+    <prop name="organismFullName">Plasmodium falciparum GA01</prop>
+    <prop name="organismNameForFiles">PfalciparumGA01</prop>
+    <prop name="speciesNcbiTaxonId">5833</prop>
+    <prop name="isReferenceStrain">false</prop>
+    <prop name="referenceStrainOrganismAbbrev">pfal3D7</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">pfga</prop>
+    <prop name="strainAbbrev">GA01</prop>
+    <prop name="genomeSource">Sanger</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="genomeVersion">2018-04-20</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pfalGB4</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000144</prop>
+    <prop name="publicOrganismAbbrev">pfalGB4</prop>
+    <prop name="organismFullName">Plasmodium falciparum GB4</prop>
+    <prop name="organismNameForFiles">PfalciparumGB4</prop>
+    <prop name="speciesNcbiTaxonId">5833</prop>
+    <prop name="isReferenceStrain">false</prop>
+    <prop name="referenceStrainOrganismAbbrev">pfal3D7</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">pfgb</prop>
+    <prop name="strainAbbrev">GB4</prop>
+    <prop name="genomeSource">Sanger</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="genomeVersion">2018-04-20</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pfalGN01</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000145</prop>
+    <prop name="publicOrganismAbbrev">pfalGN01</prop>
+    <prop name="organismFullName">Plasmodium falciparum GN01</prop>
+    <prop name="organismNameForFiles">PfalciparumGN01</prop>
+    <prop name="speciesNcbiTaxonId">5833</prop>
+    <prop name="isReferenceStrain">false</prop>
+    <prop name="referenceStrainOrganismAbbrev">pfal3D7</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">pfgn</prop>
+    <prop name="strainAbbrev">GN01</prop>
+    <prop name="genomeSource">Sanger</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="genomeVersion">2018-04-20</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pfalHB3</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">137071</prop>
+    <prop name="publicOrganismAbbrev">pfalHB3</prop>
+    <prop name="organismFullName">Plasmodium falciparum HB3</prop>
+    <prop name="organismNameForFiles">PfalciparumHB3</prop>
+    <prop name="speciesNcbiTaxonId">5833</prop>
+    <prop name="isReferenceStrain">false</prop>
+    <prop name="referenceStrainOrganismAbbrev">pfal3D7</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">false</prop>
+    <prop name="orthomclAbbrev">pfhb</prop>
+    <prop name="strainAbbrev">HB3</prop>
+    <prop name="genomeSource">Sanger</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="genomeVersion">2018-04-20</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pfalKE01</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000146</prop>
+    <prop name="publicOrganismAbbrev">pfalKE01</prop>
+    <prop name="organismFullName">Plasmodium falciparum KE01</prop>
+    <prop name="organismNameForFiles">PfalciparumKE01</prop>
+    <prop name="speciesNcbiTaxonId">5833</prop>
+    <prop name="isReferenceStrain">false</prop>
+    <prop name="referenceStrainOrganismAbbrev">pfal3D7</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">pfke</prop>
+    <prop name="strainAbbrev">KE01</prop>
+    <prop name="genomeSource">Sanger</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="genomeVersion">2018-04-20</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pfalKH01</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000147</prop>
+    <prop name="publicOrganismAbbrev">pfalKH01</prop>
+    <prop name="organismFullName">Plasmodium falciparum KH01</prop>
+    <prop name="organismNameForFiles">PfalciparumKH01</prop>
+    <prop name="speciesNcbiTaxonId">5833</prop>
+    <prop name="isReferenceStrain">false</prop>
+    <prop name="referenceStrainOrganismAbbrev">pfal3D7</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">pfkh</prop>
+    <prop name="strainAbbrev">KH01</prop>
+    <prop name="genomeSource">Sanger</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="genomeVersion">2018-04-20</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pfalKH02</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000148</prop>
+    <prop name="publicOrganismAbbrev">pfalKH02</prop>
+    <prop name="organismFullName">Plasmodium falciparum KH02</prop>
+    <prop name="organismNameForFiles">PfalciparumKH02</prop>
+    <prop name="speciesNcbiTaxonId">5833</prop>
+    <prop name="isReferenceStrain">false</prop>
+    <prop name="referenceStrainOrganismAbbrev">pfal3D7</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">pfkt</prop>
+    <prop name="strainAbbrev">KH02</prop>
+    <prop name="genomeSource">Sanger</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="genomeVersion">2018-04-20</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pfalML01</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000149</prop>
+    <prop name="publicOrganismAbbrev">pfalML01</prop>
+    <prop name="organismFullName">Plasmodium falciparum ML01</prop>
+    <prop name="organismNameForFiles">PfalciparumML01</prop>
+    <prop name="speciesNcbiTaxonId">5833</prop>
+    <prop name="isReferenceStrain">false</prop>
+    <prop name="referenceStrainOrganismAbbrev">pfal3D7</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">pfml</prop>
+    <prop name="strainAbbrev">ML01</prop>
+    <prop name="genomeSource">Sanger</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="genomeVersion">2018-04-20</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pfalSD01</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000170</prop>
+    <prop name="publicOrganismAbbrev">pfalSD01</prop>
+    <prop name="organismFullName">Plasmodium falciparum SD01</prop>
+    <prop name="organismNameForFiles">PfalciparumSD01</prop>
+    <prop name="speciesNcbiTaxonId">5833</prop>
+    <prop name="isReferenceStrain">false</prop>
+    <prop name="referenceStrainOrganismAbbrev">pfal3D7</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">pfsd</prop>
+    <prop name="strainAbbrev">SD01</prop>
+    <prop name="genomeSource">Sanger</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="genomeVersion">2018-04-20</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pfalSN01</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000171</prop>
+    <prop name="publicOrganismAbbrev">pfalSN01</prop>
+    <prop name="organismFullName">Plasmodium falciparum SN01</prop>
+    <prop name="organismNameForFiles">PfalciparumSN01</prop>
+    <prop name="speciesNcbiTaxonId">5833</prop>
+    <prop name="isReferenceStrain">false</prop>
+    <prop name="referenceStrainOrganismAbbrev">pfal3D7</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">pfsn</prop>
+    <prop name="strainAbbrev">SN01</prop>
+    <prop name="genomeSource">Sanger</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="genomeVersion">2018-04-20</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pfalTG01</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000172</prop>
+    <prop name="publicOrganismAbbrev">pfalTG01</prop>
+    <prop name="organismFullName">Plasmodium falciparum TG01</prop>
+    <prop name="organismNameForFiles">PfalciparumTG01</prop>
+    <prop name="speciesNcbiTaxonId">5833</prop>
+    <prop name="isReferenceStrain">false</prop>
+    <prop name="referenceStrainOrganismAbbrev">pfal3D7</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">pftg</prop>
+    <prop name="strainAbbrev">TG01</prop>
+    <prop name="genomeSource">Sanger</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="genomeVersion">2018-04-20</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pknoH</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">5851</prop>
+    <prop name="publicOrganismAbbrev">pknoH</prop>
+    <prop name="organismFullName">Plasmodium knowlesi strain H</prop>
+    <prop name="organismNameForFiles">PknowlesiH</prop>
+    <prop name="speciesNcbiTaxonId">5850</prop>
+    <prop name="isReferenceStrain">true</prop>
+    <prop name="referenceStrainOrganismAbbrev">pknoH</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">false</prop>
+    <prop name="orthomclAbbrev">pkno</prop>
+    <prop name="strainAbbrev">H</prop>
+    <prop name="genomeSource">GeneDB</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop> 
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="genomeVersion">2015-06-18</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="referenceStrain">
+    <prop name="organismAbbrev">pknoH</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pknoMalayanPk1A</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">9000000135</prop>
+    <prop name="publicOrganismAbbrev">pknoMalayanPk1A</prop>
+    <prop name="organismFullName">Plasmodium knowlesi strain Malayan Strain Pk1 A</prop>
+    <prop name="organismNameForFiles">PknowlesiMalayanPk1A</prop>
+    <prop name="speciesNcbiTaxonId">5850</prop>
+    <prop name="isReferenceStrain">false</prop>
+    <prop name="referenceStrainOrganismAbbrev">pknoH</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">true</prop>
+    <prop name="orthomclAbbrev">pknp</prop>
+    <prop name="strainAbbrev">MalayanPk1A</prop>
+    <prop name="genomeSource">GenBank</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="genomeVersion">2017-05-15</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pchachabaudi</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">31271</prop>
+    <prop name="publicOrganismAbbrev">pchachabaudi</prop>
+    <prop name="organismFullName">Plasmodium chabaudi chabaudi</prop>
+    <prop name="organismNameForFiles">Pchabaudichabaudi</prop>
+    <prop name="speciesNcbiTaxonId">5825</prop>
+    <prop name="isReferenceStrain">true</prop>
+    <prop name="referenceStrainOrganismAbbrev">pchachabaudi</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">false</prop>
+    <prop name="orthomclAbbrev">pcha</prop>
+    <prop name="strainAbbrev">chabaudi</prop>
+    <prop name="genomeSource">GeneDB</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="genomeVersion">2015-06-18</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="referenceStrain">
+    <prop name="organismAbbrev">pchachabaudi</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+  </dataset>
+
+  <dataset class="organism">
+    <prop name="organismAbbrev">pberANKA</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="ncbiTaxonId">5823</prop>
+    <prop name="publicOrganismAbbrev">pberANKA</prop>
+    <prop name="organismFullName">Plasmodium berghei ANKA</prop>
+    <prop name="organismNameForFiles">PbergheiANKA</prop>
+    <prop name="speciesNcbiTaxonId">5821</prop>
+    <prop name="isReferenceStrain">true</prop>
+    <prop name="referenceStrainOrganismAbbrev">pberANKA</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+    <prop name="hasTemporaryNcbiTaxonId">false</prop>
+    <prop name="orthomclAbbrev">pber</prop>
+    <prop name="strainAbbrev">ANKA</prop>
+    <prop name="genomeSource">GeneDB</prop>
+    <prop name="taxonHierarchyForBlastxFilter">Eukaryota Apicomplexa Plasmodium</prop>
+    <prop name="annotationIncludesTRNAs">true</prop>
+    <prop name="runExportPred">true</prop>
+    <prop name="isHugeGenome">false</prop>
+    <prop name="maxIntronSize">20000</prop>
+    <prop name="genomeVersion">2017-01-09</prop>
+    <prop name="isFamilyRepresentative">false</prop>
+    <prop name="familyRepOrganismAbbrev">pfal3D7</prop>
+    <prop name="familyNcbiTaxonIds"></prop>
+    <prop name="familyNameForFiles"></prop>
+  </dataset>
+
+  <dataset class="referenceStrain">
+    <prop name="organismAbbrev">pberANKA</prop>
+    <prop name="isAnnotatedGenome">true</prop>
+  </dataset>
+
+<!--TODO: check for GUS4
+  <dataset class="customOntologyEntries">
+    <prop name="version">1.0</prop>
+  </dataset>
+-->
+
+  <dataset class="orthomcl">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="version">5.20</prop>
+  </dataset>
+
+  <dataset class="orthomclPhyletic">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="version">5.20</prop>
+  </dataset>
+
+  <dataset class="orthomclTree">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="version">5.20</prop>
+  </dataset>
+<!--
+  <dataset class="proteinMicroarrayMetaData">
+       <prop name="projectName">$$projectName$$</prop>
+       <prop name="organismAbbrev">pfal3D7</prop>
+       <prop name="experimentName">Crompton_Mali</prop>
+       <prop name="experimentVersion">2013-06-26</prop>
+  </dataset>
+
+  <dataset class="proteinMicroarrayMetaData">
+       <prop name="projectName">$$projectName$$</prop>
+       <prop name="organismAbbrev">pfal3D7</prop>
+       <prop name="experimentName">Kazura_Reinfection</prop>
+       <prop name="experimentVersion">July_2013</prop>
+  </dataset>
+-->
+  <!-- load of all KEGG pathways -->
+  <dataset class="Pathways">
+    <prop name="version">2013.07</prop>
+    <prop name="format">KEGG</prop>
+    <prop name="source">KEGG</prop>
+    <prop name="projectName">$$projectName$$</prop>
+  </dataset>
+
+<!--Undo TrypanoCyc from plas-rbld, ref #22971  
+  <dataset class="Pathways">
+    <prop name="version">2015.04.02</prop>
+    <prop name="format">BioCyc</prop>
+    <prop name="source">TrypanoCyc</prop>
+    <prop name="projectName">$$projectName$$</prop>
+  </dataset>
+-->
+
+  <dataset class="Pathways">
+    <prop name="version">2017.02.07</prop>
+    <prop name="format">BioCyc</prop>
+    <prop name="source">MetaCyc</prop>
+    <prop name="projectName">$$projectName$$</prop>
+  </dataset>
+
+  <dataset class="Pathways">
+    <prop name="version">2017.11.16</prop>
+    <prop name="format">MPMP</prop>
+    <prop name="source">MPMP</prop>
+    <prop name="projectName">$$projectName$$</prop>
+  </dataset>
+
+  <dataset class="ReactionsXRefs">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="version">2016-02-09</prop>
+    <prop name="source">Henry</prop>
+  </dataset>
+
+<!-- NOT loading pathway compounds anymore, switched to chEBI compounds
+  <dataset class="PathwayCompounds">
+    <prop name="name">pubchem</prop>
+    <prop name="version">2012.11</prop>
+  </dataset>
+-->
+
+  <dataset class="metaboliteProfiles">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="experimentName">LlinasMetabolites</prop>
+    <prop name="experimentVersion">2015-08-10</prop>
+ </dataset>
+
+<!-- NOT loading pathway compounds anymore, switched to chEBI compounds
+  <dataset class="ExperimentCompounds">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="name">Llinas</prop>
+    <prop name="version">2012.12</prop>
+  </dataset>
+-->
+<!--
+  <dataset class="SnpMetaData">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Sanger_HTS_Isolates_QuerySRA</prop>
+    <prop name="experimentVersion">1.0</prop>
+  </dataset>
+
+  <dataset class="SnpMetaData">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Conway_HTS_SNP</prop>
+    <prop name="experimentVersion">1.0</prop>
+  </dataset>
+
+  <dataset class="SnpMetaData">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Winzeler_KAD</prop>
+    <prop name="experimentVersion">2012-01-11</prop>
+  </dataset>
+
+  <dataset class="SnpMetaData">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Broad_HTS_Isolates_QuerySRA</prop>
+    <prop name="experimentVersion">1.0</prop>
+  </dataset>
+
+  <dataset class="SnpMetaData">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Broad_100_genomes</prop>
+    <prop name="experimentVersion">2013-11-14</prop>
+  </dataset>
+
+  <dataset class="SnpMetaData">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Plowe_symptomatic_malaria_analysis</prop>
+    <prop name="experimentVersion">2014-04-01</prop>
+  </dataset>
+
+  <dataset class="SnpMetaData">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">pvivSal1</prop>
+    <prop name="experimentName">Broad_HTS_Isolates</prop>
+    <prop name="experimentVersion">1.0</prop>
+  </dataset>
+
+  <dataset class="SnpMetaData">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">pvivSal1</prop>
+    <prop name="experimentName">Winzeler_clin_isolate</prop>
+    <prop name="experimentVersion">2012-01-11</prop>
+  </dataset>
+
+  <dataset class="SnpMetaData">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">pvivSal1</prop>
+    <prop name="experimentName">Broad_whitePaper_hybridSelection</prop>
+    <prop name="experimentVersion">2014-09-06</prop>
+  </dataset>
+
+  <dataset class="SnpMetaData">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">pyoeyoelii17X</prop>
+    <prop name="experimentName">Broad_100_genomes</prop>
+    <prop name="experimentVersion">2013-01-10</prop>
+  </dataset>
+
+  <dataset class="SnpMetaData">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Sanger_PreichenowiCDC_QuerySRA</prop>
+    <prop name="experimentVersion">2010-12-16</prop>
+  </dataset>
+
+  <dataset class="SnpMetaData">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">preiCDC</prop>
+    <prop name="experimentName">Sanger_PreichenowiCDC_QuerySRA</prop>
+    <prop name="experimentVersion">2010-12-16</prop>
+  </dataset>
+
+  <dataset class="SNPChipMetaData">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Broad3KGenotyping</prop>
+    <prop name="experimentVersion">2008-06-13</prop>
+  </dataset>
+
+  <dataset class="SNPChipMetaData">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Broad75KGenotyping</prop>
+    <prop name="experimentVersion">2009-03-06</prop>
+  </dataset>
+
+  <dataset class="SNPChipMetaData">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">BroadIsolateBarcode</prop>
+    <prop name="experimentVersion">2008-06-13</prop>
+  </dataset>
+-->
+<!-- removed for bld 24 needs development
+  <dataset class="SNPChipMetaData">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">SNP_Chip_Artesunate_Resistance</prop>
+    <prop name="experimentVersion">2012-08-01</prop>
+  </dataset>
+-->
+
+  <dataset class="EcNumberGenus">
+    <prop name="version">2015-03-11</prop>
+    <prop name="projectName">$$projectName$$</prop>
+  </dataset>
+
+  <dataset class="ISA"/>
+  <dataset class="ISASimple"/>
+
+  <!--Release here is from svn url.  Exampoe: https://cbilsvn.pmacs.upenn.edu/svn/apidb/ApiCommonData/trunk/Load/src/ontology/release/20150706 -->
+
+  <dataset class="dumpMissingGenbankIsolateMappers">
+    <prop name="version">$$genbankIsolateMapperVersion$$</prop>
+  </dataset>
+
+  <dataset class="ontologySynonyms">
+    <prop name="version">$$genbankIsolateMapperVersion$$</prop>
+    <prop name="name">genbankIsolates</prop>
+  </dataset>
+
+</datasets>
+

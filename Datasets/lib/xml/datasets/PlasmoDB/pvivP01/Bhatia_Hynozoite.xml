@@ -1,0 +1,31 @@
+<datasets>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Bhatia_Hynozoite</prop>
+    <prop name="sampleName">SRX3467117</prop>
+    <prop name="sraQueryString">SRX3467117</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Bhatia_Hynozoite</prop>
+    <prop name="sampleName">SRX3467220</prop>
+    <prop name="sraQueryString">SRX3467220</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Bhatia_Hynozoite</prop>
+    <prop name="sampleName">SRX3467115</prop>
+    <prop name="sraQueryString">SRX3467115</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Bhatia_Hynozoite</prop>
+    <prop name="sampleName">SRX3467116</prop>
+    <prop name="sraQueryString">SRX3467116</prop>
+  </dataset>
+
+</datasets>

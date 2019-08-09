@@ -1,0 +1,67 @@
+<datasets>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Sachs_Light_Regulation</prop>
+    <prop name="sampleName">ADV-1_light_15min_1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Sachs_Light_Regulation</prop>
+    <prop name="sampleName">ADV-1_light_15min_2</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Sachs_Light_Regulation</prop>
+    <prop name="sampleName">ADV-1_light_30min_1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Sachs_Light_Regulation</prop>
+    <prop name="sampleName">ADV-1_light_30min_2</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Sachs_Light_Regulation</prop>
+    <prop name="sampleName">ADV-1_light_60min_1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Sachs_Light_Regulation</prop>
+    <prop name="sampleName">ADV-1_light_60min_2</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Sachs_Light_Regulation</prop>
+    <prop name="sampleName">ADV-1_dark_1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Sachs_Light_Regulation</prop>
+    <prop name="sampleName">ADV-1_dark_2</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+</datasets>

@@ -1,0 +1,103 @@
+<datasets>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison</prop>
+    <prop name="sampleName">SRX706391</prop>
+    <prop name="sraQueryString">SRX706391</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison</prop>
+    <prop name="sampleName">SRX706392</prop>
+    <prop name="sraQueryString">SRX706392</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison</prop>
+    <prop name="sampleName">SRX706401</prop>
+    <prop name="sraQueryString">SRX706401</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison</prop>
+    <prop name="sampleName">SRX706402</prop>
+    <prop name="sraQueryString">SRX706402</prop>
+  </dataset>
+
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison</prop>
+    <prop name="sampleName">SRX706393</prop>
+    <prop name="sraQueryString">SRX706393</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison</prop>
+    <prop name="sampleName">SRX706394</prop>
+    <prop name="sraQueryString">SRX706394</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison</prop>
+    <prop name="sampleName">SRX706395</prop>
+    <prop name="sraQueryString">SRX706395</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison</prop>
+    <prop name="sampleName">SRX706396</prop>
+    <prop name="sraQueryString">SRX706396</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison</prop>
+    <prop name="sampleName">SRX706397</prop>
+    <prop name="sraQueryString">SRX706397</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison</prop>
+    <prop name="sampleName">SRX706398</prop>
+    <prop name="sraQueryString">SRX706398</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison</prop>
+    <prop name="sampleName">SRX706399</prop>
+    <prop name="sraQueryString">SRX706399</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison</prop>
+    <prop name="sampleName">SRX706400</prop>
+    <prop name="sraQueryString">SRX706400</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison</prop>
+    <prop name="sampleName">SRX706403</prop>
+    <prop name="sraQueryString">SRX706403</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison</prop>
+    <prop name="sampleName">SRX706404</prop>
+    <prop name="sraQueryString">SRX706404</prop>
+  </dataset>
+
+
+</datasets>

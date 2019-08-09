@@ -1,0 +1,2711 @@
+<datasets>
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">8-1</prop>
+    <prop name="sraQueryString">SRX273085</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">AD3-11a</prop>
+    <prop name="sraQueryString">SRX273097</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">AD3-9a</prop>
+    <prop name="sraQueryString">SRX273105</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">AD5-67a</prop>
+    <prop name="sraQueryString">SRX273116</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">C12</prop>
+    <prop name="sraQueryString">SRX273176</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">C2</prop>
+    <prop name="sraQueryString">SRX256039</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">C45</prop>
+    <prop name="sraQueryString">SRX189611</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">LP-RSA1684</prop>
+    <prop name="sraQueryString">SRX256550,SRX256537</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">MW-RSA1327</prop>
+    <prop name="sraQueryString">SRX400063,SRX400064</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">MW-RSA3956</prop>
+    <prop name="sraQueryString">SRX400068,SRX400067</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">MW-RSA4119</prop>
+    <prop name="sraQueryString">SRX255633,SRX256474</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">MW-RSA852</prop>
+    <prop name="sraQueryString">SRX189631,SRX256488,SRX219293</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">PMHc1023.ENR</prop>
+    <prop name="sraQueryString">SRR1926004,SRR1926050,SRR1944812</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">T4</prop>
+    <prop name="sraQueryString">SRX256361,SRX256495</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ug2462</prop>
+    <prop name="sraQueryString">SRX273266</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">WM626</prop>
+    <prop name="sraQueryString">SRX400075,SRX400076</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt102</prop>
+    <prop name="sraQueryString">SRX255653,SRX272107,SRX256517,SRX345121</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt142</prop>
+    <prop name="sraQueryString">SRX377406,SRX377405</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt147</prop>
+    <prop name="sraQueryString">SRX273157</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt148</prop>
+    <prop name="sraQueryString">SRX273158</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt154</prop>
+    <prop name="sraQueryString">SRX273163</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt204</prop>
+    <prop name="sraQueryString">SRX273168</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt22</prop>
+    <prop name="sraQueryString">SRX255940,SRX255942,SRX256376</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt24</prop>
+    <prop name="sraQueryString">SRX256530,SRX256520,SRX256042</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt45</prop>
+    <prop name="sraQueryString">SRX256409,SRX255989,SRX255949</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt60</prop>
+    <prop name="sraQueryString">SRX255661,SRX255608,SRX255651</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt63</prop>
+    <prop name="sraQueryString">SRX189619,SRX189366</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt7</prop>
+    <prop name="sraQueryString">SRX256449,SRX256533,SRX255663</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt70</prop>
+    <prop name="sraQueryString">SRX256415,SRX256490,SRX256505</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt85</prop>
+    <prop name="sraQueryString">SRX189630,SRX189367</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt96</prop>
+    <prop name="sraQueryString">SRX256429,SRX256439,SRX256428</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc102-1</prop>
+    <prop name="sraQueryString">SRR1925977,SRR1926007,SRR1943116</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc103-1</prop>
+    <prop name="sraQueryString">SRR1925979,SRR1926069,SRR1944751</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc109-1</prop>
+    <prop name="sraQueryString">SRR1926026,SRR1942912,SRR1943073</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc111-1</prop>
+    <prop name="sraQueryString">SRR1925955,SRR1942993,SRR1944749</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc132-1</prop>
+    <prop name="sraQueryString">SRR1925892,SRR1926018,SRR1944836</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc134-3</prop>
+    <prop name="sraQueryString">SRR1926061,SRR1943220,SRR1944761,SRR1944776</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc137-1</prop>
+    <prop name="sraQueryString">SRR1942921,SRR1942926,SRR1944803</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc146-1</prop>
+    <prop name="sraQueryString">SRR1926085,SRR1943160,SRR1944815</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc151-1</prop>
+    <prop name="sraQueryString">SRR1926005,SRR1944770,SRR1944788</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc153-1</prop>
+    <prop name="sraQueryString">SRR1925978,SRR1931705,SRR1943090</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc158-2</prop>
+    <prop name="sraQueryString">SRR1942949,SRR1944870,SRR1944872</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc167-1</prop>
+    <prop name="sraQueryString">SRR1942923,SRR1942933,SRR1944840</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc168-1</prop>
+    <prop name="sraQueryString">SRR1942972,SRR1944809,SRR1944857</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc170-1</prop>
+    <prop name="sraQueryString">SRR1931688,SRR1944700,SRR1944805</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc173-1</prop>
+    <prop name="sraQueryString">SRR1925913,SRR1925980,SRR1942885</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc192-1</prop>
+    <prop name="sraQueryString">SRR1942932,SRR1944767,SRR1944853</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc195-1</prop>
+    <prop name="sraQueryString">SRR1926017,SRR1926058,SRR1926083,SRR1942941</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc200-1</prop>
+    <prop name="sraQueryString">SRR1925925,SRR1925997,SRR1943114</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc202-1</prop>
+    <prop name="sraQueryString">SRR1925933,SRR1926009,SRR1942977</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc207-1</prop>
+    <prop name="sraQueryString">SRR1926006,SRR1926022,SRR1944707</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc209-1</prop>
+    <prop name="sraQueryString">SRR1925889,SRR1942904,SRR1944833</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc209-3</prop>
+    <prop name="sraQueryString">SRR1926045,SRR1943107,SRR1944826</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc211-1</prop>
+    <prop name="sraQueryString">SRR1943061,SRR1943069,SRR1947210</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc214-1</prop>
+    <prop name="sraQueryString">SRR1942937,SRR1944820,SRR1944860</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc217-1</prop>
+    <prop name="sraQueryString">SRR1942905,SRR1944752,SRR1944801</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc222-2</prop>
+    <prop name="sraQueryString">SRR1942945,SRR1944824,SRR1944827</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc225-1</prop>
+    <prop name="sraQueryString">SRR1942884,SRR1944748,SRR1944850</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc225-3</prop>
+    <prop name="sraQueryString">SRR1931725,SRR1944699,SRR1944866</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc236-1</prop>
+    <prop name="sraQueryString">SRR1926019,SRR1944726,SRR1944779</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc239-1</prop>
+    <prop name="sraQueryString">SRR1926034,SRR1931691,SRR1942979,SRR1944785</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc239-2</prop>
+    <prop name="sraQueryString">SRR1943111,SRR1926068,SRR1944783,SRR1944814</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc241-1</prop>
+    <prop name="sraQueryString">SRR1926010,SRR1931694,SRR1944712,SRR1944854</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc257-1</prop>
+    <prop name="sraQueryString">SRR1926052,SRR1942936,SRR1944847,SRR1944868</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc267-1</prop>
+    <prop name="sraQueryString">SRR1925895,SRR1925989,SRR1944799</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc267-2</prop>
+    <prop name="sraQueryString">SRR1926024,SRR1944739,SRR1944743</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc321-1</prop>
+    <prop name="sraQueryString">SRR1925917,SRR1943015,SRR1944716</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc321-2</prop>
+    <prop name="sraQueryString">SRR1926031,SRR1944790,SRR1944829</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc321-3</prop>
+    <prop name="sraQueryString">SRR1931687,SRR1944688,SRR1944810</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc327-1</prop>
+    <prop name="sraQueryString">SRR1926081,SRR1944725,SRR1944732</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc555-1</prop>
+    <prop name="sraQueryString">SRR1925884,SRR1926001,SRR1943020</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ftc555-2</prop>
+    <prop name="sraQueryString">SRR1926087,SRR1926088,SRR1944804</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Gbc573-1</prop>
+    <prop name="sraQueryString">SRR1931690,SRR1931723,SRR1944715</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">LP-RSA6618</prop>
+    <prop name="sraQueryString">SRX273182</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">LP-RSA756</prop>
+    <prop name="sraQueryString">SRX273185</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Muc364-1</prop>
+    <prop name="sraQueryString">SRR1925996,SRR1926000,SRR1943115,SRR1944735</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Muc367-1</prop>
+    <prop name="sraQueryString">SRR1942965,SRR1944834,SRR1944838</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Muc402-1</prop>
+    <prop name="sraQueryString">SRR1926037,SRR1942947,SRR1944731</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Muc416-4</prop>
+    <prop name="sraQueryString">SRR1925995,SRR1926021,SRR1931715</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Muc418-1</prop>
+    <prop name="sraQueryString">SRR1942918,SRR1942928,SRR1944745</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Muc437-1</prop>
+    <prop name="sraQueryString">SRR1926086,SRR1943063,SRR1944729</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Muc449-1</prop>
+    <prop name="sraQueryString">SRR1942975,SRR1943017,SRR1944839</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Muc451-1</prop>
+    <prop name="sraQueryString">SRR1925926,SRR1926016,SRR1944806</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Muc457-1</prop>
+    <prop name="sraQueryString">SRR1925976,SRR1926078,SRR1944796</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Muc458-2</prop>
+    <prop name="sraQueryString">SRR1925924,SRR1926053,SRR1943057</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Muc460-3</prop>
+    <prop name="sraQueryString">SRR1931716,SRR1944687,SRR1944701</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Muc463-2</prop>
+    <prop name="sraQueryString">SRR1925916,SRR1925981,SRR1943009</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Muc466-1</prop>
+    <prop name="sraQueryString">SRR1925910,SRR1925936,SRR1944746</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Muc466-3</prop>
+    <prop name="sraQueryString">SRR1925982,SRR1943108,SRR1944765</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Muc479-1</prop>
+    <prop name="sraQueryString">SRR1926089,SRR1944710,SRR1944771</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Muc489-1</prop>
+    <prop name="sraQueryString">SRR1925954,SRR1926003,SRR1944753</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Muc498-2</prop>
+    <prop name="sraQueryString">SRR1943023,SRR1947215,SRR1947216</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Muc503-1</prop>
+    <prop name="sraQueryString">SRR1925887,SRR1943127,SRR1944792</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Muc504-1</prop>
+    <prop name="sraQueryString">SRR1925937,SRR1926030,SRR1944766</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Muc516-1</prop>
+    <prop name="sraQueryString">SRR1942915,SRR1944821,SRR1944859</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Muc525-1</prop>
+    <prop name="sraQueryString">SRR1942997,SRR1942998,SRR1947213</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5004.ENR</prop>
+    <prop name="sraQueryString">SRR1931703,SRR1944823,SRR1944843</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5005.ENR</prop>
+    <prop name="sraQueryString">SRR1925990,SRR1926071,SRR1944719</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5009.ENR</prop>
+    <prop name="sraQueryString">SRR1942916,SRR1944754,SRR1944763</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5009.REL.INI</prop>
+    <prop name="sraQueryString">SRR1942901,SRR1942919,SRR1944818</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5011.ENR</prop>
+    <prop name="sraQueryString">SRR1926082,SRR1942886,SRR1943128</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5013.ENR</prop>
+    <prop name="sraQueryString">SRR1942968,SRR1944849,SRR1944851</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5013.REL.INI</prop>
+    <prop name="sraQueryString">SRR1925888,SRR1943062,SRR1944794</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5019.ENR</prop>
+    <prop name="sraQueryString">SRR1931717,SRR1944686,SRR1944741</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5020.ENR</prop>
+    <prop name="sraQueryString">SRR1931718,SRR1944698,SRR1944734</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5021.ENR</prop>
+    <prop name="sraQueryString">SRR1926047,SRR1931726,SRR1944705</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5022.ENR</prop>
+    <prop name="sraQueryString">SRR1931722,SRR1944685,SRR1944702</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5023.ENR</prop>
+    <prop name="sraQueryString">SRR1943219,SRR1944728,SRR1944871</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5024.ENR.CLIN.1</prop>
+    <prop name="sraQueryString">SRR1926029,SRR1943126,SRR1944720</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5024A.ENR.CLIN.ISO</prop>
+    <prop name="sraQueryString">SRR1942917,SRR1944711,SRR1944848</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5026.ENR.CLIN.ISO</prop>
+    <prop name="sraQueryString">SRR1925914,SRR1926012,SRR1942996</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5027.ENR.CLIN1</prop>
+    <prop name="sraQueryString">SRR1925984,SRR1943110,SRR1944800</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5029.ENR.CLIN.ISO</prop>
+    <prop name="sraQueryString">SRR1925891,SRR1943068,SRR1943130</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5030.ENR.CLIN.ISO</prop>
+    <prop name="sraQueryString">SRR1925880,SRR1942898,SRR1944802</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5032.ENR.CLIN.ISO</prop>
+    <prop name="sraQueryString">SRR1925908,SRR1926015,SRR1942891</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5035.ENR.CLIN.ISO</prop>
+    <prop name="sraQueryString">SRR1925903,SRR1943007,SRR1944760</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5037.ENR.CLIN1</prop>
+    <prop name="sraQueryString">SRR1931706,SRR1944713,SRR1944861</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5039.ENR.STOR</prop>
+    <prop name="sraQueryString">SRR1925904,SRR1925991,SRR1926023</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5040.ENR.CLIN.ISO</prop>
+    <prop name="sraQueryString">SRR1943004,SRR1943012,SRR1943019</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5041.ENR.STOR</prop>
+    <prop name="sraQueryString">SRR1926040,SRR1943117,SRR1944780</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5042.ENR.STOR</prop>
+    <prop name="sraQueryString">SRR1942973,SRR1944813,SRR1944844</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5045.ENR.CLIN.ISO</prop>
+    <prop name="sraQueryString">SRR1943021,SRR1947212,SRR1947255</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">PLR10</prop>
+    <prop name="sraQueryString">SRX273194,SRX273195</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">PMHc1001.ENR</prop>
+    <prop name="sraQueryString">SRR1943011,SRR1943013,SRR1947257</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">PMHc1011.ENR</prop>
+    <prop name="sraQueryString">SRR1942986,SRR1925901,SRR1943109,SRR1944819</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">PMHc1014.ENR</prop>
+    <prop name="sraQueryString">SRR1926060,SRR1943016,SRR1944784</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">PMHc1026.ENR</prop>
+    <prop name="sraQueryString">SRR1926038,SRR1926046,SRR1944778</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">PMHc1030.ENR.CLIN.ISO</prop>
+    <prop name="sraQueryString">SRR1925922,SRR1944738,SRR1944769</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">PMHc1038.ENR.CLIN1</prop>
+    <prop name="sraQueryString">SRR1925907,SRR1944744,SRR1944747</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">PMHc1050.ENR.CLIN1</prop>
+    <prop name="sraQueryString">SRR1926002,SRR1943129,SRR1944750</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">RTC3</prop>
+    <prop name="sraQueryString">SRX273199,SRX273200</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Tu229-1</prop>
+    <prop name="sraQueryString">SRX273202,SRX273203</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Tu360-1</prop>
+    <prop name="sraQueryString">SRX273208,SRX273209</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Tu369-1</prop>
+    <prop name="sraQueryString">SRX273212,SRX273211,SRX273213 </prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Tu401-1</prop>
+    <prop name="sraQueryString">SRX189632,SRX189623</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Tu406-1</prop>
+    <prop name="sraQueryString">SRX273216,SRX273214,SRX273215</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Tu416-1</prop>
+    <prop name="sraQueryString">SRX273217,SRX273218,SRX273219</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Tu422-1</prop>
+    <prop name="sraQueryString">SRX273263,SRX273264</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt1</prop>
+    <prop name="sraQueryString">SRX189615,SRX189375</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt10</prop>
+    <prop name="sraQueryString">SRX255612,SRX256421,SRX256459</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt103</prop>
+    <prop name="sraQueryString">SRX255644,SRX255611,SRX256442</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt105</prop>
+    <prop name="sraQueryString">SRX273121,SRX273122,SRX404420</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt109</prop>
+    <prop name="sraQueryString">SRX273124,SRX273123</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt115</prop>
+    <prop name="sraQueryString">SRX273126,SRX273125</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt128</prop>
+    <prop name="sraQueryString">SRX273130,SRX273131</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt133</prop>
+    <prop name="sraQueryString">SRX273143,SRX273141,SRX273142</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt136</prop>
+    <prop name="sraQueryString">SRX273145,SRX273144</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt143</prop>
+    <prop name="sraQueryString">SRX273151,SRX273150,SRX273152</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt146</prop>
+    <prop name="sraQueryString">SRX273155,SRX273153,SRX273154</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt149</prop>
+    <prop name="sraQueryString">SRX273159</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt152</prop>
+    <prop name="sraQueryString">SRX273160</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt157</prop>
+    <prop name="sraQueryString">SRX273164</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt206</prop>
+    <prop name="sraQueryString">SRX189601,SRX189374</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt208</prop>
+    <prop name="sraQueryString">SRX273169</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt25</prop>
+    <prop name="sraQueryString">SRX255642,SRX256531,SRX256396</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt27</prop>
+    <prop name="sraQueryString">SRX256032,SRX255615</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt31</prop>
+    <prop name="sraQueryString">SRX255961,SRX255966,SRX256066</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt32</prop>
+    <prop name="sraQueryString">SRX255607,SRX255619</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt33</prop>
+    <prop name="sraQueryString">SRX256430,SRX255955</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt34</prop>
+    <prop name="sraQueryString">SRX255950,SRX256497,SRX256438</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt35</prop>
+    <prop name="sraQueryString">SRX399940</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt38</prop>
+    <prop name="sraQueryString">SRX256017,SRX256416</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt39</prop>
+    <prop name="sraQueryString">SRX256051,SRX256385</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt40</prop>
+    <prop name="sraQueryString">SRX256029,SRX255946</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt41</prop>
+    <prop name="sraQueryString">SRX256062,SRX255606</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt46</prop>
+    <prop name="sraQueryString">SRX256501,SRX256011,SRX256538</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt5</prop>
+    <prop name="sraQueryString">SRX256355,SRX256055</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt52</prop>
+    <prop name="sraQueryString">SRX256371,SRX256013</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt53</prop>
+    <prop name="sraQueryString">SRX256021,SRX256056,SRX404421</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt54</prop>
+    <prop name="sraQueryString">SRX255597,SRX256004</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt55</prop>
+    <prop name="sraQueryString">SRX255599,SRX256482,SRX255636</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt56</prop>
+    <prop name="sraQueryString">SRX256397,SRX256507,SRX255991</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt65</prop>
+    <prop name="sraQueryString">SRX273172,SRX273174,SRX273173</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt75</prop>
+    <prop name="sraQueryString">SRX256015,SRX272108,SRX255637</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt76</prop>
+    <prop name="sraQueryString">SRX255602,SRX255580,SRX256359</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt81</prop>
+    <prop name="sraQueryString">SRX256380,SRX256047</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt84</prop>
+    <prop name="sraQueryString">SRX255974,SRX255986</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt88</prop>
+    <prop name="sraQueryString">SRX256010,SRX272109,SRX256352</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt89</prop>
+    <prop name="sraQueryString">SRX255594,SRX255662</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt98</prop>
+    <prop name="sraQueryString">SRX255957,SRX256508,SRX255624</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">LP-RSA3144</prop>
+    <prop name="sraQueryString">SRX273179,SRX273180</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">MW-RSA1186</prop>
+    <prop name="sraQueryString">SRX273187,SRX273188</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">MW-RSA1607</prop>
+    <prop name="sraQueryString">SRX273189,SRX273355,SRX273190</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">MW-RSA2967</prop>
+    <prop name="sraQueryString">SRX273191</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">MW-RSA3179</prop>
+    <prop name="sraQueryString">SRX273192</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">MW-RSA3321</prop>
+    <prop name="sraQueryString">SRX273193</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">MW-RSA913</prop>
+    <prop name="sraQueryString">SRX400073,SRX400071,SRX400072</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Muc387-1</prop>
+    <prop name="sraQueryString">SRR1942887,SRR1944832,SRR1944835</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Muc387-2</prop>
+    <prop name="sraQueryString">SRR1925985,SRR1944718,SRR1944724</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5008.ENR</prop>
+    <prop name="sraQueryString">SRR1931697,SRR1944807,SRR1944811</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5014.ENR</prop>
+    <prop name="sraQueryString">SRR1925974,SRR1925999,SRR1944768</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5031.ENR.CLIN.ISO</prop>
+    <prop name="sraQueryString">SRR1926020,SRR1943159,SRR1944756</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">PMHc1002.ENR</prop>
+    <prop name="sraQueryString">SRR1925994,SRR1926084,SRR1943001</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">PMHc1009.ENR</prop>
+    <prop name="sraQueryString">SRR1926011,SRR1926036,SRR1944775</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">PMHc1024.ENR</prop>
+    <prop name="sraQueryString">SRR1926008,SRR1944740,SRR1944825</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">PMHc1029.ENR.STOR</prop>
+    <prop name="sraQueryString">SRR1926072,SRR1943065,SRR1944730</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">PMHc1033.ENR</prop>
+    <prop name="sraQueryString">SRR1925899,SRR1944786,SRR1944791</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">PMHc1035.ENR.STOR</prop>
+    <prop name="sraQueryString">SRR1926070,SRR1942974,SRR1943059</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">PMHc1047.ENR.CLIN1</prop>
+    <prop name="sraQueryString">SRR1942908,SRR1944828,SRR1944862</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">PMHc1049.THER1.STOR</prop>
+    <prop name="sraQueryString">SRR1925935,SRR1944777,SRR1944793</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">PMHc1052.ENR.STOR</prop>
+    <prop name="sraQueryString">SRR1925900,SRR1925986,SRR1944755</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ze90-1</prop>
+    <prop name="sraQueryString">SRX189605,SRX189369</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">125.91</prop>
+    <prop name="sraQueryString">SRX189626,SRX189365</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">A1-35-8</prop>
+    <prop name="sraQueryString">SRX256414,SRX255598,SRX256045</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">A1-84-14</prop>
+    <prop name="sraQueryString">SRX400058</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">A2-102-5</prop>
+    <prop name="sraQueryString">SRX189598,SRX189370</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">A3-1-1</prop>
+    <prop name="sraQueryString">SRX256003,SRX255639,SRX256020</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">A3-38-20</prop>
+    <prop name="sraQueryString">SRX256356</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">A4-1-12</prop>
+    <prop name="sraQueryString">SRX256399</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">A4-34-6</prop>
+    <prop name="sraQueryString">SRX256440</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">A5-35-17</prop>
+    <prop name="sraQueryString">SRX256064,SRX255575,SRX255941</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">AD1-68a</prop>
+    <prop name="sraQueryString">SRX273086</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">AD1-86a</prop>
+    <prop name="sraQueryString">SRX273087</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">AD1-90a</prop>
+    <prop name="sraQueryString">SRX273089</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">AD1-95a</prop>
+    <prop name="sraQueryString">SRX273090</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">AD1-7a</prop>
+    <prop name="sraQueryString">SRX189617</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">AD1-83a</prop>
+    <prop name="sraQueryString">SRX189622</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">AD2-04a</prop>
+    <prop name="sraQueryString">SRX273091</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">AD2-6a</prop>
+    <prop name="sraQueryString">SRX273092,SRX273094,SRX273093</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">AD2-82a</prop>
+    <prop name="sraQueryString">SRX273095</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">AD2-99a</prop>
+    <prop name="sraQueryString">SRX273096</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">AD2-60a</prop>
+    <prop name="sraQueryString">SRX189592,SRX189368</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">AD3-41a</prop>
+    <prop name="sraQueryString">SRX273099</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">AD3-55a</prop>
+    <prop name="sraQueryString">SRX273100</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">AD3-58</prop>
+    <prop name="sraQueryString">SRX273101</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">AD3-83a</prop>
+    <prop name="sraQueryString">SRX273103</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">AD3-95a</prop>
+    <prop name="sraQueryString">SRX273104</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">AD4-47a</prop>
+    <prop name="sraQueryString">SRX273107</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">AD4-63a</prop>
+    <prop name="sraQueryString">SRX273108</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">AD4-76a</prop>
+    <prop name="sraQueryString">SRX273109</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">AD4-92a</prop>
+    <prop name="sraQueryString">SRX273111</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">AD5-39a</prop>
+    <prop name="sraQueryString">SRX273112</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">AD5-45a</prop>
+    <prop name="sraQueryString">SRX273113</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">AD5-53a</prop>
+    <prop name="sraQueryString">SRX273114</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">AD6-54a</prop>
+    <prop name="sraQueryString">SRX273117</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">AD6-55a</prop>
+    <prop name="sraQueryString">SRX273118</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Arg1366</prop>
+    <prop name="sraQueryString">SRX273120</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Br795</prop>
+    <prop name="sraQueryString">SRX189621</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt100</prop>
+    <prop name="sraQueryString">SRX256049,SRX256462,SRX255668</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt101</prop>
+    <prop name="sraQueryString">SRX255990,SRX255627,SRX256422</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt104</prop>
+    <prop name="sraQueryString">SRX256486</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt106</prop>
+    <prop name="sraQueryString">SRX255576</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt107</prop>
+    <prop name="sraQueryString">SRX255648</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt108</prop>
+    <prop name="sraQueryString">SRX256444</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt11</prop>
+    <prop name="sraQueryString">SRX256425</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt110</prop>
+    <prop name="sraQueryString">SRX256465</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt111</prop>
+    <prop name="sraQueryString">SRX256485</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt114</prop>
+    <prop name="sraQueryString">SRX256012</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt116</prop>
+    <prop name="sraQueryString">SRX256518</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt117</prop>
+    <prop name="sraQueryString">SRX256502</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt118</prop>
+    <prop name="sraQueryString">SRX255609</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt119</prop>
+    <prop name="sraQueryString">SRX255995</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt120</prop>
+    <prop name="sraQueryString">SRX189625,SRX256457</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt121</prop>
+    <prop name="sraQueryString">SRX256460</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt123</prop>
+    <prop name="sraQueryString">SRX255655</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt126</prop>
+    <prop name="sraQueryString">SRX255973</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt129</prop>
+    <prop name="sraQueryString">SRX256022</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt130</prop>
+    <prop name="sraQueryString">SRX255625</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt132</prop>
+    <prop name="sraQueryString">SRX255981</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt134</prop>
+    <prop name="sraQueryString">SRX255669</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt137</prop>
+    <prop name="sraQueryString">SRX256392</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt138</prop>
+    <prop name="sraQueryString">SRX273148,SRX273147,SRX273149</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt139</prop>
+    <prop name="sraQueryString">SRX255620</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt141</prop>
+    <prop name="sraQueryString">SRX255992</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt15</prop>
+    <prop name="sraQueryString">SRX189606,SRX189376</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt150</prop>
+    <prop name="sraQueryString">SRX255654,SRX256512,SRX255972</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt151</prop>
+    <prop name="sraQueryString">SRX256461</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt153</prop>
+    <prop name="sraQueryString">SRX256377</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt155</prop>
+    <prop name="sraQueryString">SRX255632</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt156</prop>
+    <prop name="sraQueryString">SRX255984</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt160</prop>
+    <prop name="sraQueryString">SRX255659</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt161</prop>
+    <prop name="sraQueryString">SRX256058</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt164</prop>
+    <prop name="sraQueryString">SRX256395</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt17</prop>
+    <prop name="sraQueryString">SRX256353</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt18</prop>
+    <prop name="sraQueryString">SRX255956</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt19</prop>
+    <prop name="sraQueryString">SRX255658</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt2</prop>
+    <prop name="sraQueryString">SRX255634</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt20</prop>
+    <prop name="sraQueryString">SRX255975</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt202</prop>
+    <prop name="sraQueryString">SRX256037</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt203</prop>
+    <prop name="sraQueryString">SRX255630,SRX256426</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt205</prop>
+    <prop name="sraQueryString">SRX256443,SRX256487</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt207</prop>
+    <prop name="sraQueryString">SRX256393,SRX256018</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt209</prop>
+    <prop name="sraQueryString">SRX256424,SRX256054</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt210</prop>
+    <prop name="sraQueryString">SRX286887,SRX422948,SRX422781</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt211</prop>
+    <prop name="sraQueryString">SRX256553,SRX255574</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt212</prop>
+    <prop name="sraQueryString">SRX255593,SRX255978</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt213</prop>
+    <prop name="sraQueryString">SRX256381,SRX255581</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt214</prop>
+    <prop name="sraQueryString">SRX256366,SRX256016</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt23</prop>
+    <prop name="sraQueryString">SRX256456,SRX255621</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt28</prop>
+    <prop name="sraQueryString">SRX256053,SRX256370</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt3</prop>
+    <prop name="sraQueryString">SRX255631,SRX256544</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt30</prop>
+    <prop name="sraQueryString">SRX256401,SRX256540</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt37</prop>
+    <prop name="sraQueryString">SRX255629,SRX255588</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt4</prop>
+    <prop name="sraQueryString">SRX273170</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt42</prop>
+    <prop name="sraQueryString">SRX256436,SRX255583</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt43</prop>
+    <prop name="sraQueryString">SRX255596</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt44</prop>
+    <prop name="sraQueryString">SRX256014</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt47</prop>
+    <prop name="sraQueryString">SRX256419</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt48</prop>
+    <prop name="sraQueryString">SRX256493,SRX256491</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt49</prop>
+    <prop name="sraQueryString">SRX255667,SRX256515</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt57</prop>
+    <prop name="sraQueryString">SRX256549,SRX256551</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt58</prop>
+    <prop name="sraQueryString">SRX256524,SRX256529</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt59</prop>
+    <prop name="sraQueryString">SRX256446,SRX256445</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt6</prop>
+    <prop name="sraQueryString">SRX256417,SRX255970</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt62</prop>
+    <prop name="sraQueryString">SRX256473</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt68</prop>
+    <prop name="sraQueryString">SRX255645,SRX256065,SRX256063</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt72</prop>
+    <prop name="sraQueryString">SRX256526,SRX256007</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt77</prop>
+    <prop name="sraQueryString">SRX256435,SRX256534</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt78</prop>
+    <prop name="sraQueryString">SRX256358,SRX256008</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt79</prop>
+    <prop name="sraQueryString">SRX256028,SRX256547</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt8</prop>
+    <prop name="sraQueryString">SRX256543,SRX256504</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt83</prop>
+    <prop name="sraQueryString">SRX256420,SRX256387</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt87</prop>
+    <prop name="sraQueryString">SRX256030,SRX256009</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt90</prop>
+    <prop name="sraQueryString">SRX256548,SRX256402</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt92</prop>
+    <prop name="sraQueryString">SRX256480,SRX256383</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt93</prop>
+    <prop name="sraQueryString">SRX256514,SRX255969</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt95</prop>
+    <prop name="sraQueryString">SRX256483,SRX256477</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt97</prop>
+    <prop name="sraQueryString">SRX256475</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Bt99</prop>
+    <prop name="sraQueryString">SRX255577,SRX256513,SRX256448</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">C23</prop>
+    <prop name="sraQueryString">SRX189595,SRX189372</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">C27</prop>
+    <prop name="sraQueryString">SRX256527,SRX256384</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">C8</prop>
+    <prop name="sraQueryString">SRX189616,SRX189371</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">CHC193</prop>
+    <prop name="sraQueryString">SRX189603</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">D17-1</prop>
+    <prop name="sraQueryString">SRX189596</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Gb118</prop>
+    <prop name="sraQueryString">SRX189618,SRX189624</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Gb159-1</prop>
+    <prop name="sraQueryString">SRX255647,SRX256412,SRX255618</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Gbc16-1</prop>
+    <prop name="sraQueryString">SRR1931695,SRR1931700,SRR1944684</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Gbc39-1</prop>
+    <prop name="sraQueryString">SRR1926079,SRR1942964,SRR1943070</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Gbc39-2</prop>
+    <prop name="sraQueryString">SRR1942967,SRR1942992,SRR1944841</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Gbc42-1</prop>
+    <prop name="sraQueryString">SRR1925987,SRR1943064,SRR1944758</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Gbc44-1</prop>
+    <prop name="sraQueryString">SRR1925938,SRR1942924,SRR1944789</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Gbc51-2</prop>
+    <prop name="sraQueryString">SRR1926013,SRR1931724,SRR1944795</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Gbc95-1</prop>
+    <prop name="sraQueryString">SRR1926059,SRR1943113,SRR1944733</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Gbc98-1</prop>
+    <prop name="sraQueryString">SRR1925975,SRR1926035,SRR1943089</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">IUM-96-28-28</prop>
+    <prop name="sraQueryString">SRX255590,SRX256406</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">In2632</prop>
+    <prop name="sraQueryString">SRX273177</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Jo278-1</prop>
+    <prop name="sraQueryString">SRX255605,SRX255626</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Jp1088</prop>
+    <prop name="sraQueryString">SRX273178</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">LP-RSA116</prop>
+    <prop name="sraQueryString">SRX255652,SRX255640</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">LP-RSA1343</prop>
+    <prop name="sraQueryString">SRX255650,SRX256471</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">LP-RSA2296</prop>
+    <prop name="sraQueryString">SRX255953,SRX255947,SRX256002</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">LP-RSA2297</prop>
+    <prop name="sraQueryString">SRX400059,SRX400060</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">LP-RSA3042</prop>
+    <prop name="sraQueryString">SRX255601,SRX272112,SRX255614</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">LP-RSA848</prop>
+    <prop name="sraQueryString">SRX256059,SRX256542</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">MW-RSA1869</prop>
+    <prop name="sraQueryString">SRX256048,SRX256394</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">MW-RSA2628</prop>
+    <prop name="sraQueryString">SRX256351,SRX255586,SRX255954</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">MW-RSA3834</prop>
+    <prop name="sraQueryString">SRX400065,SRX400066</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">MW-RSA524</prop>
+    <prop name="sraQueryString">SRX400069,SRX400070</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">MW-RSA5387</prop>
+    <prop name="sraQueryString">SRX256423,SRX256373</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">MW-RSA606</prop>
+    <prop name="sraQueryString">SRX256499,SRX255982</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">MW-RSA6134</prop>
+    <prop name="sraQueryString">SRX256033,SRX256450</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">MW-RSA722</prop>
+    <prop name="sraQueryString">SRX256408,SRX255660,SRX256469</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">MW-RSA82</prop>
+    <prop name="sraQueryString">SRX256034</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">MW-RSA1955</prop>
+    <prop name="sraQueryString">SRX189627</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">MW-RSA36</prop>
+    <prop name="sraQueryString">SRX189629</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5001.ENR</prop>
+    <prop name="sraQueryString">SRR1925902,SRR1942906,SRR1944742</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5010.ENR</prop>
+    <prop name="sraQueryString">SRR1931699,SRR1944737,SRR1944858</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5015.ENR</prop>
+    <prop name="sraQueryString">SRR1926055,SRR1942927,SRR1943060</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5015.REL.CLIN.ISO</prop>
+    <prop name="sraQueryString">SRR1942971,SRR1944855,SRR1944865</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5017.ENR</prop>
+    <prop name="sraQueryString">SRR1925881,SRR1926054,SRR1943072</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5025.ENR.CLIN.1</prop>
+    <prop name="sraQueryString">SRR1926039,SRR1942899,SRR1942922</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5028.ENR.STOR</prop>
+    <prop name="sraQueryString">SRR1931698,SRR1944721,SRR1944863</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5036.ENR</prop>
+    <prop name="sraQueryString">SRR1925911,SRR1943118,SRR1944722</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5044.REL.INI.CLIN.ISO</prop>
+    <prop name="sraQueryString">SRR1925894,SRR1926014,SRR1944774</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">NRHc5048.ENR.ISO</prop>
+    <prop name="sraQueryString">SRR1926048,SRR1942978,SRR1944764</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">PMHc1018.ENR</prop>
+    <prop name="sraQueryString">SRR1926080,SRR1942966,SRR1944714</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">PMHc1020.CLIN.1</prop>
+    <prop name="sraQueryString">SRR1925952,SRR1944762,SRR1944782</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">PMHc1022.ENR</prop>
+    <prop name="sraQueryString">SRR1926056,SRR1944781,SRR1944787</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">PMHc1031A.ENR.INI.LP</prop>
+    <prop name="sraQueryString">SRR1943071,SRR1947256,SRR1947259</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">PMHc1032.ENR</prop>
+    <prop name="sraQueryString">SRR1942909,SRR1942994,SRR1944817</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">PMHc1034.ENR.STOR</prop>
+    <prop name="sraQueryString">SRR1925890,SRR1925993,SRR1944759</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">PMHc1039.ENR.STOR</prop>
+    <prop name="sraQueryString">SRR1943005,SRR1943018,SRR1947209</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">PMHc1040.ENR.STOR</prop>
+    <prop name="sraQueryString">SRR1942988,SRR1944842,SRR1944852</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">PMHc1043.ENR.STOR</prop>
+    <prop name="sraQueryString">SRR1925912,SRR1925992,SRR1942982</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Pr284-1</prop>
+    <prop name="sraQueryString">SRX273196,SRX273197</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Pr68</prop>
+    <prop name="sraQueryString">SRX256463</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">RTC1</prop>
+    <prop name="sraQueryString">SRX273198</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">RTC5</prop>
+    <prop name="sraQueryString">SRX273204</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">TCl-11</prop>
+    <prop name="sraQueryString">SRX400077,SRX400078</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">TCl-14</prop>
+    <prop name="sraQueryString">SRX400080,SRX400079</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Th206</prop>
+    <prop name="sraQueryString">SRX256441,SRX256525</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Th84</prop>
+    <prop name="sraQueryString">SRX189610,SRX189373</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Tu241-1</prop>
+    <prop name="sraQueryString">SRX255635,SRX256357</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Tu259-1</prop>
+    <prop name="sraQueryString">SRX189602,SRX189377</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ug2459</prop>
+    <prop name="sraQueryString">SRX273265</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">Ug2463</prop>
+    <prop name="sraQueryString">SRX273271</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Cuomo_387_Isolates</prop>
+    <prop name="snpStrainAbbrev">WM148</prop>
+    <prop name="sraQueryString">SRX255666,SRX255617</prop>
+  </dataset>
+
+</datasets>

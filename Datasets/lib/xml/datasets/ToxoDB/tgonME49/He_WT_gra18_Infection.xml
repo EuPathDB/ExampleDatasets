@@ -1,0 +1,44 @@
+<datasets>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">He_WT_gra18_Infection</prop>
+    <prop name="sampleName">SRX3133125</prop>
+    <prop name="sraQueryString">SRX3133125</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">He_WT_gra18_Infection</prop>
+    <prop name="sampleName">SRX3133126</prop>
+    <prop name="sraQueryString">SRX3133126</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">He_WT_gra18_Infection</prop>
+    <prop name="sampleName">SRX3133127</prop>
+    <prop name="sraQueryString">SRX3133127</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">He_WT_gra18_Infection</prop>
+    <prop name="sampleName">SRX3133129</prop>
+    <prop name="sraQueryString">SRX3133129</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">He_WT_gra18_Infection</prop>
+    <prop name="sampleName">SRX3133130</prop>
+    <prop name="sraQueryString">SRX3133130</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">He_WT_gra18_Infection</prop>
+    <prop name="sampleName">SRX3133131</prop>
+    <prop name="sraQueryString">SRX3133131</prop>
+  </dataset>
+
+</datasets>

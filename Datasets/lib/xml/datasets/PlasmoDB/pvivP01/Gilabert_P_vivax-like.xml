@@ -1,0 +1,167 @@
+<datasets>
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Gilabert_P_vivax-like</prop>
+    <prop name="snpStrainAbbrev">Pvl01</prop>
+    <prop name="sraQueryString">ERR1739851</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PlasmoDB</prop>
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Gilabert_P_vivax-like</prop>
+    <prop name="experimentVersion">2016-04-13</prop>
+    <prop name="sampleName">Pvl01</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Gilabert_P_vivax-like</prop>
+    <prop name="snpStrainAbbrev">Pvl02</prop>
+    <prop name="sraQueryString">SAMEA2163676</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PlasmoDB</prop>
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Gilabert_P_vivax-like</prop>
+    <prop name="experimentVersion">2016-04-13</prop>
+    <prop name="sampleName">Pvl02</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Gilabert_P_vivax-like</prop>
+    <prop name="snpStrainAbbrev">Pvl03</prop>
+    <prop name="sraQueryString">SAMEA2163678</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PlasmoDB</prop>
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Gilabert_P_vivax-like</prop>
+    <prop name="experimentVersion">2016-04-13</prop>
+    <prop name="sampleName">Pvl03</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Gilabert_P_vivax-like</prop>
+    <prop name="snpStrainAbbrev">Pvl04</prop>
+    <prop name="sraQueryString">SAMEA2163682</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PlasmoDB</prop>
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Gilabert_P_vivax-like</prop>
+    <prop name="experimentVersion">2016-04-13</prop>
+    <prop name="sampleName">Pvl04</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Gilabert_P_vivax-like</prop>
+    <prop name="snpStrainAbbrev">Pvl05</prop>
+    <prop name="sraQueryString">SAMEA2163675</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PlasmoDB</prop>
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Gilabert_P_vivax-like</prop>
+    <prop name="experimentVersion">2016-04-13</prop>
+    <prop name="sampleName">Pvl05</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Gilabert_P_vivax-like</prop>
+    <prop name="snpStrainAbbrev">Pvl06</prop>
+    <prop name="sraQueryString">SAMEA2200867</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PlasmoDB</prop>
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Gilabert_P_vivax-like</prop>
+    <prop name="experimentVersion">2016-04-13</prop>
+    <prop name="sampleName">Pvl06</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Gilabert_P_vivax-like</prop>
+    <prop name="snpStrainAbbrev">Pvl07</prop>
+    <prop name="sraQueryString">SAMEA2163681</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PlasmoDB</prop>
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Gilabert_P_vivax-like</prop>
+    <prop name="experimentVersion">2016-04-13</prop>
+    <prop name="sampleName">Pvl07</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Gilabert_P_vivax-like</prop>
+    <prop name="snpStrainAbbrev">Pvl08</prop>
+    <prop name="sraQueryString">SAMEA2464700</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PlasmoDB</prop>
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Gilabert_P_vivax-like</prop>
+    <prop name="experimentVersion">2016-04-13</prop>
+    <prop name="sampleName">Pvl08</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Gilabert_P_vivax-like</prop>
+    <prop name="snpStrainAbbrev">Pvl09</prop>
+    <prop name="sraQueryString">SAMEA2163643</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PlasmoDB</prop>
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Gilabert_P_vivax-like</prop>
+    <prop name="experimentVersion">2016-04-13</prop>
+    <prop name="sampleName">Pvl09</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Gilabert_P_vivax-like</prop>
+    <prop name="snpStrainAbbrev">Pvl10</prop>
+    <prop name="sraQueryString">SAMEA2200864</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PlasmoDB</prop>
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Gilabert_P_vivax-like</prop>
+    <prop name="experimentVersion">2016-04-13</prop>
+    <prop name="sampleName">Pvl10</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Gilabert_P_vivax-like</prop>
+    <prop name="snpStrainAbbrev">Pvl11</prop>
+    <prop name="sraQueryString">SAMEA2200863</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PlasmoDB</prop>
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Gilabert_P_vivax-like</prop>
+    <prop name="experimentVersion">2016-04-13</prop>
+    <prop name="sampleName">Pvl11</prop>
+  </dataset>
+
+</datasets>

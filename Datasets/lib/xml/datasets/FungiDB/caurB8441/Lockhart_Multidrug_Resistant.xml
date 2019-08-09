@@ -1,0 +1,345 @@
+<datasets>
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11096</prop>
+    <prop name="sraQueryString">SRR3883426</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11097</prop>
+    <prop name="sraQueryString">SRR3883427</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11098</prop>
+    <prop name="sraQueryString">SRR3883438</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11099</prop>
+    <prop name="sraQueryString">SRR3883449</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11101</prop>
+    <prop name="sraQueryString">SRR3883460</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11102</prop>
+    <prop name="sraQueryString">SRR3883470</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11103</prop>
+    <prop name="sraQueryString">SRR3883471</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11104</prop>
+    <prop name="sraQueryString">SRR6220384</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11105</prop>
+    <prop name="sraQueryString">SRR3883472</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11112</prop>
+    <prop name="sraQueryString">SRR3883473</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11113</prop>
+    <prop name="sraQueryString">SRR3883474</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11114</prop>
+    <prop name="sraQueryString">SRR3883428</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11115</prop>
+    <prop name="sraQueryString">SRR3883429</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11116</prop>
+    <prop name="sraQueryString">SRR3883430</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11117</prop>
+    <prop name="sraQueryString">SRR3883431</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11118</prop>
+    <prop name="sraQueryString">SRR3883432</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11119</prop>
+    <prop name="sraQueryString">SRR3883433</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11200</prop>
+    <prop name="sraQueryString">SRR3883434</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11201</prop>
+    <prop name="sraQueryString">SRR3883435</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11205</prop>
+    <prop name="sraQueryString">SRR3883436</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11206</prop>
+    <prop name="sraQueryString">SRR3883437</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11207</prop>
+    <prop name="sraQueryString">SRR3883439</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11208</prop>
+    <prop name="sraQueryString">SRR3883440</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11209</prop>
+    <prop name="sraQueryString">SRR3883441</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11210</prop>
+    <prop name="sraQueryString">SRR3883442</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11212</prop>
+    <prop name="sraQueryString">SRR3883443</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11213</prop>
+    <prop name="sraQueryString">SRR3883444</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11214</prop>
+    <prop name="sraQueryString">SRR3883445</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11215</prop>
+    <prop name="sraQueryString">SRR3883446</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11216</prop>
+    <prop name="sraQueryString">SRR3883447</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11217</prop>
+    <prop name="sraQueryString">SRR3883448</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11218</prop>
+    <prop name="sraQueryString">SRR3883450</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11219</prop>
+    <prop name="sraQueryString">SRR3883451</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11220</prop>
+    <prop name="sraQueryString">SRR3883452</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11221</prop>
+    <prop name="sraQueryString">SRR3883453</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11222</prop>
+    <prop name="sraQueryString">SRR3883454</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11223</prop>
+    <prop name="sraQueryString">SRR3883455</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11224</prop>
+    <prop name="sraQueryString">SRR3883456</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11225</prop>
+    <prop name="sraQueryString">SRR3883457</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11226</prop>
+    <prop name="sraQueryString">SRR3883458</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11227</prop>
+    <prop name="sraQueryString">SRR3883459</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11228</prop>
+    <prop name="sraQueryString">SRR3883461</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11229</prop>
+    <prop name="sraQueryString">SRR3883462</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11230</prop>
+    <prop name="sraQueryString">SRR3883463</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11243</prop>
+    <prop name="sraQueryString">SRR3883464</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11244</prop>
+    <prop name="sraQueryString">SRR3883465</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11245</prop>
+    <prop name="sraQueryString">SRR3883466</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11246</prop>
+    <prop name="sraQueryString">SRR3883467</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Lockhart_Multidrug_Resistant</prop>
+    <prop name="snpStrainAbbrev">CDC_B11247</prop>
+    <prop name="sraQueryString">SRR3883468</prop>
+  </dataset>
+
+</datasets>

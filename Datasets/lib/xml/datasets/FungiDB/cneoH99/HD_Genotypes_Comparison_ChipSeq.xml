@@ -1,0 +1,155 @@
+<datasets>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison_ChipSeq</prop>
+    <prop name="sampleName">H3K27me3_WT_1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison_ChipSeq</prop>
+    <prop name="sampleName">H3K27me3_WT_2</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison_ChipSeq</prop>
+    <prop name="sampleName">H3K27me3_WT_3</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison_ChipSeq</prop>
+    <prop name="sampleName">H3K27me3_ezh2_knockout_1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison_ChipSeq</prop>
+    <prop name="sampleName">H3K27me3_ezh2_knockout_2</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison_ChipSeq</prop>
+    <prop name="sampleName">H3K27me3_msl1_knockout_1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison_ChipSeq</prop>
+    <prop name="sampleName">H3K27me3_msl1_knockout_2</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison_ChipSeq</prop>
+    <prop name="sampleName">H3K27me3_ccc1_knockout_1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison_ChipSeq</prop>
+    <prop name="sampleName">H3K27me3_ccc1_knockout_2</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison_ChipSeq</prop>
+    <prop name="sampleName">H3K27me3_ccc1-w52a_1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison_ChipSeq</prop>
+    <prop name="sampleName">H3K27me3_ccc1-w52a_2</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison_ChipSeq</prop>
+    <prop name="sampleName">H3K27me3_ccc1-w52a_3</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison_ChipSeq</prop>
+    <prop name="sampleName">H3K27me3_clr4_knockout_1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison_ChipSeq</prop>
+    <prop name="sampleName">H3K27me3_ccc1-w52a_clr4_knockout_1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison_ChipSeq</prop>
+    <prop name="sampleName">H3K9me2_WT_1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison_ChipSeq</prop>
+    <prop name="sampleName">H3K9me2_ezh2_knockout_1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison_ChipSeq</prop>
+    <prop name="sampleName">H3K9me2_ccc1-w52a_1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison_ChipSeq</prop>
+    <prop name="sampleName">H3K9me2_clr4_knockout_1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">HD_Genotypes_Comparison_ChipSeq</prop>
+    <prop name="sampleName">whole_cell_extract_1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+</datasets>

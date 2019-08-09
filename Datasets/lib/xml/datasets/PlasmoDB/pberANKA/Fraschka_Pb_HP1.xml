@@ -1,0 +1,17 @@
+<datasets>
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pberANKA</prop>
+    <prop name="experimentName">Fraschka_Pb_HP1</prop>
+    <prop name="sampleName">PbANKA_schizont_HP1</prop>
+    <prop name="inputName">PbANKA_schizont_Input</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pberANKA</prop>
+    <prop name="experimentName">Fraschka_Pb_HP1</prop>
+    <prop name="sampleName">PbANKA_schizont_Input</prop>
+    <prop name="inputName">PbANKA_schizont_Input</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+</datasets>

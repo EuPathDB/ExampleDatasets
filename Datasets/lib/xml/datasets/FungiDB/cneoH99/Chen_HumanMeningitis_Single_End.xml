@@ -1,0 +1,31 @@
+<datasets>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Chen_HumanMeningitis_Single_End</prop>
+    <prop name="sampleName">G0_in_vivo_CSF</prop>
+    <prop name="sraQueryString">SRR1015484</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Chen_HumanMeningitis_Single_End</prop>
+    <prop name="sampleName">G0_YPD</prop>
+    <prop name="sraQueryString">SRR1015482</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Chen_HumanMeningitis_Single_End</prop>
+    <prop name="sampleName">HC1_in_vivo_CSF</prop>
+    <prop name="sraQueryString">SRR1015481</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Chen_HumanMeningitis_Single_End</prop>
+    <prop name="sampleName">HC1_YPD</prop>
+    <prop name="sraQueryString">SRR1015479</prop>
+  </dataset>
+
+</datasets>

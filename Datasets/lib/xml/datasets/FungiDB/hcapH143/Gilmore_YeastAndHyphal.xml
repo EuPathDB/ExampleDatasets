@@ -1,0 +1,31 @@
+<datasets>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">hcapH143</prop>
+    <prop name="experimentName">Gilmore_YeastAndHyphal</prop>
+    <prop name="sampleName">SRX1022555</prop>
+    <prop name="sraQueryString">SRX1022555</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">hcapH143</prop>
+    <prop name="experimentName">Gilmore_YeastAndHyphal</prop>
+    <prop name="sampleName">SRX1022556</prop>
+    <prop name="sraQueryString">SRX1022556</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">hcapH143</prop>
+    <prop name="experimentName">Gilmore_YeastAndHyphal</prop>
+    <prop name="sampleName">SRX1022557</prop>
+    <prop name="sraQueryString">SRX1022557</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">hcapH143</prop>
+    <prop name="experimentName">Gilmore_YeastAndHyphal</prop>
+    <prop name="sampleName">SRX1022558</prop>
+    <prop name="sraQueryString">SRX1022558</prop>
+  </dataset>
+</datasets>
+
+

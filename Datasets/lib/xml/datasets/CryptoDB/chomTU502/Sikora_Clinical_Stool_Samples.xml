@@ -1,0 +1,93 @@
+<datasets>
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Sikora_Clinical_Stool_Samples</prop>
+    <prop name="snpStrainAbbrev">SWEH1</prop>
+    <prop name="sraQueryString">SRR3098102</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Sikora_Clinical_Stool_Samples</prop>
+    <prop name="snpStrainAbbrev">SWEH2</prop>
+    <prop name="sraQueryString">SRR3098103</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Sikora_Clinical_Stool_Samples</prop>
+    <prop name="snpStrainAbbrev">SWEH3</prop>
+    <prop name="sraQueryString">SRR3098107</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Sikora_Clinical_Stool_Samples</prop>
+    <prop name="snpStrainAbbrev">SWEH4</prop>
+    <prop name="sraQueryString">SRR3098108</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Sikora_Clinical_Stool_Samples</prop>
+    <prop name="snpStrainAbbrev">SWEH5</prop>
+    <prop name="sraQueryString">SRR3098109</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Sikora_Clinical_Stool_Samples</prop>
+    <prop name="snpStrainAbbrev">SWEH6</prop>
+    <prop name="sraQueryString">SRR3098110</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Sikora_Clinical_Stool_Samples</prop>
+    <prop name="snpStrainAbbrev">SWEH7</prop>
+    <prop name="sraQueryString">SRR3098111</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Sikora_Clinical_Stool_Samples</prop>
+    <prop name="snpStrainAbbrev">SWEH8</prop>
+    <prop name="sraQueryString">SRR3098112</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Sikora_Clinical_Stool_Samples</prop>
+    <prop name="snpStrainAbbrev">SWEH9</prop>
+    <prop name="sraQueryString">SRR3098113</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Sikora_Clinical_Stool_Samples</prop>
+    <prop name="snpStrainAbbrev">SWEH10</prop>
+    <prop name="sraQueryString">SRR3098114</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Sikora_Clinical_Stool_Samples</prop>
+    <prop name="snpStrainAbbrev">SWEH11</prop>
+    <prop name="sraQueryString">SRR3098104</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Sikora_Clinical_Stool_Samples</prop>
+    <prop name="snpStrainAbbrev">SWEH12</prop>
+    <prop name="sraQueryString">SRR3098105</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Sikora_Clinical_Stool_Samples</prop>
+    <prop name="snpStrainAbbrev">SWEH13</prop>
+    <prop name="sraQueryString">SRR3098106</prop>
+  </dataset>
+
+</datasets>

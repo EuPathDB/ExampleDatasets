@@ -1,0 +1,16 @@
+<datasets>
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Guo_Genetic_Recombination_Paired_End</prop>
+    <prop name="snpStrainAbbrev">37999</prop>
+    <prop name="sraQueryString">SRR1558150</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Guo_Genetic_Recombination_Paired_End</prop>
+    <prop name="snpStrainAbbrev">30976</prop>
+    <prop name="sraQueryString">SRR1557959</prop>
+  </dataset>
+
+</datasets>

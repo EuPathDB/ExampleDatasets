@@ -1,0 +1,241 @@
+<datasets>
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+    <prop name="snpStrainAbbrev">3D7_WTSI</prop>
+    <prop name="sraQueryString">ERR862170,ERR862169,ERR713964,ERR1343008</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">PlasmoDB</prop>
+      <prop name="organismAbbrev">pfal3D7</prop>
+      <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+      <prop name="experimentVersion">2018-05-03</prop>
+      <prop name="sampleName">3D7_WTSI</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+    <prop name="snpStrainAbbrev">IT_WTSI</prop>
+    <prop name="sraQueryString">ERR862172,ERR862171,ERR713965,ERR1343009</prop>
+  </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">PlasmoDB</prop>
+      <prop name="organismAbbrev">pfal3D7</prop>
+      <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+      <prop name="experimentVersion">2018-05-03</prop>
+      <prop name="sampleName">IT_WTSI</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+    <prop name="snpStrainAbbrev">DD2_WTSI</prop>
+    <prop name="sraQueryString">ERR1008806</prop>
+  </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">PlasmoDB</prop>
+      <prop name="organismAbbrev">pfal3D7</prop>
+      <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+      <prop name="experimentVersion">2018-05-03</prop>
+      <prop name="sampleName">DD2_WTSI</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+    <prop name="snpStrainAbbrev">HB3_WTSI</prop>
+    <prop name="sraQueryString">ERR1008805</prop>
+  </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">PlasmoDB</prop>
+      <prop name="organismAbbrev">pfal3D7</prop>
+      <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+      <prop name="experimentVersion">2018-05-03</prop>
+      <prop name="sampleName">HB3_WTSI</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+    <prop name="snpStrainAbbrev">7G8_WTSI</prop>
+    <prop name="sraQueryString">ERR1008803</prop>
+  </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">PlasmoDB</prop>
+      <prop name="organismAbbrev">pfal3D7</prop>
+      <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+      <prop name="experimentVersion">2018-05-03</prop>
+      <prop name="sampleName">7G8_WTSI</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+    <prop name="snpStrainAbbrev">GB4_WTSI</prop>
+    <prop name="sraQueryString">ERR1008804</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">PlasmoDB</prop>
+      <prop name="organismAbbrev">pfal3D7</prop>
+      <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+      <prop name="experimentVersion">2018-05-03</prop>
+      <prop name="sampleName">GB4_WTSI</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+    <prop name="snpStrainAbbrev">SN01</prop>
+    <prop name="sraQueryString">ERR980502</prop>
+  </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">PlasmoDB</prop>
+      <prop name="organismAbbrev">pfal3D7</prop>
+      <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+      <prop name="experimentVersion">2018-05-03</prop>
+      <prop name="sampleName">SN01</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+    <prop name="snpStrainAbbrev">GN01</prop>
+    <prop name="sraQueryString">ERR980507</prop>
+  </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">PlasmoDB</prop>
+      <prop name="organismAbbrev">pfal3D7</prop>
+      <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+      <prop name="experimentVersion">2018-05-03</prop>
+      <prop name="sampleName">GN01</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+    <prop name="snpStrainAbbrev">TG01</prop>
+    <prop name="sraQueryString">ERR1024467,ERR1015543</prop>
+  </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">PlasmoDB</prop>
+      <prop name="organismAbbrev">pfal3D7</prop>
+      <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+      <prop name="experimentVersion">2018-05-03</prop>
+      <prop name="sampleName">TG01</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+    <prop name="snpStrainAbbrev">ML01</prop>
+    <prop name="sraQueryString">ERR1024469,ERR1015545</prop>
+  </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">PlasmoDB</prop>
+      <prop name="organismAbbrev">pfal3D7</prop>
+      <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+      <prop name="experimentVersion">2018-05-03</prop>
+      <prop name="sampleName">ML01</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+    <prop name="snpStrainAbbrev">GA01</prop>
+    <prop name="sraQueryString">ERR980506</prop>
+  </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">PlasmoDB</prop>
+      <prop name="organismAbbrev">pfal3D7</prop>
+      <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+      <prop name="experimentVersion">2018-05-03</prop>
+      <prop name="sampleName">GA01</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+    <prop name="snpStrainAbbrev">SD01</prop>
+    <prop name="sraQueryString">ERR1024468,ERR1015544</prop>
+  </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">PlasmoDB</prop>
+      <prop name="organismAbbrev">pfal3D7</prop>
+      <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+      <prop name="experimentVersion">2018-05-03</prop>
+      <prop name="sampleName">SD01</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+    <prop name="snpStrainAbbrev">KE01</prop>
+    <prop name="sraQueryString">ERR980504</prop>
+  </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">PlasmoDB</prop>
+      <prop name="organismAbbrev">pfal3D7</prop>
+      <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+      <prop name="experimentVersion">2018-05-03</prop>
+      <prop name="sampleName">KE01</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+    <prop name="snpStrainAbbrev">KH01</prop>
+    <prop name="sraQueryString">ERR1024466,ERR1015542</prop>
+  </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">PlasmoDB</prop>
+      <prop name="organismAbbrev">pfal3D7</prop>
+      <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+      <prop name="experimentVersion">2018-05-03</prop>
+      <prop name="sampleName">KH01</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+    <prop name="snpStrainAbbrev">KH02</prop>
+    <prop name="sraQueryString">ERR980503</prop>
+  </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">PlasmoDB</prop>
+      <prop name="organismAbbrev">pfal3D7</prop>
+      <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+      <prop name="experimentVersion">2018-05-03</prop>
+      <prop name="sampleName">KH02</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+    <prop name="snpStrainAbbrev">CD01</prop>
+  </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">PlasmoDB</prop>
+      <prop name="organismAbbrev">pfal3D7</prop>
+      <prop name="experimentName">Otto_GeoDispersedIsolates</prop>
+      <prop name="experimentVersion">2018-05-03</prop>
+      <prop name="sampleName">CD01</prop>
+  </dataset>
+
+</datasets>

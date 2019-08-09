@@ -1,0 +1,58 @@
+<datasets>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">gassAWB</prop>
+    <prop name="experimentName">Pham_Intestine_Foci</prop>
+    <prop name="sampleName">SRR5468953</prop>
+    <prop name="sraQueryString">SRR5468953</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">gassAWB</prop>
+    <prop name="experimentName">Pham_Intestine_Foci</prop>
+    <prop name="sampleName">SRR5468952</prop>
+    <prop name="sraQueryString">SRR5468952</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">gassAWB</prop>
+    <prop name="experimentName">Pham_Intestine_Foci</prop>
+    <prop name="sampleName">SRR5468951</prop>
+    <prop name="sraQueryString">SRR5468951</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">gassAWB</prop>
+    <prop name="experimentName">Pham_Intestine_Foci</prop>
+    <prop name="sampleName">SRR5468950</prop>
+    <prop name="sraQueryString">SRR5468950</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">gassAWB</prop>
+    <prop name="experimentName">Pham_Intestine_Foci</prop>
+    <prop name="sampleName">SRR5468949</prop>
+    <prop name="sraQueryString">SRR5468949</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">gassAWB</prop>
+    <prop name="experimentName">Pham_Intestine_Foci</prop>
+    <prop name="sampleName">SRR5468948</prop>
+    <prop name="sraQueryString">SRR5468948</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">gassAWB</prop>
+    <prop name="experimentName">Pham_Intestine_Foci</prop>
+    <prop name="sampleName">SRR5468947</prop>
+    <prop name="sraQueryString">SRR5468947</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">gassAWB</prop>
+    <prop name="experimentName">Pham_Intestine_Foci</prop>
+    <prop name="sampleName">SRR5468946</prop>
+    <prop name="sraQueryString">SRR5468946</prop>
+  </dataset>
+
+</datasets>

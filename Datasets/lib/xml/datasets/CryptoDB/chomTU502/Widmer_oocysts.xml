@@ -1,0 +1,16 @@
+<datasets>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Widmer_oocysts</prop>
+    <prop name="sampleName">ERR2433404</prop>
+    <prop name="sraQueryString">ERR2433404</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Widmer_oocysts</prop>
+    <prop name="sampleName">ERR2433405</prop>
+    <prop name="sraQueryString">ERR2433405</prop>
+  </dataset>
+
+</datasets>

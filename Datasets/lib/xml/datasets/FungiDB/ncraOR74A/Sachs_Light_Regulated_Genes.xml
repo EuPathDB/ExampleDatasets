@@ -1,0 +1,116 @@
+<datasets>
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Sachs_Light_Regulated_Genes</prop>
+    <prop name="sampleName">WT_light_15_min_Rep1</prop>
+    <prop name="sraQueryString">SRX396824</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Sachs_Light_Regulated_Genes</prop>
+    <prop name="sampleName">WT_light_15_min_Rep2</prop>
+    <prop name="sraQueryString">SRX396829</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Sachs_Light_Regulated_Genes</prop>
+    <prop name="sampleName">WT_light_60_min_Rep1</prop>
+    <prop name="sraQueryString">SRX396825</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Sachs_Light_Regulated_Genes</prop>
+    <prop name="sampleName">WT_light_60_min_Rep2</prop>
+    <prop name="sraQueryString">SRX396830</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Sachs_Light_Regulated_Genes</prop>
+    <prop name="sampleName">WT_light_120_min_Rep1</prop>
+    <prop name="sraQueryString">SRX396826</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Sachs_Light_Regulated_Genes</prop>
+    <prop name="sampleName">WT_light_120_min_Rep2</prop>
+    <prop name="sraQueryString">SRX396831</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Sachs_Light_Regulated_Genes</prop>
+    <prop name="sampleName">WT_light_240_min_Rep1</prop>
+    <prop name="sraQueryString">SRX396827</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Sachs_Light_Regulated_Genes</prop>
+    <prop name="sampleName">WT_light_240_min_Rep2</prop>
+    <prop name="sraQueryString">SRX396832</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Sachs_Light_Regulated_Genes</prop>
+    <prop name="sampleName">WT_dark_Rep1</prop>
+    <prop name="sraQueryString">SRX396823</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Sachs_Light_Regulated_Genes</prop>
+    <prop name="sampleName">WT_dark_Rep2</prop>
+    <prop name="sraQueryString">SRX396828</prop>
+  </dataset>
+
+<!--
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Sachs_Light_Regulated_Genes</prop>
+    <prop name="sampleName">delta_adv-1_light_15_min_Rep1</prop>
+    <prop name="sraQueryString">SRX1077737</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Sachs_Light_Regulated_Genes</prop>
+    <prop name="sampleName">delta_adv-1_light_15_min_Rep2</prop>
+    <prop name="sraQueryString">SRX1078015</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Sachs_Light_Regulated_Genes</prop>
+    <prop name="sampleName">delta_adv-1_light_60_min_Rep1</prop>
+    <prop name="sraQueryString">SRX1078017</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Sachs_Light_Regulated_Genes</prop>
+    <prop name="sampleName">delta_adv-1_light_60_min_Rep2</prop>
+    <prop name="sraQueryString">SRX1077739</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Sachs_Light_Regulated_Genes</prop>
+    <prop name="sampleName">delta_adv-1_dark_Rep1</prop>
+    <prop name="sraQueryString">SRX1077741</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Sachs_Light_Regulated_Genes</prop>
+    <prop name="sampleName">delta_adv-1_dark_Rep2</prop>
+    <prop name="sraQueryString">SRX1077018</prop>
+  </dataset>
+-->
+
+</datasets>

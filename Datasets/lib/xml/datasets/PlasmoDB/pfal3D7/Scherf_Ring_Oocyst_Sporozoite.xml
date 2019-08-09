@@ -1,0 +1,67 @@
+<datasets>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Scherf_Ring_Oocyst_Sporozoite</prop>
+    <prop name="sampleName">SRX2464418</prop>
+    <prop name="sraQueryString">SRX2464418</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Scherf_Ring_Oocyst_Sporozoite</prop>
+    <prop name="sampleName">SRX2464416</prop>
+    <prop name="sraQueryString">SRX2464416</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Scherf_Ring_Oocyst_Sporozoite</prop>
+    <prop name="sampleName">SRX2464419</prop>
+    <prop name="sraQueryString">SRX2464419</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Scherf_Ring_Oocyst_Sporozoite</prop>
+    <prop name="sampleName">SRX2464417</prop>
+    <prop name="sraQueryString">SRX2464417</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Scherf_Ring_Oocyst_Sporozoite</prop>
+    <prop name="sampleName">SRX2468362</prop>
+    <prop name="sraQueryString">SRX2468362</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Scherf_Ring_Oocyst_Sporozoite</prop>
+    <prop name="sampleName">SRX2468361</prop>
+    <prop name="sraQueryString">SRX2468361</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Scherf_Ring_Oocyst_Sporozoite</prop>
+    <prop name="sampleName">SRX2468363</prop>
+    <prop name="sraQueryString">SRX2468363</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Scherf_Ring_Oocyst_Sporozoite</prop>
+    <prop name="sampleName">SRX2464460</prop>
+    <prop name="sraQueryString">SRX2464460</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Scherf_Ring_Oocyst_Sporozoite</prop>
+    <prop name="sampleName">SRX2464461</prop>
+    <prop name="sraQueryString">SRX2464461</prop>
+  </dataset>
+
+
+</datasets>

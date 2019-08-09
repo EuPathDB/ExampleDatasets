@@ -1,0 +1,106 @@
+<datasets>
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Hadfield_IMS_Stool_Samples</prop>
+    <prop name="snpStrainAbbrev">UKP2</prop>
+    <prop name="sraQueryString">SRR6117460</prop>
+  </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">CryptoDB</prop>
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Hadfield_IMS_Stool_Samples</prop>
+    <prop name="experimentVersion">2015-08-29</prop>
+    <prop name="sampleName">UKP2</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Hadfield_IMS_Stool_Samples</prop>
+    <prop name="snpStrainAbbrev">UKP3</prop>
+    <prop name="sraQueryString">SRR6147472</prop>
+  </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">CryptoDB</prop>
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Hadfield_IMS_Stool_Samples</prop>
+    <prop name="experimentVersion">2015-08-29</prop>
+    <prop name="sampleName">UKP3</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Hadfield_IMS_Stool_Samples</prop>
+    <prop name="snpStrainAbbrev">UKP4</prop>
+    <prop name="sraQueryString">SRR6147581</prop>
+  </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">CryptoDB</prop>
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Hadfield_IMS_Stool_Samples</prop>
+    <prop name="experimentVersion">2015-08-29</prop>
+    <prop name="sampleName">UKP4</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Hadfield_IMS_Stool_Samples</prop>
+    <prop name="snpStrainAbbrev">UKP5</prop>
+    <prop name="sraQueryString">SRR6147587</prop>
+  </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">CryptoDB</prop>
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Hadfield_IMS_Stool_Samples</prop>
+    <prop name="experimentVersion">2015-08-29</prop>
+    <prop name="sampleName">UKP5</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Hadfield_IMS_Stool_Samples</prop>
+    <prop name="snpStrainAbbrev">UKP6</prop>
+    <prop name="sraQueryString">SRR6147945</prop>
+  </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">CryptoDB</prop>
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Hadfield_IMS_Stool_Samples</prop>
+    <prop name="experimentVersion">2015-08-29</prop>
+    <prop name="sampleName">UKP6</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Hadfield_IMS_Stool_Samples</prop>
+    <prop name="snpStrainAbbrev">UKP7</prop>
+    <prop name="sraQueryString">SRR6147964</prop>
+  </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">CryptoDB</prop>
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Hadfield_IMS_Stool_Samples</prop>
+    <prop name="experimentVersion">2015-08-29</prop>
+    <prop name="sampleName">UKP7</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Hadfield_IMS_Stool_Samples</prop>
+    <prop name="snpStrainAbbrev">UKP8</prop>
+    <prop name="sraQueryString">SRR6148259</prop>
+  </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">CryptoDB</prop>
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Hadfield_IMS_Stool_Samples</prop>
+    <prop name="experimentVersion">2015-08-29</prop>
+    <prop name="sampleName">UKP8</prop>
+  </dataset>
+</datasets>

@@ -1,0 +1,191 @@
+<datasets>
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pbraPb03</prop>
+    <prop name="experimentName">Cuomo_Raw_Sequence_Reads</prop>
+    <prop name="snpStrainAbbrev">Pb18</prop>
+    <prop name="sraQueryString">SRR3727854</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pbraPb03</prop>
+    <prop name="experimentName">Cuomo_Raw_Sequence_Reads</prop>
+    <prop name="snpStrainAbbrev">Pb02</prop>
+    <prop name="sraQueryString">SRR4023673</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pbraPb03</prop>
+    <prop name="experimentName">Cuomo_Raw_Sequence_Reads</prop>
+    <prop name="snpStrainAbbrev">D03</prop>
+    <prop name="sraQueryString">SRR4024723</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pbraPb03</prop>
+    <prop name="experimentName">Cuomo_Raw_Sequence_Reads</prop>
+    <prop name="snpStrainAbbrev">Pb1445</prop>
+    <prop name="sraQueryString">SRR4024724</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pbraPb03</prop>
+    <prop name="experimentName">Cuomo_Raw_Sequence_Reads</prop>
+    <prop name="snpStrainAbbrev">PbCnh</prop>
+    <prop name="sraQueryString">SRR4024725</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pbraPb03</prop>
+    <prop name="experimentName">Cuomo_Raw_Sequence_Reads</prop>
+    <prop name="snpStrainAbbrev">Pb66</prop>
+    <prop name="sraQueryString">SRR4024726</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pbraPb03</prop>
+    <prop name="experimentName">Cuomo_Raw_Sequence_Reads</prop>
+    <prop name="snpStrainAbbrev">EPM83</prop>
+    <prop name="sraQueryString">SRR4024727</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pbraPb03</prop>
+    <prop name="experimentName">Cuomo_Raw_Sequence_Reads</prop>
+    <prop name="snpStrainAbbrev">Pb113</prop>
+    <prop name="sraQueryString">SRR4024728</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pbraPb03</prop>
+    <prop name="experimentName">Cuomo_Raw_Sequence_Reads</prop>
+    <prop name="snpStrainAbbrev">PbBer</prop>
+    <prop name="sraQueryString">SRR4024729</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pbraPb03</prop>
+    <prop name="experimentName">Cuomo_Raw_Sequence_Reads</prop>
+    <prop name="snpStrainAbbrev">T16B1</prop>
+    <prop name="sraQueryString">SRR4024730</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pbraPb03</prop>
+    <prop name="experimentName">Cuomo_Raw_Sequence_Reads</prop>
+    <prop name="snpStrainAbbrev">T1F1</prop>
+    <prop name="sraQueryString">SRR4024731</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pbraPb03</prop>
+    <prop name="experimentName">Cuomo_Raw_Sequence_Reads</prop>
+    <prop name="snpStrainAbbrev">Pb262</prop>
+    <prop name="sraQueryString">SRR4024732</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pbraPb03</prop>
+    <prop name="experimentName">Cuomo_Raw_Sequence_Reads</prop>
+    <prop name="snpStrainAbbrev">PbCaz</prop>
+    <prop name="sraQueryString">SRR4024733</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pbraPb03</prop>
+    <prop name="experimentName">Cuomo_Raw_Sequence_Reads</prop>
+    <prop name="snpStrainAbbrev">Pb337</prop>
+    <prop name="sraQueryString">SRR4024734</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pbraPb03</prop>
+    <prop name="experimentName">Cuomo_Raw_Sequence_Reads</prop>
+    <prop name="snpStrainAbbrev">PbBac</prop>
+    <prop name="sraQueryString">SRR4024736</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pbraPb03</prop>
+    <prop name="experimentName">Cuomo_Raw_Sequence_Reads</prop>
+    <prop name="snpStrainAbbrev">MS1</prop>
+    <prop name="sraQueryString">SRR4024737</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pbraPb03</prop>
+    <prop name="experimentName">Cuomo_Raw_Sequence_Reads</prop>
+    <prop name="snpStrainAbbrev">MS2</prop>
+    <prop name="sraQueryString">SRR4024738</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pbraPb03</prop>
+    <prop name="experimentName">Cuomo_Raw_Sequence_Reads</prop>
+    <prop name="snpStrainAbbrev">PbCab</prop>
+    <prop name="sraQueryString">SRR4024739</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pbraPb03</prop>
+    <prop name="experimentName">Cuomo_Raw_Sequence_Reads</prop>
+    <prop name="snpStrainAbbrev">Pb300</prop>
+    <prop name="sraQueryString">SRR4024740</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pbraPb03</prop>
+    <prop name="experimentName">Cuomo_Raw_Sequence_Reads</prop>
+    <prop name="snpStrainAbbrev">T15N1</prop>
+    <prop name="sraQueryString">SRR4024741</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pbraPb03</prop>
+    <prop name="experimentName">Cuomo_Raw_Sequence_Reads</prop>
+    <prop name="snpStrainAbbrev">PbBlo</prop>
+    <prop name="sraQueryString">SRR4024742</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pbraPb03</prop>
+    <prop name="experimentName">Cuomo_Raw_Sequence_Reads</prop>
+    <prop name="snpStrainAbbrev">T10B1</prop>
+    <prop name="sraQueryString">SRR4024743</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pbraPb03</prop>
+    <prop name="experimentName">Cuomo_Raw_Sequence_Reads</prop>
+    <prop name="snpStrainAbbrev">D02</prop>
+    <prop name="sraQueryString">SRR4024744</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pbraPb03</prop>
+    <prop name="experimentName">Cuomo_Raw_Sequence_Reads</prop>
+    <prop name="snpStrainAbbrev">PbJam</prop>
+    <prop name="sraQueryString">SRR4024745</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pbraPb03</prop>
+    <prop name="experimentName">Cuomo_Raw_Sequence_Reads</prop>
+    <prop name="snpStrainAbbrev">Pb60855</prop>
+    <prop name="sraQueryString">SRR4024748</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pbraPb03</prop>
+    <prop name="experimentName">Cuomo_Raw_Sequence_Reads</prop>
+    <prop name="snpStrainAbbrev">Pb339</prop>
+    <prop name="sraQueryString">SRR4024750</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pbraPb03</prop>
+    <prop name="experimentName">Cuomo_Raw_Sequence_Reads</prop>
+    <prop name="snpStrainAbbrev">Pb03_resequence1</prop>
+    <prop name="sraQueryString">SRR4024790</prop>
+  </dataset>
+
+</datasets>

@@ -1,0 +1,229 @@
+<datasets>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Freitag_histonemod_nitrogenLevel</prop>
+    <prop name="sampleName">H3K27me3_DELkmt6_neoR_high-R1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset> 
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Freitag_histonemod_nitrogenLevel</prop>
+    <prop name="sampleName">H3K27me3_DELkmt6_neoR_high-R2</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Freitag_histonemod_nitrogenLevel</prop>
+    <prop name="sampleName">H3K36me3_DELkmt6_neoR_high</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+  
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Freitag_histonemod_nitrogenLevel</prop>
+    <prop name="sampleName">H3K4me2_DELkmt6_neoR_high-R1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Freitag_histonemod_nitrogenLevel</prop>
+    <prop name="sampleName">H3K4me2_DELkmt6_neoR_high-R2</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Freitag_histonemod_nitrogenLevel</prop>
+    <prop name="sampleName">H3K4me2_DELkmt6_neoR_high-R3</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Freitag_histonemod_nitrogenLevel</prop>
+    <prop name="sampleName">H3K4me3_DELkmt6_neoR_high</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+ 
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Freitag_histonemod_nitrogenLevel</prop>
+    <prop name="sampleName">H3K27me3_DELkmt6_neoR_low-R1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Freitag_histonemod_nitrogenLevel</prop>
+    <prop name="sampleName">H3K27me3_DELkmt6_neoR_low-R2</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Freitag_histonemod_nitrogenLevel</prop>
+    <prop name="sampleName">H3K36me3_DELkmt6_neoR_low</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Freitag_histonemod_nitrogenLevel</prop>
+    <prop name="sampleName">H3K4me2_DELkmt6_neoR_low-R1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Freitag_histonemod_nitrogenLevel</prop>
+    <prop name="sampleName">H3K4me2_DELkmt6_neoR_low-R2</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Freitag_histonemod_nitrogenLevel</prop>
+    <prop name="sampleName">H3K4me3_DELkmt6_neoR_low</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+  
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Freitag_histonemod_nitrogenLevel</prop>
+    <prop name="sampleName">H3K27me3_DELkmt6_neoR_kmt6+_HygR_high-R1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Freitag_histonemod_nitrogenLevel</prop>
+    <prop name="sampleName">H3K27me3_DELkmt6_neoR_kmt6+_HygR_high-R2</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Freitag_histonemod_nitrogenLevel</prop>
+    <prop name="sampleName">H3K4me2_DELkmt6_neoR_kmt6+_HygR_high-R1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Freitag_histonemod_nitrogenLevel</prop>
+    <prop name="sampleName">H3K4me2_DELkmt6_neoR_kmt6+_HygR_high-R2</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Freitag_histonemod_nitrogenLevel</prop>
+    <prop name="sampleName">H3K27me3_WT_high-R1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Freitag_histonemod_nitrogenLevel</prop>
+    <prop name="sampleName">H3K27me3_WT_high-R2</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Freitag_histonemod_nitrogenLevel</prop>
+    <prop name="sampleName">H3K36me3_WT_high</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Freitag_histonemod_nitrogenLevel</prop>
+    <prop name="sampleName">H3K4me2_WT_high-R1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+   <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Freitag_histonemod_nitrogenLevel</prop>
+    <prop name="sampleName">H3K4me2_WT_high-R2</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+   <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Freitag_histonemod_nitrogenLevel</prop>
+    <prop name="sampleName">H3K4me2_WT_high-R3</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Freitag_histonemod_nitrogenLevel</prop>
+    <prop name="sampleName">H3K4me3_WT_high</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Freitag_histonemod_nitrogenLevel</prop>
+    <prop name="sampleName">H3K27me3_WT_low</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+   <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Freitag_histonemod_nitrogenLevel</prop>
+    <prop name="sampleName">H3K36me3_WT_low</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Freitag_histonemod_nitrogenLevel</prop>
+    <prop name="sampleName">H3K4me2_WT_low</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Freitag_histonemod_nitrogenLevel</prop>
+    <prop name="sampleName">H3K4me3_WT_low</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+</datasets>
+

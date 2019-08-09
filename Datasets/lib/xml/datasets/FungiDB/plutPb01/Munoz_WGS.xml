@@ -1,0 +1,30 @@
+<datasets>
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">plutPb01</prop>
+    <prop name="experimentName">Munoz_WGS</prop>
+    <prop name="snpStrainAbbrev">Pb01_resequence1</prop>
+    <prop name="sraQueryString">SRX2016850</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">plutPb01</prop>
+    <prop name="experimentName">Munoz_WGS</prop>
+    <prop name="snpStrainAbbrev">Pl1578</prop>
+    <prop name="sraQueryString">SRX2016793</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">plutPb01</prop>
+    <prop name="experimentName">Munoz_WGS</prop>
+    <prop name="snpStrainAbbrev">ED01</prop>
+    <prop name="sraQueryString">SRX2016794</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">plutPb01</prop>
+    <prop name="experimentName">Munoz_WGS</prop>
+    <prop name="snpStrainAbbrev">Plee</prop>
+    <prop name="sraQueryString">SRX2016808</prop>
+  </dataset>
+
+</datasets>

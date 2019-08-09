@@ -1,0 +1,31 @@
+<datasets>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Kang_OxidativeStress</prop>
+    <prop name="sampleName">SRR5340038</prop>
+    <prop name="sraQueryString">SRR5340038</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Kang_OxidativeStress</prop>
+    <prop name="sampleName">SRR5340039</prop>
+    <prop name="sraQueryString">SRR5340039</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Kang_OxidativeStress</prop>
+    <prop name="sampleName">SRR5340040</prop>
+    <prop name="sraQueryString">SRR5340040</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Kang_OxidativeStress</prop>
+    <prop name="sampleName">SRR5340041</prop>
+    <prop name="sraQueryString">SRR5340041</prop>
+  </dataset>
+
+</datasets>

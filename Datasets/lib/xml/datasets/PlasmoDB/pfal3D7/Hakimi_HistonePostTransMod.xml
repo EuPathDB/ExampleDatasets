@@ -1,0 +1,125 @@
+<datasets>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Hakimi_HistonePostTransMod</prop>
+    <prop name="sampleName">A_Input</prop>
+    <prop name="inputName">A_Input</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Hakimi_HistonePostTransMod</prop>
+    <prop name="sampleName">B_Input</prop>
+    <prop name="inputName">B_Input</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Hakimi_HistonePostTransMod</prop>
+    <prop name="sampleName">C_Input</prop>
+    <prop name="inputName">C_Input</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Hakimi_HistonePostTransMod</prop>
+    <prop name="sampleName">D_Input</prop>
+    <prop name="inputName">D_Input</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Hakimi_HistonePostTransMod</prop>
+    <prop name="sampleName">E_Input</prop>
+    <prop name="inputName">E_Input</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Hakimi_HistonePostTransMod</prop>
+    <prop name="sampleName">Rep1_H3K4me3</prop>
+    <prop name="inputName">C_Input</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Hakimi_HistonePostTransMod</prop>
+    <prop name="sampleName">Rep1_H3K9me3</prop>
+    <prop name="inputName">A_Input</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Hakimi_HistonePostTransMod</prop>
+    <prop name="sampleName">Rep1_H4K31ac</prop>
+    <prop name="inputName">C_Input</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Hakimi_HistonePostTransMod</prop>
+    <prop name="sampleName">Rep1_H4K31me1</prop>
+    <prop name="inputName">A_Input</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Hakimi_HistonePostTransMod</prop>
+    <prop name="sampleName">Rep1_HP1</prop>
+    <prop name="inputName">A_Input</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Hakimi_HistonePostTransMod</prop>
+    <prop name="sampleName">Rep2_H3K4me3</prop>
+    <prop name="inputName">B_Input</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Hakimi_HistonePostTransMod</prop>
+    <prop name="sampleName">Rep2_H3K9me3</prop>
+    <prop name="inputName">E_Input</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Hakimi_HistonePostTransMod</prop>
+    <prop name="sampleName">Rep2_H4K31ac</prop>
+    <prop name="inputName">D_Input</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Hakimi_HistonePostTransMod</prop>
+    <prop name="sampleName">Rep2_H4K31me1</prop>
+    <prop name="inputName">B_Input</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Hakimi_HistonePostTransMod</prop>
+    <prop name="sampleName">Rep2_HP1</prop>
+    <prop name="inputName">E_Input</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+</datasets>
+
+

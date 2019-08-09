@@ -1,0 +1,44 @@
+<datasets>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Stranded_WT_cqs1delta</prop>
+    <prop name="sampleName">SRR5204782</prop>
+    <prop name="sraQueryString">SRR5204782</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Stranded_WT_cqs1delta</prop>
+    <prop name="sampleName">SRR6950091</prop>
+    <prop name="sraQueryString">SRR6950091</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Stranded_WT_cqs1delta</prop>
+    <prop name="sampleName">SRR5204783</prop>
+    <prop name="sraQueryString">SRR5204783</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Stranded_WT_cqs1delta</prop>
+    <prop name="sampleName">SRR6950094</prop>
+    <prop name="sraQueryString">SRR6950094</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Stranded_WT_cqs1delta</prop>
+    <prop name="sampleName">SRR5204784</prop>
+    <prop name="sraQueryString">SRR5204784</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Stranded_WT_cqs1delta</prop>
+    <prop name="sampleName">SRR7014290</prop>
+    <prop name="sraQueryString">SRR7014290</prop>
+  </dataset>
+
+</datasets>

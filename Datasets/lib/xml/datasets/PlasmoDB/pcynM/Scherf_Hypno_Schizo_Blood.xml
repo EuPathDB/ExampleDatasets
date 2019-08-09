@@ -1,0 +1,44 @@
+<datasets>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Scherf_Hypno_Schizo_Blood</prop>
+    <prop name="sampleName">ERR1744066</prop>
+    <prop name="sraQueryString">ERR1744066</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Scherf_Hypno_Schizo_Blood</prop>
+    <prop name="sampleName">ERR1744067</prop>
+    <prop name="sraQueryString">ERR1744067</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Scherf_Hypno_Schizo_Blood</prop>
+    <prop name="sampleName">ERR1744068</prop>
+    <prop name="sraQueryString">ERR1744068</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Scherf_Hypno_Schizo_Blood</prop>
+    <prop name="sampleName">ERR1744069</prop>
+    <prop name="sraQueryString">ERR1744069</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Scherf_Hypno_Schizo_Blood</prop>
+    <prop name="sampleName">ERR1744070</prop>
+    <prop name="sraQueryString">ERR1744070</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Scherf_Hypno_Schizo_Blood</prop>
+    <prop name="sampleName">ERR1744071</prop>
+    <prop name="sraQueryString">ERR1744071</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Scherf_Hypno_Schizo_Blood</prop>
+    <prop name="sampleName">ERR1744072</prop>
+    <prop name="sraQueryString">ERR1744072</prop>
+  </dataset>
+</datasets>

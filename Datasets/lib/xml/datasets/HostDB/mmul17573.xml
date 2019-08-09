@@ -1,0 +1,148 @@
+<datasets>
+  <constant name="organismAbbrev" value="mmul17573"/>
+  <constant name="strainAbbrev" value="17573"/>
+  <constant name="referenceStrainOrganismAbbrev" value="mmul17573"/>
+  <constant name="familyRepOrganismAbbrev" value="mmul17573"/>
+  <constant name="projectName" value="HostDB"/>
+  <constant name="ncbiTaxonId" value="9000000056"/>
+  <constant name="speciesNcbiTaxonId" value="9544"/>
+  <constant name="familyNcbiTaxonIds" value="9527"/>
+  <constant name="soTerm" value="chromosome"/>
+  <constant name="genomeSource" value="NorgrenLab"/>
+  <constant name="genomeVersion" value="v7.8.5"/>
+  <constant name="source" value="NorgrenLab"/>
+  <constant name="functAnnotVersion" value="v7.8.5"/>
+
+  <dataset class="validateOrganismInfo">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="strainAbbrev">$$strainAbbrev$$</prop>
+    <prop name="ncbiTaxonId">$$ncbiTaxonId$$</prop>
+    <prop name="speciesNcbiTaxonId">$$speciesNcbiTaxonId$$</prop>
+    <prop name="genomeVersion">$$genomeVersion$$</prop>
+  </dataset>
+
+  <dataset class="fasta_primary_genome_sequence">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="ncbiTaxonId">$$ncbiTaxonId$$</prop>
+    <prop name="name">$$genomeSource$$</prop>
+    <prop name="version">$$genomeVersion$$</prop>
+    <prop name="soTerm">$$soTerm$$</prop>
+    <prop name="table">DoTS::ExternalNASequence</prop>
+    <prop name="sourceIdRegex">>(S+)</prop>
+    <prop name="releaseDate">06-JUN-2016</prop>
+  </dataset>
+
+  <dataset class="NoPreprocess_primary_genome_features">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="ncbiTaxonId">$$ncbiTaxonId$$</prop>
+    <prop name="source">$$genomeSource$$</prop>
+    <prop name="version">$$genomeVersion$$</prop>
+    <prop name="soTerm">$$soTerm$$</prop>
+    <prop name="mapFile">genemRNAExonCDS2Gus.xml</prop>
+  </dataset>
+
+  <dataset class="productNames">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="version">$$functAnnotVersion$$</prop>
+    <prop name="name">$$source$$</prop>
+  </dataset>
+
+  <dataset class="geneName">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="genomeVersion">$$genomeVersion$$</prop>
+    <prop name="version">$$functAnnotVersion$$</prop>
+    <prop name="name">$$genomeSource$$</prop>
+  </dataset>
+
+  <dataset class="comments">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="name">NorgrenLab_transcript</prop>
+    <prop name="version">$$genomeVersion$$</prop>
+  </dataset>
+
+  <dataset class="dbxref_gene2Entrez">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="ncbiTaxonId">$$ncbiTaxonId$$</prop>
+    <prop name="genomeVersion">$$genomeVersion$$</prop>
+    <prop name="version">2017-06-23</prop>
+  </dataset>
+
+  <dataset class="dbxref_gene2PubmedFromNcbi">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="ncbiTaxonId">$$ncbiTaxonId$$</prop>
+    <prop name="genomeVersion">$$genomeVersion$$</prop>
+    <prop name="version">2017-06-23</prop>
+  </dataset>
+
+  <dataset class="dbxref_gene2Uniprot">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="ncbiTaxonId">$$ncbiTaxonId$$</prop>
+    <prop name="genomeVersion">$$genomeVersion$$</prop>
+    <prop name="version">2017-06-23</prop>
+  </dataset>
+
+  <dataset class="ECAssocFromUniprot">
+    <prop name="speciesNcbiTaxonId">$$speciesNcbiTaxonId$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="version">TODAY</prop>
+  </dataset>
+
+  <dataset class="referenceStrain-dbEST">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="speciesNcbiTaxonId">$$speciesNcbiTaxonId$$</prop>
+  </dataset>
+
+  <dataset class="transcriptsFromReferenceStrain">
+    <prop name="referenceStrainOrganismAbbrev">$$referenceStrainOrganismAbbrev$$</prop>
+  </dataset>
+
+  <dataset class="referenceStrain-epitope_sequences_IEDB">
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="speciesNcbiTaxonId">$$speciesNcbiTaxonId$$</prop>
+    <prop name="version">2.4</prop>
+  </dataset>
+
+  <dataset class="epitopesFromReferenceStrain">
+    <prop name="referenceStrainOrganismAbbrev">$$referenceStrainOrganismAbbrev$$</prop>
+  </dataset>
+
+  <dataset class="familyRepresentative-isolatesGenbank">
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="ncbiTaxonId">$$familyNcbiTaxonIds$$</prop>
+  </dataset>
+
+  <dataset class="isolatesFromFamilyRepresentative">
+    <prop name="name">genbank</prop>
+    <prop name="familyRepOrganismAbbrev">$$familyRepOrganismAbbrev$$</prop>
+  </dataset>
+
+  <dataset class="rnaSeqExperiment">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="name">Galinski_Mmulatta_Infected_with_Pcynomolgi</prop>
+    <prop name="version">2017-05-08</prop>
+    <prop name="limitNU">30</prop>
+    <prop name="isStrandSpecific">true</prop>
+    <prop name="hasPairedEnds">true</prop>
+    <prop name="alignWithCdsCoordinates">false</prop>
+  </dataset>
+
+  <dataset class="genericProfiles">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="name">Galinski_infected_Mmulatta_parasitemia</prop>
+    <prop name="version">2017-05-08</prop>
+    <prop name="technologyType">parasitemia_levels</prop>
+  </dataset>
+
+</datasets>

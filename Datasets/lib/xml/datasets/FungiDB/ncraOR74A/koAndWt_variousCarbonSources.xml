@@ -1,0 +1,180 @@
+<datasets>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">koAndWt_variousCarbonSources</prop>
+    <prop name="sampleName">ccg1_clr1-GFP-R1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset> 
+
+   <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">koAndWt_variousCarbonSources</prop>
+    <prop name="sampleName">ccg1_clr1-GFP-R2</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">koAndWt_variousCarbonSources</prop>
+    <prop name="sampleName">ccg1_clr1-GFP-R3</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+   <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">koAndWt_variousCarbonSources</prop>
+    <prop name="sampleName">ccg1_clr1-GFP-R4</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+ 
+   <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">koAndWt_variousCarbonSources</prop>
+    <prop name="sampleName">ccg1_clr1-GFP-R5</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">koAndWt_variousCarbonSources</prop>
+    <prop name="sampleName">ccg1_clr1-GFP-R6</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+   <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">koAndWt_variousCarbonSources</prop>
+    <prop name="sampleName">ccg1_clr1-GFP-R7</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">koAndWt_variousCarbonSources</prop>
+    <prop name="sampleName">ccg1_mCherry-clr2_heterokaryon</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+   <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">koAndWt_variousCarbonSources</prop>
+    <prop name="sampleName">ccg1_mCherry-clr2_deltaclr2_HygR-R1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+   <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">koAndWt_variousCarbonSources</prop>
+    <prop name="sampleName">ccg1_mCherry-clr2_deltaclr2_HygR-R2</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">koAndWt_variousCarbonSources</prop>
+    <prop name="sampleName">ccg1_mCherry-clr2_deltaclr2_HygR-R3</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+   <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">koAndWt_variousCarbonSources</prop>
+    <prop name="sampleName">ccg1_xlr1-GFP_deltaxlr1_HygR-R1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">koAndWt_variousCarbonSources</prop>
+    <prop name="sampleName">ccg1_xlr1-GFP_deltaxlr1_HygR-R2</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+   <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">koAndWt_variousCarbonSources</prop>
+    <prop name="sampleName">ccg1_xlr1-GFP_deltaxlr1_HygR-R3</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+   <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">koAndWt_variousCarbonSources</prop>
+    <prop name="sampleName">ccg1_xlr1-GFP_deltaxlr1_HygR-R4</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">koAndWt_variousCarbonSources</prop>
+    <prop name="sampleName">ccg1_xlr1-GFP_deltaxlr1_HygR-R5</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+   <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">koAndWt_variousCarbonSources</prop>
+    <prop name="sampleName">ccg1_xlr1-GFP_deltaxlr1_HygR-R6</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">koAndWt_variousCarbonSources</prop>
+    <prop name="sampleName">clr1-V5_HygR_deltamus51_bar</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+   <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">koAndWt_variousCarbonSources</prop>
+    <prop name="sampleName">ccg1_mCherry-R1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+   <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">koAndWt_variousCarbonSources</prop>
+    <prop name="sampleName">ccg1_mCherry-R2</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">koAndWt_variousCarbonSources</prop>
+    <prop name="sampleName">ccg1_GFP-R1</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+   <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">koAndWt_variousCarbonSources</prop>
+    <prop name="sampleName">ccg1_GFP-R2</prop>
+    <prop name="inputName"></prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+</datasets>
+

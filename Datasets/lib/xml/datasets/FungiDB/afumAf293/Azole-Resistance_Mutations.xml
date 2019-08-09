@@ -1,0 +1,170 @@
+<datasets>
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Azole-Resistance_Mutations</prop>
+    <prop name="snpStrainAbbrev">Af293_resequence2</prop>
+    <prop name="sraQueryString">ERR769498</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Azole-Resistance_Mutations</prop>
+    <prop name="snpStrainAbbrev">Af65</prop>
+    <prop name="sraQueryString">ERR769499</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Azole-Resistance_Mutations</prop>
+    <prop name="snpStrainAbbrev">12-7505446</prop>
+    <prop name="sraQueryString">ERR769500</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Azole-Resistance_Mutations</prop>
+    <prop name="snpStrainAbbrev">12-7505220</prop>
+    <prop name="sraQueryString">ERR769501</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Azole-Resistance_Mutations</prop>
+    <prop name="snpStrainAbbrev">09-7500806</prop>
+    <prop name="sraQueryString">ERR769502</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Azole-Resistance_Mutations</prop>
+    <prop name="snpStrainAbbrev">12-7504652</prop>
+    <prop name="sraQueryString">ERR769503</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Azole-Resistance_Mutations</prop>
+    <prop name="snpStrainAbbrev">12-7504462</prop>
+    <prop name="sraQueryString">ERR769504</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Azole-Resistance_Mutations</prop>
+    <prop name="snpStrainAbbrev">12-7505054</prop>
+    <prop name="sraQueryString">ERR769505</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Azole-Resistance_Mutations</prop>
+    <prop name="snpStrainAbbrev">08-12-12-13</prop>
+    <prop name="sraQueryString">ERR769506</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Azole-Resistance_Mutations</prop>
+    <prop name="snpStrainAbbrev">08-36-03-25</prop>
+    <prop name="sraQueryString">ERR769507</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Azole-Resistance_Mutations</prop>
+    <prop name="snpStrainAbbrev">08-31-08-91</prop>
+    <prop name="sraQueryString">ERR769508</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Azole-Resistance_Mutations</prop>
+    <prop name="snpStrainAbbrev">08-19-02-61</prop>
+    <prop name="sraQueryString">ERR769509</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Azole-Resistance_Mutations</prop>
+    <prop name="snpStrainAbbrev">08-19-02-30</prop>
+    <prop name="sraQueryString">ERR769510</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Azole-Resistance_Mutations</prop>
+    <prop name="snpStrainAbbrev">10-01-02-27</prop>
+    <prop name="sraQueryString">ERR769511</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Azole-Resistance_Mutations</prop>
+    <prop name="snpStrainAbbrev">08-19-02-46</prop>
+    <prop name="sraQueryString">ERR769512</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Azole-Resistance_Mutations</prop>
+    <prop name="snpStrainAbbrev">08-19-02-10</prop>
+    <prop name="sraQueryString">ERR769513</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Azole-Resistance_Mutations</prop>
+    <prop name="snpStrainAbbrev">Afu_942-09</prop>
+    <prop name="sraQueryString">ERR769514</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Azole-Resistance_Mutations</prop>
+    <prop name="snpStrainAbbrev">Afu_1042-09</prop>
+    <prop name="sraQueryString">ERR769515</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Azole-Resistance_Mutations</prop>
+    <prop name="snpStrainAbbrev">Afu_343-P-11</prop>
+    <prop name="sraQueryString">ERR769516</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Azole-Resistance_Mutations</prop>
+    <prop name="snpStrainAbbrev">Afu_591-12</prop>
+    <prop name="sraQueryString">ERR769517</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Azole-Resistance_Mutations</prop>
+    <prop name="snpStrainAbbrev">Afu_124-E11</prop>
+    <prop name="sraQueryString">ERR769518</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Azole-Resistance_Mutations</prop>
+    <prop name="snpStrainAbbrev">Afu_166-E11</prop>
+    <prop name="sraQueryString">ERR769519</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Azole-Resistance_Mutations</prop>
+    <prop name="snpStrainAbbrev">Afu_257-E11</prop>
+    <prop name="sraQueryString">ERR769520</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Azole-Resistance_Mutations</prop>
+    <prop name="snpStrainAbbrev">Afu_218-E11</prop>
+    <prop name="sraQueryString">ERR769521</prop>
+  </dataset>
+
+</datasets>

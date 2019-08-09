@@ -1,0 +1,51 @@
+<datasets>
+  <constant name="organismAbbrev" value="ppluAV1007"/>
+  <constant name="strainAbbrev" value="AV1007"/>
+  <constant name="referenceStrainOrganismAbbrev" value="ppluAV1007"/>
+  <constant name="familyRepOrganismAbbrev" value="pinfT30-4"/>
+  <constant name="projectName" value="FungiDB"/>
+  <constant name="ncbiTaxonId" value="9200000016"/>
+  <constant name="speciesNcbiTaxonId" value="639000"/>
+  <constant name="soTerm" value="contig"/>
+  <constant name="genomeSource" value="GenBank"/>
+  <constant name="genomeVersion" value="2017-08-11"/>
+  <constant name="source" value="GenBank"/>
+  <constant name="functAnnotVersion" value="2017-08-11"/>
+
+  <dataset class="validateOrganismInfo">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="strainAbbrev">$$strainAbbrev$$</prop>
+    <prop name="ncbiTaxonId">$$ncbiTaxonId$$</prop>
+    <prop name="speciesNcbiTaxonId">$$speciesNcbiTaxonId$$</prop>
+    <prop name="genomeVersion">$$genomeVersion$$</prop>
+  </dataset>
+
+  <dataset class="fasta_primary_genome_sequence">
+    <prop name="name">$$source$$</prop>
+    <prop name="table">DoTS::ExternalNASequence</prop>
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="ncbiTaxonId">$$ncbiTaxonId$$</prop>
+    <prop name="version">$$genomeVersion$$</prop>
+    <prop name="soTerm">$$soTerm$$</prop>
+    <prop name="sourceIdRegex">^>(\S+)</prop>
+    <prop name="releaseDate">$$genomeVersion$$</prop>
+  </dataset>
+
+  <dataset class="referenceStrain-dbEST">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="organismAbbrev">$$organismAbbrev$$</prop>
+    <prop name="speciesNcbiTaxonId">$$speciesNcbiTaxonId$$</prop>
+  </dataset>
+
+  <dataset class="transcriptsFromReferenceStrain">
+    <prop name="referenceStrainOrganismAbbrev">$$referenceStrainOrganismAbbrev$$</prop>
+  </dataset>
+
+  <dataset class="isolatesFromFamilyRepresentative">
+    <prop name="name">genbank</prop>
+    <prop name="familyRepOrganismAbbrev">$$familyRepOrganismAbbrev$$</prop>
+  </dataset>
+
+</datasets>

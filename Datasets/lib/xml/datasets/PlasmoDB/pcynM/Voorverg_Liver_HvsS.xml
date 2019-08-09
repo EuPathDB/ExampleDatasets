@@ -1,0 +1,198 @@
+<datasets>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Voorverg_Liver_HvsS</prop>
+    <prop name="sampleName">SRR5150042</prop>
+    <prop name="sraQueryString">SRR5150042</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Voorverg_Liver_HvsS</prop>
+    <prop name="sampleName">SRR5150046</prop>
+    <prop name="sraQueryString">SRR5150046</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Voorverg_Liver_HvsS</prop>
+    <prop name="sampleName">SRR5150068</prop>
+    <prop name="sraQueryString">SRR5150068</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Voorverg_Liver_HvsS</prop>
+    <prop name="sampleName">SRR5150069</prop>
+    <prop name="sraQueryString">SRR5150069</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Voorverg_Liver_HvsS</prop>
+    <prop name="sampleName">SRR5150043</prop>
+    <prop name="sraQueryString">SRR5150043</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Voorverg_Liver_HvsS</prop>
+    <prop name="sampleName">SRR5150050</prop>
+    <prop name="sraQueryString">SRR5150050</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Voorverg_Liver_HvsS</prop>
+    <prop name="sampleName">SRR5150056</prop>
+    <prop name="sraQueryString">SRR5150056</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Voorverg_Liver_HvsS</prop>
+    <prop name="sampleName">SRR5150067</prop>
+    <prop name="sraQueryString">SRR5150067</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Voorverg_Liver_HvsS</prop>
+    <prop name="sampleName">SRR5150049</prop>
+    <prop name="sraQueryString">SRR5150049</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Voorverg_Liver_HvsS</prop>
+    <prop name="sampleName">SRR5150051</prop>
+    <prop name="sraQueryString">SRR5150051</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Voorverg_Liver_HvsS</prop>
+    <prop name="sampleName">SRR5150058</prop>
+    <prop name="sraQueryString">SRR5150058</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Voorverg_Liver_HvsS</prop>
+    <prop name="sampleName">SRR5150066</prop>
+    <prop name="sraQueryString">SRR5150066</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Voorverg_Liver_HvsS</prop>
+    <prop name="sampleName">SRR5150052</prop>
+    <prop name="sraQueryString">SRR5150052</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Voorverg_Liver_HvsS</prop>
+    <prop name="sampleName">SRR5150054</prop>
+    <prop name="sraQueryString">SRR5150054</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Voorverg_Liver_HvsS</prop>
+    <prop name="sampleName">SRR5150055</prop>
+    <prop name="sraQueryString">SRR5150055</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Voorverg_Liver_HvsS</prop>
+    <prop name="sampleName">SRR5150057</prop>
+    <prop name="sraQueryString">SRR5150057</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Voorverg_Liver_HvsS</prop>
+    <prop name="sampleName">SRR5150059</prop>
+    <prop name="sraQueryString">SRR5150059</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Voorverg_Liver_HvsS</prop>
+    <prop name="sampleName">SRR5150060</prop>
+    <prop name="sraQueryString">SRR5150060</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Voorverg_Liver_HvsS</prop>
+    <prop name="sampleName">SRR5150062</prop>
+    <prop name="sraQueryString">SRR5150062</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Voorverg_Liver_HvsS</prop>
+    <prop name="sampleName">SRR5150065</prop>
+    <prop name="sraQueryString">SRR5150065</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Voorverg_Liver_HvsS</prop>
+    <prop name="sampleName">SRR5150044</prop>
+    <prop name="sraQueryString">SRR5150044</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Voorverg_Liver_HvsS</prop>
+    <prop name="sampleName">SRR5150045</prop>
+    <prop name="sraQueryString">SRR5150045</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Voorverg_Liver_HvsS</prop>
+    <prop name="sampleName">SRR5150053</prop>
+    <prop name="sraQueryString">SRR5150053</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Voorverg_Liver_HvsS</prop>
+    <prop name="sampleName">SRR5150064</prop>
+    <prop name="sraQueryString">SRR5150064</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Voorverg_Liver_HvsS</prop>
+    <prop name="sampleName">SRR5150047</prop>
+    <prop name="sraQueryString">SRR5150047</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Voorverg_Liver_HvsS</prop>
+    <prop name="sampleName">SRR5150048</prop>
+    <prop name="sraQueryString">SRR5150048</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Voorverg_Liver_HvsS</prop>
+    <prop name="sampleName">SRR5150061</prop>
+    <prop name="sraQueryString">SRR5150061</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Voorverg_Liver_HvsS</prop>
+    <prop name="sampleName">SRR5150063</prop>
+    <prop name="sraQueryString">SRR5150063</prop>
+  </dataset>
+
+</datasets>

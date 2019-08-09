@@ -1,0 +1,18 @@
+<datasets>
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Fraschka_Pv_HP1</prop>
+    <prop name="sampleName">Pv_clinical_isolate_pool_HP1</prop>
+    <prop name="inputName">Pv_clinical_isolate_pool_Input</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Fraschka_Pv_HP1</prop>
+    <prop name="sampleName">Pv_clinical_isolate_pool_Input</prop>
+    <prop name="inputName">Pv_clinical_isolate_pool_Input</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+</datasets>

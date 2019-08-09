@@ -1,0 +1,19 @@
+<datasets>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pberANKA</prop>
+    <prop name="experimentName">Yuda_Ap2_G2</prop>
+    <prop name="sampleName">AP2-G2_expt_1</prop>
+    <prop name="inputName">AP2-G2_expt_1_INPUT</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pberANKA</prop>
+    <prop name="experimentName">Yuda_Ap2_G2</prop>
+    <prop name="sampleName">AP2-G2_expt_2</prop>
+    <prop name="inputName">AP2-G2_expt_2_INPUT</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+</datasets>

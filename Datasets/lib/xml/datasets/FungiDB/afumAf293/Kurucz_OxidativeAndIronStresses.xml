@@ -1,0 +1,74 @@
+<datasets>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Kurucz_OxidativeAndIronStresses</prop>
+    <prop name="sampleName">SRR5249265</prop>
+    <prop name="sraQueryString">SRR5249265</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Kurucz_OxidativeAndIronStresses</prop>
+    <prop name="sampleName">SRR5249266</prop>
+    <prop name="sraQueryString">SRR5249266</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Kurucz_OxidativeAndIronStresses</prop>
+    <prop name="sampleName">SRR5249267</prop>
+    <prop name="sraQueryString">SRR5249267</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Kurucz_OxidativeAndIronStresses</prop>
+    <prop name="sampleName">SRR5249268</prop>
+    <prop name="sraQueryString">SRR5249268</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Kurucz_OxidativeAndIronStresses</prop>
+    <prop name="sampleName">SRR5249269</prop>
+    <prop name="sraQueryString">SRR5249269</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Kurucz_OxidativeAndIronStresses</prop>
+    <prop name="sampleName">SRR5249270</prop>
+    <prop name="sraQueryString">SRR5249270</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Kurucz_OxidativeAndIronStresses</prop>
+    <prop name="sampleName">SRR5249271</prop>
+    <prop name="sraQueryString">SRR5249271</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Kurucz_OxidativeAndIronStresses</prop>
+    <prop name="sampleName">SRR5249272</prop>
+    <prop name="sraQueryString">SRR5249272</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Kurucz_OxidativeAndIronStresses</prop>
+    <prop name="sampleName">SRR5249273</prop>
+    <prop name="sraQueryString">SRR5249273</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Kurucz_OxidativeAndIronStresses</prop>
+    <prop name="sampleName">SRR5249274</prop>
+    <prop name="sraQueryString">SRR5249274</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Kurucz_OxidativeAndIronStresses</prop>
+    <prop name="sampleName">SRR5249275</prop>
+    <prop name="sraQueryString">SRR5249275</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Kurucz_OxidativeAndIronStresses</prop>
+    <prop name="sampleName">SRR5249276</prop>
+    <prop name="sraQueryString">SRR5249276</prop>
+  </dataset>
+</datasets>

@@ -1,0 +1,128 @@
+<datasets>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tcruCLBrenerEsmeraldo-like</prop>
+    <prop name="experimentName">Teixeira_virulent_avirulent</prop>
+    <prop name="sampleName">SRR5781552</prop>
+    <prop name="sraQueryString">SRR5781552</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tcruCLBrenerEsmeraldo-like</prop>
+    <prop name="experimentName">Teixeira_virulent_avirulent</prop>
+    <prop name="sampleName">SRR5781553</prop>
+    <prop name="sraQueryString">SRR5781553</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tcruCLBrenerEsmeraldo-like</prop>
+    <prop name="experimentName">Teixeira_virulent_avirulent</prop>
+    <prop name="sampleName">SRR5781554</prop>
+    <prop name="sraQueryString">SRR5781554</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tcruCLBrenerEsmeraldo-like</prop>
+    <prop name="experimentName">Teixeira_virulent_avirulent</prop>
+    <prop name="sampleName">SRR5781912</prop>
+    <prop name="sraQueryString">SRR5781912</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tcruCLBrenerEsmeraldo-like</prop>
+    <prop name="experimentName">Teixeira_virulent_avirulent</prop>
+    <prop name="sampleName">SRR5781913</prop>
+    <prop name="sraQueryString">SRR5781913</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tcruCLBrenerEsmeraldo-like</prop>
+    <prop name="experimentName">Teixeira_virulent_avirulent</prop>
+    <prop name="sampleName">SRR5781914</prop>
+    <prop name="sraQueryString">SRR5781914</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tcruCLBrenerEsmeraldo-like</prop>
+    <prop name="experimentName">Teixeira_virulent_avirulent</prop>
+    <prop name="sampleName">SRR5781915</prop>
+    <prop name="sraQueryString">SRR5781915</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tcruCLBrenerEsmeraldo-like</prop>
+    <prop name="experimentName">Teixeira_virulent_avirulent</prop>
+    <prop name="sampleName">SRR5781916</prop>
+    <prop name="sraQueryString">SRR5781916</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tcruCLBrenerEsmeraldo-like</prop>
+    <prop name="experimentName">Teixeira_virulent_avirulent</prop>
+    <prop name="sampleName">SRR5781917</prop>
+    <prop name="sraQueryString">SRR5781917</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tcruCLBrenerEsmeraldo-like</prop>
+    <prop name="experimentName">Teixeira_virulent_avirulent</prop>
+    <prop name="sampleName">SRR5781555</prop>
+    <prop name="sraQueryString">SRR5781555</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tcruCLBrenerEsmeraldo-like</prop>
+    <prop name="experimentName">Teixeira_virulent_avirulent</prop>
+    <prop name="sampleName">SRR5781550</prop>
+    <prop name="sraQueryString">SRR5781550</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tcruCLBrenerEsmeraldo-like</prop>
+    <prop name="experimentName">Teixeira_virulent_avirulent</prop>
+    <prop name="sampleName">SRR5781551</prop>
+    <prop name="sraQueryString">SRR5781551</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tcruCLBrenerEsmeraldo-like</prop>
+    <prop name="experimentName">Teixeira_virulent_avirulent</prop>
+    <prop name="sampleName">SRR5781918</prop>
+    <prop name="sraQueryString">SRR5781918</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tcruCLBrenerEsmeraldo-like</prop>
+    <prop name="experimentName">Teixeira_virulent_avirulent</prop>
+    <prop name="sampleName">SRR5781919</prop>
+    <prop name="sraQueryString">SRR5781919</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tcruCLBrenerEsmeraldo-like</prop>
+    <prop name="experimentName">Teixeira_virulent_avirulent</prop>
+    <prop name="sampleName">SRR5781920</prop>
+    <prop name="sraQueryString">SRR5781920</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tcruCLBrenerEsmeraldo-like</prop>
+    <prop name="experimentName">Teixeira_virulent_avirulent</prop>
+    <prop name="sampleName">SRR5781921</prop>
+    <prop name="sraQueryString">SRR5781921</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tcruCLBrenerEsmeraldo-like</prop>
+    <prop name="experimentName">Teixeira_virulent_avirulent</prop>
+    <prop name="sampleName">SRR5781908</prop>
+    <prop name="sraQueryString">SRR5781908</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tcruCLBrenerEsmeraldo-like</prop>
+    <prop name="experimentName">Teixeira_virulent_avirulent</prop>
+    <prop name="sampleName">SRR5781909</prop>
+    <prop name="sraQueryString">SRR5781909</prop>
+  </dataset>
+
+</datasets>

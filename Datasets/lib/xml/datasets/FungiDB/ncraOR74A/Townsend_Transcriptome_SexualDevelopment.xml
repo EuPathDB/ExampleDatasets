@@ -1,0 +1,114 @@
+<datasets>
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Townsend_Transcriptome_SexualDevelopment</prop>
+    <prop name="sampleName">SRX193447</prop>
+    <prop name="sraQueryString">SRX193447</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Townsend_Transcriptome_SexualDevelopment</prop>
+    <prop name="sampleName">SRX193448</prop>
+    <prop name="sraQueryString">SRX193448</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Townsend_Transcriptome_SexualDevelopment</prop>
+    <prop name="sampleName">SRX193449</prop>
+    <prop name="sraQueryString">SRX193449</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Townsend_Transcriptome_SexualDevelopment</prop>
+    <prop name="sampleName">SRX193450</prop>
+    <prop name="sraQueryString">SRX193450</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Townsend_Transcriptome_SexualDevelopment</prop>
+    <prop name="sampleName">SRX193451</prop>
+    <prop name="sraQueryString">SRX193451</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Townsend_Transcriptome_SexualDevelopment</prop>
+    <prop name="sampleName">SRX193452</prop>
+    <prop name="sraQueryString">SRX193452</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Townsend_Transcriptome_SexualDevelopment</prop>
+    <prop name="sampleName">SRX193453</prop>
+    <prop name="sraQueryString">SRX193453</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Townsend_Transcriptome_SexualDevelopment</prop>
+    <prop name="sampleName">SRX193454</prop>
+    <prop name="sraQueryString">SRX193454</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Townsend_Transcriptome_SexualDevelopment</prop>
+    <prop name="sampleName">SRX193455</prop>
+    <prop name="sraQueryString">SRX193455</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Townsend_Transcriptome_SexualDevelopment</prop>
+    <prop name="sampleName">SRX193456</prop>
+    <prop name="sraQueryString">SRX193456</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Townsend_Transcriptome_SexualDevelopment</prop>
+    <prop name="sampleName">SRX193457</prop>
+    <prop name="sraQueryString">SRX193457</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Townsend_Transcriptome_SexualDevelopment</prop>
+    <prop name="sampleName">SRX193458</prop>
+    <prop name="sraQueryString">SRX193458</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Townsend_Transcriptome_SexualDevelopment</prop>
+    <prop name="sampleName">SRX193459</prop>
+    <prop name="sraQueryString">SRX193459</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Townsend_Transcriptome_SexualDevelopment</prop>
+    <prop name="sampleName">SRX193460</prop>
+    <prop name="sraQueryString">SRX193460</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Townsend_Transcriptome_SexualDevelopment</prop>
+    <prop name="sampleName">SRX193461</prop>
+    <prop name="sraQueryString">SRX193461</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Townsend_Transcriptome_SexualDevelopment</prop>
+    <prop name="sampleName">SRX193462</prop>
+    <prop name="sraQueryString">SRX193462</prop>
+  </dataset>
+
+</datasets>

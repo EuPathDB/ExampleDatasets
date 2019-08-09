@@ -1,0 +1,87 @@
+<datasets>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Liu_VegetativeAndSexualDevelopment</prop>
+    <prop name="sampleName">SRX2493723</prop>
+    <prop name="sraQueryString">SRX2493723</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Liu_VegetativeAndSexualDevelopment</prop>
+    <prop name="sampleName">SRX2493722</prop>
+    <prop name="sraQueryString">SRX2493722</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Liu_VegetativeAndSexualDevelopment</prop>
+    <prop name="sampleName">SRX2493721</prop>
+    <prop name="sraQueryString">SRX2493721</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Liu_VegetativeAndSexualDevelopment</prop>
+    <prop name="sampleName">SRX2493720</prop>
+    <prop name="sraQueryString">SRX2493720</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Liu_VegetativeAndSexualDevelopment</prop>
+    <prop name="sampleName">SRX2493719</prop>
+    <prop name="sraQueryString">SRX2493719</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Liu_VegetativeAndSexualDevelopment</prop>
+    <prop name="sampleName">SRX2493718</prop>
+    <prop name="sraQueryString">SRX2493718</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Liu_VegetativeAndSexualDevelopment</prop>
+    <prop name="sampleName">SRX2493717</prop>
+    <prop name="sraQueryString">SRX2493717</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Liu_VegetativeAndSexualDevelopment</prop>
+    <prop name="sampleName">SRX2493716</prop>
+    <prop name="sraQueryString">SRX2493716</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Liu_VegetativeAndSexualDevelopment</prop>
+    <prop name="sampleName">SRX2493713</prop>
+    <prop name="sraQueryString">SRX2493713</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Liu_VegetativeAndSexualDevelopment</prop>
+    <prop name="sampleName">SRX2493712</prop>
+    <prop name="sraQueryString">SRX2493712</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Liu_VegetativeAndSexualDevelopment</prop>
+    <prop name="sampleName">SRX2493711</prop>
+    <prop name="sraQueryString">SRX2493711</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Liu_VegetativeAndSexualDevelopment</prop>
+    <prop name="sampleName">SRX2493710</prop>
+    <prop name="sraQueryString">SRX2493710</prop>
+  </dataset>
+
+</datasets>

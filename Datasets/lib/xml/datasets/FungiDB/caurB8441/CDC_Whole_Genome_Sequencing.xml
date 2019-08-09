@@ -1,0 +1,576 @@
+<datasets>
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11777</prop>
+    <prop name="sraQueryString">SRR7140008</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11778</prop>
+    <prop name="sraQueryString">SRR7140036</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11779</prop>
+    <prop name="sraQueryString">SRR7140057</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11780</prop>
+    <prop name="sraQueryString">SRR7140031</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11781</prop>
+    <prop name="sraQueryString">SRR7140033</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11782</prop>
+    <prop name="sraQueryString">SRR7140067</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11783</prop>
+    <prop name="sraQueryString">SRR7140056</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11785</prop>
+    <prop name="sraQueryString">SRR7140021</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11787</prop>
+    <prop name="sraQueryString">SRR7140012</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11788</prop>
+    <prop name="sraQueryString">SRR7140041</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11789</prop>
+    <prop name="sraQueryString">SRR7140082</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11790</prop>
+    <prop name="sraQueryString">SRR7140029</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11791</prop>
+    <prop name="sraQueryString">SRR7140070</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11793</prop>
+    <prop name="sraQueryString">SRR7140071</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11794</prop>
+    <prop name="sraQueryString">SRR7140055</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11795</prop>
+    <prop name="sraQueryString">SRR7140062</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11797</prop>
+    <prop name="sraQueryString">SRR7140015</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11799</prop>
+    <prop name="sraQueryString">SRR7140004</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11800</prop>
+    <prop name="sraQueryString">SRR7140002</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11802</prop>
+    <prop name="sraQueryString">SRR7140077</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11805</prop>
+    <prop name="sraQueryString">SRR7140075</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11806</prop>
+    <prop name="sraQueryString">SRR7140016</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11807</prop>
+    <prop name="sraQueryString">SRR7140080</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11844</prop>
+    <prop name="sraQueryString">SRR7140078</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11846</prop>
+    <prop name="sraQueryString">SRR7140064</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11847</prop>
+    <prop name="sraQueryString">SRR7140066</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11848</prop>
+    <prop name="sraQueryString">SRR7140065</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11849</prop>
+    <prop name="sraQueryString">SRR7140045</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11850</prop>
+    <prop name="sraQueryString">SRR7140039</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11851</prop>
+    <prop name="sraQueryString">SRR7140040</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11852</prop>
+    <prop name="sraQueryString">SRR7140009</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B11856</prop>
+    <prop name="sraQueryString">SRR7140054</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12287</prop>
+    <prop name="sraQueryString">SRR7140047</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12289</prop>
+    <prop name="sraQueryString">SRR7140059</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12290</prop>
+    <prop name="sraQueryString">SRR7140042</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12291</prop>
+    <prop name="sraQueryString">SRR7140017</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12292</prop>
+    <prop name="sraQueryString">SRR7140058</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12293</prop>
+    <prop name="sraQueryString">SRR7140032</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12294</prop>
+    <prop name="sraQueryString">SRR7140006</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12295</prop>
+    <prop name="sraQueryString">SRR7140025</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12296</prop>
+    <prop name="sraQueryString">SRR7140038</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12297</prop>
+    <prop name="sraQueryString">SRR7140074</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12298</prop>
+    <prop name="sraQueryString">SRR7140043</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12299</prop>
+    <prop name="sraQueryString">SRR7140010</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12300</prop>
+    <prop name="sraQueryString">SRR7140069</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12301</prop>
+    <prop name="sraQueryString">SRR7140001</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12302</prop>
+    <prop name="sraQueryString">SRR7140003</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12303</prop>
+    <prop name="sraQueryString">SRR7140030</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12304</prop>
+    <prop name="sraQueryString">SRR7140044</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12305</prop>
+    <prop name="sraQueryString">SRR7140022</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12306</prop>
+    <prop name="sraQueryString">SRR7140013</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12307</prop>
+    <prop name="sraQueryString">SRR7140052</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12308</prop>
+    <prop name="sraQueryString">SRR7140061</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12309</prop>
+    <prop name="sraQueryString">SRR7140024</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12310</prop>
+    <prop name="sraQueryString">SRR7140007</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12311</prop>
+    <prop name="sraQueryString">SRR7140020</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12312</prop>
+    <prop name="sraQueryString">SRR7140068</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12314</prop>
+    <prop name="sraQueryString">SRR7140063</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12315</prop>
+    <prop name="sraQueryString">SRR7140076</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12316</prop>
+    <prop name="sraQueryString">SRR7140035</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12317</prop>
+    <prop name="sraQueryString">SRR7140005</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12318</prop>
+    <prop name="sraQueryString">SRR7140053</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12319</prop>
+    <prop name="sraQueryString">SRR7140081</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12320</prop>
+    <prop name="sraQueryString">SRR7140079</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12321</prop>
+    <prop name="sraQueryString">SRR7140060</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12322</prop>
+    <prop name="sraQueryString">SRR7140072</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12323</prop>
+    <prop name="sraQueryString">SRR7140014</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12324</prop>
+    <prop name="sraQueryString">SRR7140049</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12325</prop>
+    <prop name="sraQueryString">SRR7140046</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12326</prop>
+    <prop name="sraQueryString">SRR7140050</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12327</prop>
+    <prop name="sraQueryString">SRR7140023</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12328</prop>
+    <prop name="sraQueryString">SRR7140027</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12329</prop>
+    <prop name="sraQueryString">SRR7140037</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12330</prop>
+    <prop name="sraQueryString">SRR7140073</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12331</prop>
+    <prop name="sraQueryString">SRR7140026</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12332</prop>
+    <prop name="sraQueryString">SRR7140019</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12333</prop>
+    <prop name="sraQueryString">SRR7140034</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12335</prop>
+    <prop name="sraQueryString">SRR7140048</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12336</prop>
+    <prop name="sraQueryString">SRR7140028</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12337</prop>
+    <prop name="sraQueryString">SRR7140051</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12338</prop>
+    <prop name="sraQueryString">SRR7140011</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">CDC_Whole_Genome_Sequencing</prop>
+    <prop name="snpStrainAbbrev">B12342</prop>
+    <prop name="sraQueryString">SRR7140018</prop>
+  </dataset>
+
+</datasets>

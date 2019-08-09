@@ -1,0 +1,58 @@
+<datasets>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">Hassan_intra_extra_ribo_profiling</prop>
+    <prop name="sampleName">SRR5626951</prop>
+    <prop name="sraQueryString">SRR5626951</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">Hassan_intra_extra_ribo_profiling</prop>
+    <prop name="sampleName">SRR5626952</prop>
+    <prop name="sraQueryString">SRR5626952</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">Hassan_intra_extra_ribo_profiling</prop>
+    <prop name="sampleName">SRR5626953</prop>
+    <prop name="sraQueryString">SRR5626953</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">Hassan_intra_extra_ribo_profiling</prop>
+    <prop name="sampleName">SRR5626954</prop>
+    <prop name="sraQueryString">SRR5626954</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">Hassan_intra_extra_ribo_profiling</prop>
+    <prop name="sampleName">SRR5626955</prop>
+    <prop name="sraQueryString">SRR5626955</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">Hassan_intra_extra_ribo_profiling</prop>
+    <prop name="sampleName">SRR5626956</prop>
+    <prop name="sraQueryString">SRR5626956</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">Hassan_intra_extra_ribo_profiling</prop>
+    <prop name="sampleName">SRR5626957</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">Hassan_intra_extra_ribo_profiling</prop>
+    <prop name="sampleName">SRR5626958</prop>
+    <prop name="sraQueryString">SRR5626958</prop>
+  </dataset>
+
+</datasets>

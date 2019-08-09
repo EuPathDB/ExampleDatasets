@@ -1,0 +1,171 @@
+<datasets>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Galinski_infected_Mmulatta</prop>
+    <prop name="sampleName">SRR5217621</prop>
+    <prop name="sraQueryString">SRR5217621</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Galinski_infected_Mmulatta</prop>
+    <prop name="sampleName">SRR5217622</prop>
+    <prop name="sraQueryString">SRR5217622</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Galinski_infected_Mmulatta</prop>
+    <prop name="sampleName">SRR5217623</prop>
+    <prop name="sraQueryString">SRR5217623</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Galinski_infected_Mmulatta</prop>
+    <prop name="sampleName">SRR5217624</prop>
+    <prop name="sraQueryString">SRR5217624</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Galinski_infected_Mmulatta</prop>
+    <prop name="sampleName">SRR5217625</prop>
+    <prop name="sraQueryString">SRR5217625</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Galinski_infected_Mmulatta</prop>
+    <prop name="sampleName">SRR5217626</prop>
+    <prop name="sraQueryString">SRR5217626</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Galinski_infected_Mmulatta</prop>
+    <prop name="sampleName">SRR5217627</prop>
+    <prop name="sraQueryString">SRR5217627</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Galinski_infected_Mmulatta</prop>
+    <prop name="sampleName">SRR5217629</prop>
+    <prop name="sraQueryString">SRR5217629</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Galinski_infected_Mmulatta</prop>
+    <prop name="sampleName">SRR5217630</prop>
+    <prop name="sraQueryString">SRR5217630</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Galinski_infected_Mmulatta</prop>
+    <prop name="sampleName">SRR5217633</prop>
+    <prop name="sraQueryString">SRR5217633</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Galinski_infected_Mmulatta</prop>
+    <prop name="sampleName">SRR5217641</prop>
+    <prop name="sraQueryString">SRR5217641</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Galinski_infected_Mmulatta</prop>
+    <prop name="sampleName">SRR5217642</prop>
+    <prop name="sraQueryString">SRR5217642</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Galinski_infected_Mmulatta</prop>
+    <prop name="sampleName">SRR5632701</prop>
+    <prop name="sraQueryString">SRR5632701</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Galinski_infected_Mmulatta</prop>
+    <prop name="sampleName">SRR5632702</prop>
+    <prop name="sraQueryString">SRR5632702</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Galinski_infected_Mmulatta</prop>
+    <prop name="sampleName">SRR5632703</prop>
+    <prop name="sraQueryString">SRR5632703</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Galinski_infected_Mmulatta</prop>
+    <prop name="sampleName">SRR5632704</prop>
+    <prop name="sraQueryString">SRR5632704</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Galinski_infected_Mmulatta</prop>
+    <prop name="sampleName">SRR5632705</prop>
+    <prop name="sraQueryString">SRR5632705</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Galinski_infected_Mmulatta</prop>
+    <prop name="sampleName">SRR5632707</prop>
+    <prop name="sraQueryString">SRR5632707</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Galinski_infected_Mmulatta</prop>
+    <prop name="sampleName">SRR5632708</prop>
+    <prop name="sraQueryString">SRR5632708</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Galinski_infected_Mmulatta</prop>
+    <prop name="sampleName">SRR5632709</prop>
+    <prop name="sraQueryString">SRR5632709</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Galinski_infected_Mmulatta</prop>
+    <prop name="sampleName">SRR5632710</prop>
+    <prop name="sraQueryString">SRR5632710</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Galinski_infected_Mmulatta</prop>
+    <prop name="sampleName">SRR5632713</prop>
+    <prop name="sraQueryString">SRR5632713</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Galinski_infected_Mmulatta</prop>
+    <prop name="sampleName">SRR5632720</prop>
+    <prop name="sraQueryString">SRR5632720</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">pcynM</prop>
+    <prop name="experimentName">Galinski_infected_Mmulatta</prop>
+    <prop name="sampleName">SRR5632721</prop>
+    <prop name="sraQueryString">SRR5632721</prop>
+  </dataset>
+
+</datasets>

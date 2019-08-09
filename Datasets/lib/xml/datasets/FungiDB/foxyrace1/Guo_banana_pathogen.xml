@@ -1,0 +1,18 @@
+<datasets>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">foxyrace1</prop>
+    <prop name="experimentName">Guo_banana_pathogen</prop>
+    <prop name="sampleName">SRR554393</prop>
+    <prop name="sraQueryString">SRR554393</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">foxyrace1</prop>
+    <prop name="experimentName">Guo_banana_pathogen</prop>
+    <prop name="sampleName">SRR554394</prop>
+    <prop name="sraQueryString">SRR554394</prop>
+  </dataset>
+
+</datasets>
+

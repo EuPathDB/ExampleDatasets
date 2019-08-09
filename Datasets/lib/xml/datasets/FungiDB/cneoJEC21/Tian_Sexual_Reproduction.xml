@@ -1,0 +1,408 @@
+<datasets>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR5204773</prop>
+    <prop name="sraQueryString">SRR5204773</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998723</prop>
+    <prop name="sraQueryString">SRR6998723</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR5204774</prop>
+    <prop name="sraQueryString">SRR5204774</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998724</prop>
+    <prop name="sraQueryString">SRR6998724</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR5204775</prop>
+    <prop name="sraQueryString">SRR5204775</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998725</prop>
+    <prop name="sraQueryString">SRR6998725</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR5204776</prop>
+    <prop name="sraQueryString">SRR5204776</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998726</prop>
+    <prop name="sraQueryString">SRR6998726</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR5204777</prop>
+    <prop name="sraQueryString">SRR5204777</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998727</prop>
+    <prop name="sraQueryString">SRR6998727</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR5204778</prop>
+    <prop name="sraQueryString">SRR5204778</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998728</prop>
+    <prop name="sraQueryString">SRR6998728</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR5204779</prop>
+    <prop name="sraQueryString">SRR5204779</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998729</prop>
+    <prop name="sraQueryString">SRR6998729</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR5204780</prop>
+    <prop name="sraQueryString">SRR5204780</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998730</prop>
+    <prop name="sraQueryString">SRR6998730</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR5204781</prop>
+    <prop name="sraQueryString">SRR5204781</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998731</prop>
+    <prop name="sraQueryString">SRR6998731</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6661091</prop>
+    <prop name="sraQueryString">SRR6661091</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998703</prop>
+    <prop name="sraQueryString">SRR6998703</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6661092</prop>
+    <prop name="sraQueryString">SRR6661092</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998704</prop>
+    <prop name="sraQueryString">SRR6998704</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6661093</prop>
+    <prop name="sraQueryString">SRR6661093</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998705</prop>
+    <prop name="sraQueryString">SRR6998705</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6661094</prop>
+    <prop name="sraQueryString">SRR6661094</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998706</prop>
+    <prop name="sraQueryString">SRR6998706</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6661095</prop>
+    <prop name="sraQueryString">SRR6661095</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998707</prop>
+    <prop name="sraQueryString">SRR6998707</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6661096</prop>
+    <prop name="sraQueryString">SRR6661096</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998708</prop>
+    <prop name="sraQueryString">SRR6998708</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6661097</prop>
+    <prop name="sraQueryString">SRR6661097</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998709</prop>
+    <prop name="sraQueryString">SRR6998709</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6661098</prop>
+    <prop name="sraQueryString">SRR6661098</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998710</prop>
+    <prop name="sraQueryString">SRR6998710</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6661099</prop>
+    <prop name="sraQueryString">SRR6661099</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998711</prop>
+    <prop name="sraQueryString">SRR6998711</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6661100</prop>
+    <prop name="sraQueryString">SRR6661100</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998712</prop>
+    <prop name="sraQueryString">SRR6998712</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6661101</prop>
+    <prop name="sraQueryString">SRR6661101</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998713</prop>
+    <prop name="sraQueryString">SRR6998713</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6661102</prop>
+    <prop name="sraQueryString">SRR6661102</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998714</prop>
+    <prop name="sraQueryString">SRR6998714</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6661103</prop>
+    <prop name="sraQueryString">SRR6661103</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998715</prop>
+    <prop name="sraQueryString">SRR6998715</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6661104</prop>
+    <prop name="sraQueryString">SRR6661104</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998716</prop>
+    <prop name="sraQueryString">SRR6998716</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6661105</prop>
+    <prop name="sraQueryString">SRR6661105</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998717</prop>
+    <prop name="sraQueryString">SRR6998717</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6661106</prop>
+    <prop name="sraQueryString">SRR6661106</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998718</prop>
+    <prop name="sraQueryString">SRR6998718</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6661107</prop>
+    <prop name="sraQueryString">SRR6661107</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998719</prop>
+    <prop name="sraQueryString">SRR6998719</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6661108</prop>
+    <prop name="sraQueryString">SRR6661108</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998720</prop>
+    <prop name="sraQueryString">SRR6998720</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6661109</prop>
+    <prop name="sraQueryString">SRR6661109</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998721</prop>
+    <prop name="sraQueryString">SRR6998721</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6661110</prop>
+    <prop name="sraQueryString">SRR6661110</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoJEC21</prop>
+    <prop name="experimentName">Tian_Sexual_Reproduction</prop>
+    <prop name="sampleName">SRR6998722</prop>
+    <prop name="sraQueryString">SRR6998722</prop>
+  </dataset>
+
+</datasets>

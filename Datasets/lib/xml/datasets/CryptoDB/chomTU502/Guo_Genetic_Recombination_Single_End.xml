@@ -1,0 +1,15 @@
+<datasets>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Guo_Genetic_Recombination_Single_End</prop>
+    <prop name="snpStrainAbbrev">30974</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Guo_Genetic_Recombination_Single_End</prop>
+    <prop name="snpStrainAbbrev">33537</prop>
+  </dataset>
+
+</datasets>

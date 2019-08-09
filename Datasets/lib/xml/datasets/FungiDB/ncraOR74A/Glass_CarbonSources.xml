@@ -1,0 +1,87 @@
+<datasets>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_CarbonSources</prop>
+    <prop name="sampleName">SRX2386230</prop>
+    <prop name="sraQueryString">SRX2386230</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_CarbonSources</prop>
+    <prop name="sampleName">SRX2386150</prop>
+    <prop name="sraQueryString">SRX2386150</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_CarbonSources</prop>
+    <prop name="sampleName">SRX2386226</prop>
+    <prop name="sraQueryString">SRX2386226</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_CarbonSources</prop>
+    <prop name="sampleName">SRX2386224</prop>
+    <prop name="sraQueryString">SRX2386224</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_CarbonSources</prop>
+    <prop name="sampleName">SRX2386234</prop>
+    <prop name="sraQueryString">SRX2386234</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_CarbonSources</prop>
+    <prop name="sampleName">SRX2386127</prop>
+    <prop name="sraQueryString">SRX2386127</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_CarbonSources</prop>
+    <prop name="sampleName">SRX2386123</prop>
+i    <prop name="sraQueryString">SRX2386123</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_CarbonSources</prop>
+    <prop name="sampleName">SRX2386244</prop>
+    <prop name="sraQueryString">SRX2386244</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_CarbonSources</prop>
+    <prop name="sampleName">SRX2386163</prop>
+    <prop name="sraQueryString">SRX2386163</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_CarbonSources</prop>
+    <prop name="sampleName">SRX2386161</prop>
+    <prop name="sraQueryString">SRX2386161</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_CarbonSources</prop>
+    <prop name="sampleName">SRX2386148</prop>
+    <prop name="sraQueryString">SRX2386148</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_CarbonSources</prop>
+    <prop name="sampleName">SRX2386246</prop>
+    <prop name="sraQueryString">SRX2386246</prop>
+  </dataset>
+
+</datasets>

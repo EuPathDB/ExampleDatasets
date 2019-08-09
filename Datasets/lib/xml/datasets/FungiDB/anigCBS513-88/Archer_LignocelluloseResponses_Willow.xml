@@ -1,0 +1,44 @@
+<datasets>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">anigCBS513-88</prop>
+    <prop name="experimentName">Archer_LignocelluloseResponses_Willow</prop>
+    <prop name="sampleName">SRX731631</prop>
+    <prop name="sraQueryString">SRX731631</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">anigCBS513-88</prop>
+    <prop name="experimentName">Archer_LignocelluloseResponses_Willow</prop>
+    <prop name="sampleName">SRX731632</prop>
+    <prop name="sraQueryString">SRX731632</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">anigCBS513-88</prop>
+    <prop name="experimentName">Archer_LignocelluloseResponses_Willow</prop>
+    <prop name="sampleName">SRX731633</prop>
+    <prop name="sraQueryString">SRX731633</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">anigCBS513-88</prop>
+    <prop name="experimentName">Archer_LignocelluloseResponses_Willow</prop>
+    <prop name="sampleName">SRX731634</prop>
+    <prop name="sraQueryString">SRX731634</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">anigCBS513-88</prop>
+    <prop name="experimentName">Archer_LignocelluloseResponses_Willow</prop>
+    <prop name="sampleName">SRX731635</prop>
+    <prop name="sraQueryString">SRX731635</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">anigCBS513-88</prop>
+    <prop name="experimentName">Archer_LignocelluloseResponses_Willow</prop>
+    <prop name="sampleName">SRX731636</prop>
+    <prop name="sraQueryString">SRX731636</prop>
+  </dataset>
+
+</datasets>

@@ -1,0 +1,17 @@
+<datasets>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Chen_HumanMeningitis_Paired_End</prop>
+    <prop name="sampleName">G0_ex_vivo_CSF</prop>
+    <prop name="sraQueryString">SRR1015483</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cneoH99</prop>
+    <prop name="experimentName">Chen_HumanMeningitis_Paired_End</prop>
+    <prop name="sampleName">HC1_ex_vivo_CSF</prop>
+    <prop name="sraQueryString">SRR1015480</prop>
+  </dataset>
+
+</datasets>

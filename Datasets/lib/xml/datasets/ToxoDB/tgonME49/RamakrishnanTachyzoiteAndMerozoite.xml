@@ -1,0 +1,27 @@
+<datasets>
+
+  <dataset class="rnaSeqSample">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">RamakrishnanTachyzoiteAndMerozoite</prop>
+    <prop name="sampleName">toxo1</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">RamakrishnanTachyzoiteAndMerozoite</prop>
+    <prop name="sampleName">toxo2</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">RamakrishnanTachyzoiteAndMerozoite</prop>
+    <prop name="sampleName">toxo5</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">RamakrishnanTachyzoiteAndMerozoite</prop>
+    <prop name="sampleName">toxo6</prop>
+  </dataset>
+
+</datasets>

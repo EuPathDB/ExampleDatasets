@@ -1,0 +1,110 @@
+<datasets>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">Ramakrishnan_enteroepithelial_stages</prop>
+    <prop name="sampleName">SRR6493537</prop>
+    <prop name="sraQueryString">SRR6493537</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">Ramakrishnan_enteroepithelial_stages</prop>
+    <prop name="sampleName">SRR6493538</prop>
+    <prop name="sraQueryString">SRR6493538</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">Ramakrishnan_enteroepithelial_stages</prop>
+    <prop name="sampleName">SRR6493539</prop>
+    <prop name="sraQueryString">SRR6493539</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">Ramakrishnan_enteroepithelial_stages</prop>
+    <prop name="sampleName">SRR6493540</prop>
+    <prop name="sraQueryString">SRR6493540</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">Ramakrishnan_enteroepithelial_stages</prop>
+    <prop name="sampleName">SRR6493541</prop>
+    <prop name="sraQueryString">SRR6493541</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">Ramakrishnan_enteroepithelial_stages</prop>
+    <prop name="sampleName">SRR6493542</prop>
+    <prop name="sraQueryString">SRR6493542</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">Ramakrishnan_enteroepithelial_stages</prop>
+    <prop name="sampleName">SRR6493543</prop>
+    <prop name="sraQueryString">SRR6493543</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">Ramakrishnan_enteroepithelial_stages</prop>
+    <prop name="sampleName">SRR6493544</prop>
+    <prop name="sraQueryString">SRR6493544</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">Ramakrishnan_enteroepithelial_stages</prop>
+    <prop name="sampleName">SRR6493545</prop>
+    <prop name="sraQueryString">SRR6493545</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">Ramakrishnan_enteroepithelial_stages</prop>
+    <prop name="sampleName">SRR6493546</prop>
+    <prop name="sraQueryString">SRR6493546</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">Ramakrishnan_enteroepithelial_stages</prop>
+    <prop name="sampleName">SRR6493547</prop>
+    <prop name="sraQueryString">SRR6493547</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">Ramakrishnan_enteroepithelial_stages</prop>
+    <prop name="sampleName">SRR6493548</prop>
+    <prop name="sraQueryString">SRR6493548</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">Ramakrishnan_enteroepithelial_stages</prop>
+    <prop name="sampleName">SRR6493549</prop>
+    <prop name="sraQueryString">SRR6493549</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">Ramakrishnan_enteroepithelial_stages</prop>
+    <prop name="sampleName">SRR6493551</prop>
+    <prop name="sraQueryString">SRR6493551</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">Ramakrishnan_enteroepithelial_stages</prop>
+    <prop name="sampleName">SRR6493552</prop>
+    <prop name="sraQueryString">SRR6493552</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">Ramakrishnan_enteroepithelial_stages</prop>
+    <prop name="sampleName">SRR6493553</prop>
+    <prop name="sraQueryString">SRR6493553</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">Ramakrishnan_enteroepithelial_stages</prop>
+    <prop name="sampleName">SRR6493554</prop>
+    <prop name="sraQueryString">SRR6493554</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">Ramakrishnan_enteroepithelial_stages</prop>
+    <prop name="sampleName">SRR6493555</prop>
+    <prop name="sraQueryString">SRR6493555</prop>
+  </dataset>
+</datasets>

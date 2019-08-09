@@ -1,0 +1,44 @@
+<datasets>
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">calbSC5314</prop>
+    <prop name="experimentName">Lindquist_AmBResistant</prop>
+    <prop name="snpStrainAbbrev">ATCC200955</prop>
+    <prop name="sraQueryString">SRX286432</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">calbSC5314</prop>
+    <prop name="experimentName">Lindquist_AmBResistant</prop>
+    <prop name="snpStrainAbbrev">SC5314_resequence1</prop>
+    <prop name="sraQueryString">SRX286431</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">calbSC5314</prop>
+    <prop name="experimentName">Lindquist_AmBResistant</prop>
+    <prop name="snpStrainAbbrev">AmBresistant2</prop>
+    <prop name="sraQueryString">SRX286424</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">calbSC5314</prop>
+    <prop name="experimentName">Lindquist_AmBResistant</prop>
+    <prop name="snpStrainAbbrev">AmBresistant3</prop>
+    <prop name="sraQueryString">SRX286429</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">calbSC5314</prop>
+    <prop name="experimentName">Lindquist_AmBResistant</prop>
+    <prop name="snpStrainAbbrev">AmBresistant4</prop>
+    <prop name="sraQueryString">SRX286430</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">calbSC5314</prop>
+    <prop name="experimentName">Lindquist_AmBResistant</prop>
+    <prop name="snpStrainAbbrev">ATCC10231</prop>
+    <prop name="sraQueryString">SRX278614</prop>
+  </dataset>
+
+</datasets>

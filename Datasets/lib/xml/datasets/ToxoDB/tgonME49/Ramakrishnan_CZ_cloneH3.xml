@@ -1,0 +1,16 @@
+<datasets>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">Ramakrishnan_CZ_cloneH3</prop>
+    <prop name="snpStrainAbbrev">CZ_cloneH3</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">ToxoDB</prop>
+      <prop name="organismAbbrev">tgonME49</prop>
+      <prop name="experimentName">Ramakrishnan_CZ_cloneH3</prop>
+      <prop name="experimentVersion">2018-04-27</prop>
+      <prop name="sampleName">CZ_cloneH3</prop>
+  </dataset>
+</datasets>

@@ -1,0 +1,81 @@
+
+<datasets>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_CellWallDegradation</prop>
+    <prop name="sampleName">SRX1017000</prop>
+    <prop name="sraQueryString">SRX1017000</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_CellWallDegradation</prop>
+    <prop name="sampleName">SRX1017001</prop>
+    <prop name="sraQueryString">SRX1017001</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_CellWallDegradation</prop>
+    <prop name="sampleName">SRX1017002</prop>
+    <prop name="sraQueryString">SRX1017002</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_CellWallDegradation</prop>
+    <prop name="sampleName">SRX1017003</prop>
+    <prop name="sraQueryString">SRX1017003</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_CellWallDegradation</prop>
+    <prop name="sampleName">SRX1017004</prop>
+    <prop name="sraQueryString">SRX1017004</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_CellWallDegradation</prop>
+    <prop name="sampleName">SRX1017005</prop>
+    <prop name="sraQueryString">SRX1017005</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_CellWallDegradation</prop>
+    <prop name="sampleName">SRX1017006</prop>
+    <prop name="sraQueryString">SRX1017006</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_CellWallDegradation</prop>
+    <prop name="sampleName">SRX1017007</prop>
+    <prop name="sraQueryString">SRX1017007</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_CellWallDegradation</prop>
+    <prop name="sampleName">SRX1017008</prop>
+    <prop name="sraQueryString">SRX1017008</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_CellWallDegradation</prop>
+    <prop name="sampleName">SRX1017009</prop>
+    <prop name="sraQueryString">SRX1017009</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Glass_CellWallDegradation</prop>
+    <prop name="sampleName">SRX1017010</prop>
+    <prop name="sraQueryString">SRX1017010</prop>
+  </dataset>
+
+</datasets>

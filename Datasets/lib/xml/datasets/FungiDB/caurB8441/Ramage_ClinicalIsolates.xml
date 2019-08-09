@@ -1,0 +1,156 @@
+<datasets>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Ramage_ClinicalIsolates</prop>
+    <prop name="sampleName">SRX4282781</prop>
+    <prop name="sraQueryString">SRX4282781</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Ramage_ClinicalIsolates</prop>
+    <prop name="sampleName">SRX4282780</prop>
+    <prop name="sraQueryString">SRX4282780</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Ramage_ClinicalIsolates</prop>
+    <prop name="sampleName">SRX4282785</prop>
+    <prop name="sraQueryString">SRX4282785</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Ramage_ClinicalIsolates</prop>
+    <prop name="sampleName">SRX4282772</prop>
+    <prop name="sraQueryString">SRX4282772</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Ramage_ClinicalIsolates</prop>
+    <prop name="sampleName">SRX4282784</prop>
+    <prop name="sraQueryString">SRX4282784</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Ramage_ClinicalIsolates</prop>
+    <prop name="sampleName">SRX4282771</prop>
+    <prop name="sraQueryString">SRX4282771</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Ramage_ClinicalIsolates</prop>
+    <prop name="sampleName">SRX4282764</prop>
+    <prop name="sraQueryString">SRX4282764</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Ramage_ClinicalIsolates</prop>
+    <prop name="sampleName">SRX4282765</prop>
+    <prop name="sraQueryString">SRX4282765</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Ramage_ClinicalIsolates</prop>
+    <prop name="sampleName">SRX4282770</prop>
+    <prop name="sraQueryString">SRX4282770</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Ramage_ClinicalIsolates</prop>
+    <prop name="sampleName">SRX4282769</prop>
+    <prop name="sraQueryString">SRX4282769</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Ramage_ClinicalIsolates</prop>
+    <prop name="sampleName">SRX4282768</prop>
+    <prop name="sraQueryString">SRX4282768</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Ramage_ClinicalIsolates</prop>
+    <prop name="sampleName">SRX4282767</prop>
+    <prop name="sraQueryString">SRX4282767</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Ramage_ClinicalIsolates</prop>
+    <prop name="sampleName">SRX4282766</prop>
+    <prop name="sraQueryString">SRX4282766</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Ramage_ClinicalIsolates</prop>
+    <prop name="sampleName">SRX4282775</prop>
+    <prop name="sraQueryString">SRX4282775</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Ramage_ClinicalIsolates</prop>
+    <prop name="sampleName">SRX4282774</prop>
+    <prop name="sraQueryString">SRX4282774</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Ramage_ClinicalIsolates</prop>
+    <prop name="sampleName">SRX4282779</prop>
+    <prop name="sraQueryString">SRX4282779</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Ramage_ClinicalIsolates</prop>
+    <prop name="sampleName">SRX4282778</prop>
+    <prop name="sraQueryString">SRX4282778</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Ramage_ClinicalIsolates</prop>
+    <prop name="sampleName">SRX4282777</prop>
+    <prop name="sraQueryString">SRX4282777</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Ramage_ClinicalIsolates</prop>
+    <prop name="sampleName">SRX4282776</prop>
+    <prop name="sraQueryString">SRX4282776</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Ramage_ClinicalIsolates</prop>
+    <prop name="sampleName">SRX4282773</prop>
+    <prop name="sraQueryString">SRX4282773</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Ramage_ClinicalIsolates</prop>
+    <prop name="sampleName">SRX4282783</prop>
+    <prop name="sraQueryString">SRX4282783</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">caurB8441</prop>
+    <prop name="experimentName">Ramage_ClinicalIsolates</prop>
+    <prop name="sampleName">SRX4282782</prop>
+    <prop name="sraQueryString">SRX4282782</prop>
+  </dataset>
+
+</datasets>

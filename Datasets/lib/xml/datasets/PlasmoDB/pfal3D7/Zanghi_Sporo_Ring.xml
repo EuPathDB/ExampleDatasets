@@ -1,0 +1,195 @@
+<datasets>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Zanghi_Sporo_Ring</prop>
+    <prop name="sampleName">Ring_H3K9me3-R1</prop>
+    <prop name="inputName">Ring_Input-R1</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Zanghi_Sporo_Ring</prop>
+    <prop name="sampleName">Ring_PfHP1-R1</prop>
+    <prop name="inputName">Ring_Input-R1</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Zanghi_Sporo_Ring</prop>
+    <prop name="sampleName">Ring_Input-R1</prop>
+    <prop name="inputName">Ring_Input-R1</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Zanghi_Sporo_Ring</prop>
+    <prop name="sampleName">Sporozoite_H3K9Ac-R1</prop>
+    <prop name="inputName">Sporozoite_Input-R1</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Zanghi_Sporo_Ring</prop>
+    <prop name="sampleName">Sporozoite_H3K9me3-R1</prop>
+    <prop name="inputName">Sporozoite_Input-R1</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Zanghi_Sporo_Ring</prop>
+    <prop name="sampleName">Sporozoite_PfHP1-R1</prop>
+    <prop name="inputName">Sporozoite_Input-R1</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Zanghi_Sporo_Ring</prop>
+    <prop name="sampleName">Sporozoite_Rabbit_IgG-R1</prop>
+    <prop name="inputName">Sporozoite_Input-R1</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Zanghi_Sporo_Ring</prop>
+    <prop name="sampleName">Sporozoite_Input-R1</prop>
+    <prop name="inputName">Sporozoite_Input-R1</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Zanghi_Sporo_Ring</prop>
+    <prop name="sampleName">Ring_H3K9me3-R2</prop>
+    <prop name="inputName">Ring_Input-R2</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Zanghi_Sporo_Ring</prop>
+    <prop name="sampleName">Ring_Input-R2</prop>
+    <prop name="inputName">Ring_Input-R2</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Zanghi_Sporo_Ring</prop>
+    <prop name="sampleName">Ring_PfHP1-R2</prop>
+    <prop name="inputName">Ring_Input-R2</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Zanghi_Sporo_Ring</prop>
+    <prop name="sampleName">Sporozoite_H3K9Ac-R2</prop>
+    <prop name="inputName">Sporozoite_Input-R2</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Zanghi_Sporo_Ring</prop>
+    <prop name="sampleName">Sporozoite_H3K9me3-R2</prop>
+    <prop name="inputName">Sporozoite_Input-R2</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Zanghi_Sporo_Ring</prop>
+    <prop name="sampleName">Sporozoite_Input-R2</prop>
+    <prop name="inputName">Sporozoite_Input-R2</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Zanghi_Sporo_Ring</prop>
+    <prop name="sampleName">Sporozoite_PfHP1-R2</prop>
+    <prop name="inputName">Sporozoite_Input-R2</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Zanghi_Sporo_Ring</prop>
+    <prop name="sampleName">Sporozoite_Rabbit_IgG-R2</prop>
+    <prop name="inputName">Sporozoite_Input-R2</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Zanghi_Sporo_Ring</prop>
+    <prop name="sampleName">Ring_H3K9me3-R3</prop>
+    <prop name="inputName">Ring_Input-R3</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Zanghi_Sporo_Ring</prop>
+    <prop name="sampleName">Ring_Input-R3</prop>
+    <prop name="inputName">Ring_Input-R3</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Zanghi_Sporo_Ring</prop>
+    <prop name="sampleName">Ring_PfHP1-R3</prop>
+    <prop name="inputName">Ring_Input-R3</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Zanghi_Sporo_Ring</prop>
+    <prop name="sampleName">Sporozoite_H3K9Ac-R3</prop>
+    <prop name="inputName">Sporozoite_Input-R3</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Zanghi_Sporo_Ring</prop>
+    <prop name="sampleName">Sporozoite_H3K9me3-R3</prop>
+    <prop name="inputName">Sporozoite_Input-R3</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Zanghi_Sporo_Ring</prop>
+    <prop name="sampleName">Sporozoite_Input-R3</prop>
+    <prop name="inputName">Sporozoite_Input-R3</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Zanghi_Sporo_Ring</prop>
+    <prop name="sampleName">Sporozoite_PfHP1-R3</prop>
+    <prop name="inputName">Sporozoite_Input-R3</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pfal3D7</prop>
+    <prop name="experimentName">Zanghi_Sporo_Ring</prop>
+    <prop name="sampleName">Sporozoite_Rabbit_IgG-R3</prop>
+    <prop name="inputName">Sporozoite_Input-R3</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+</datasets>

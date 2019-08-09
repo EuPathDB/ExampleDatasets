@@ -1,0 +1,842 @@
+<datasets>
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">BANANCL2</prop>
+    <prop name="sraQueryString">ERX1959118</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">BANANCL2</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">DIND</prop>
+    <prop name="sraQueryString">ERX1959121</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">DIND</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">MATADI</prop>
+    <prop name="sraQueryString">ERX1959138</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">MATADI</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">TRT21</prop>
+    <prop name="sraQueryString">ERX1959154</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">TRT21</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">TRT25K1</prop>
+    <prop name="sraQueryString">ERX1959155</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">TRT25K1</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">ZRE-AGRIUMBE</prop>
+    <prop name="sraQueryString">ERX1959170</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">ZRE-AGRIUMBE</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">ZRE-NKUIYI</prop>
+    <prop name="sraQueryString">ERX1959171</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">ZRE-NKUIYI</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">ALME</prop>
+    <prop name="sraQueryString">ERX1959117</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">ALME</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">BEKA</prop>
+    <prop name="sraQueryString">ERX1959119</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">BEKA</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">EATRO1157C2</prop>
+    <prop name="sraQueryString">ERX1959123</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">EATRO1157C2</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">GUTR28X1</prop>
+    <prop name="sraQueryString">ERX1959124</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">GUTR28X1</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">GUTR37K1</prop>
+    <prop name="sraQueryString">ERX1959125</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">GUTR37K1</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">KARAN_ALL</prop>
+    <prop name="sraQueryString">ERX1959130</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">KARAN_ALL</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">KONT1-129</prop>
+    <prop name="sraQueryString">ERX1959132</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">KONT1-129</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">KONT2-133</prop>
+    <prop name="sraQueryString">ERX1959133</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">KONT2-133</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">KONT2-155</prop>
+    <prop name="sraQueryString">ERX1959134</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">KONT2-155</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">MALI-1312-95</prop>
+    <prop name="sraQueryString">ERX1959136</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">MALI-1312-95</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">MALI25239K1</prop>
+    <prop name="sraQueryString">ERX1959137</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">MALI25239K1</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">SA267</prop>
+    <prop name="sraQueryString">ERX1959145</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">SA267</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">SA268</prop>
+    <prop name="sraQueryString">ERX1959146</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">SA268</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">SA95-3308K1</prop>
+    <prop name="sraQueryString">ERX1959147</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">SA95-3308K1</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">PAUWE73</prop>
+    <prop name="sraQueryString">ERX1959142</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">PAUWE73</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">PAUWE77X2</prop>
+    <prop name="sraQueryString">ERX1959143</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">PAUWE77X2</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">POUSS</prop>
+    <prop name="sraQueryString">ERX1959144</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">POUSS</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">TOGO222</prop>
+    <prop name="sraQueryString">ERX1959148</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">TOGO222</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">TOGO2264</prop>
+    <prop name="sraQueryString">ERX1959149</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">TOGO2264</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">WETEJA-F015</prop>
+    <prop name="sraQueryString">ERX1959166</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">WETEJA-F015</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">YATU-F187</prop>
+    <prop name="sraQueryString">ERX1959167</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">YATU-F187</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">J4J4K1</prop>
+    <prop name="sraQueryString">ERX1959127</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">J4J4K1</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">TRT1</prop>
+    <prop name="sraQueryString">ERX1959150</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">TRT1</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">TRT15</prop>
+    <prop name="sraQueryString">ERX1959152</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">TRT15</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">TRT17C1</prop>
+    <prop name="sraQueryString">ERX1959153</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">TRT17C1</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">TRT38</prop>
+    <prop name="sraQueryString">ERX1959157</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">TRT38</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">TRT42K1</prop>
+    <prop name="sraQueryString">ERX1959158</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">TRT42K1</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">TRT44K1</prop>
+    <prop name="sraQueryString">ERX1959159</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">TRT44K1</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">TRT54K1</prop>
+    <prop name="sraQueryString">ERX1959161</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">TRT54K1</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">TRT61</prop>
+    <prop name="sraQueryString">ERX1959165</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">TRT61</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">CHIPOPELA</prop>
+    <prop name="sraQueryString">ERX1959120</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">CHIPOPELA</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">KAPEVE27PC2K1</prop>
+    <prop name="sraQueryString">ERX1959128</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">KAPEVE27PC2K1</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">KASANDAK1</prop>
+    <prop name="sraQueryString">ERX1959131</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">KASANDAK1</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">LOMBO3020</prop>
+    <prop name="sraQueryString">ERX1959135</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">LOMBO3020</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">MSOROM19K1</prop>
+    <prop name="sraQueryString">ERX1959140</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">MSOROM19K1</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">YOBO2007C2</prop>
+    <prop name="sraQueryString">ERX1959168</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">YOBO2007C2</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">YOBO2038C2X7</prop>
+    <prop name="sraQueryString">ERX1959169</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">YOBO2038C2X7</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">TRT46</prop>
+    <prop name="sraQueryString">ERX1959160</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">TRT46</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">ALICK339C6_2</prop>
+    <prop name="sraQueryString">ERX1959116</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">ALICK339C6_2</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">KAPEYAK1</prop>
+    <prop name="sraQueryString">ERX1959129</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">KAPEYAK1</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">MPHITA4028</prop>
+    <prop name="sraQueryString">ERX1959139</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">MPHITA4028</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">TRT12K1</prop>
+    <prop name="sraQueryString">ERX1959151</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">TRT12K1</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">TRT37</prop>
+    <prop name="sraQueryString">ERX1959156</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">TRT37</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">TRT5X1</prop>
+    <prop name="sraQueryString">ERX1959164</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">TRT5X1</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">TRT573R</prop>
+    <prop name="sraQueryString">ERX1959162</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">TRT573R</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">TRT59K1</prop>
+    <prop name="sraQueryString">ERX1959163</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">TRT59K1</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">DJUMAK1</prop>
+    <prop name="sraQueryString">ERX1959122</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">DJUMAK1</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">IL1180_ALL</prop>
+    <prop name="sraQueryString">ERX1959126</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">IL1180_ALL</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="snpStrainAbbrev">MSOROM7_ALL</prop>
+    <prop name="sraQueryString">ERX1959141</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">tconIL3000</prop>
+    <prop name="experimentName">Tihon_African_Isolates</prop>
+    <prop name="experimentVersion">2017-05-31</prop>
+    <prop name="sampleName">MSOROM7_ALL</prop>
+  </dataset>
+
+</datasets>

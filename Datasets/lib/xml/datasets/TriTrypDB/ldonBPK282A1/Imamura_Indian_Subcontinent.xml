@@ -1,0 +1,2786 @@
+ <datasets>
+
+   <dataset class="SNPs_HTS_Sample">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BD09</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BD09</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BD12</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BD12</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BD14</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BD14</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BD15</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BD15</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BD17</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BD17</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BD21</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BD21</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BD24</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BD24</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BD25</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BD25</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU1011_0</prop>
+      <prop name="sraQueryString">ERR206447</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU1011_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU1032_0</prop>
+      <prop name="sraQueryString">ERR206484</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU1032_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU1042_1</prop>
+      <prop name="sraQueryString">ERR206453</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU1042_1</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU1052_0</prop>
+      <prop name="sraQueryString">ERR206454</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU1052_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU1062_4</prop>
+      <prop name="sraQueryString">ERR206455</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU1062_4</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU1065_0</prop>
+      <prop name="sraQueryString">ERR206485</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU1065_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU1080_1</prop>
+      <prop name="sraQueryString">ERR206456</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU1080_1</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU1081_0</prop>
+      <prop name="sraQueryString">ERR206457</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU1081_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU1092_0</prop>
+      <prop name="sraQueryString">ERR206459</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU1092_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU1104_0</prop>
+      <prop name="sraQueryString">ERR206472</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU1104_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU1113_7</prop>
+      <prop name="sraQueryString">ERR206473</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU1113_7</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU1139_0</prop>
+      <prop name="sraQueryString">ERR206490</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU1139_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU1146_0</prop>
+      <prop name="sraQueryString">ERR206474</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU1146_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU1153_1</prop>
+      <prop name="sraQueryString">ERR206491</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU1153_1</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU1163_4</prop>
+      <prop name="sraQueryString">ERR206475</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU1163_4</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU1164_4</prop>
+      <prop name="sraQueryString">ERR206476</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU1164_4</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU1199_0</prop>
+      <prop name="sraQueryString">ERR206486</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU1199_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU1216_0</prop>
+      <prop name="sraQueryString">ERR206477</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU1216_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU171_0</prop>
+      <prop name="sraQueryString">ERR206406</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU171_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU172_0</prop>
+      <prop name="sraQueryString">ERR206407</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU172_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU180_0</prop>
+      <prop name="sraQueryString">ERR206408</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU180_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU188_0</prop>
+      <prop name="sraQueryString">ERR206409</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU188_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU198_0</prop>
+      <prop name="sraQueryString">ERR206478</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU198_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU200_0</prop>
+      <prop name="sraQueryString">ERR206410</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU200_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU201_0</prop>
+      <prop name="sraQueryString">ERR206411</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU201_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU202_0</prop>
+      <prop name="sraQueryString">ERR206412</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU202_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU205_0</prop>
+      <prop name="sraQueryString">ERR206413</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU205_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU210_0</prop>
+      <prop name="sraQueryString">ERR206414</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU210_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU213_0</prop>
+      <prop name="sraQueryString">ERR206415</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU213_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU215_0</prop>
+      <prop name="sraQueryString">ERR206416</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU215_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU216_0</prop>
+      <prop name="sraQueryString">ERR206417</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU216_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU220_0</prop>
+      <prop name="sraQueryString">ERR206418</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU220_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU222_0</prop>
+      <prop name="sraQueryString">ERR206419</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU222_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU224_0</prop>
+      <prop name="sraQueryString">ERR206488</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU224_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU230_0</prop>
+      <prop name="sraQueryString">ERR206420</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU230_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU233_0</prop>
+      <prop name="sraQueryString">ERR206421</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU233_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU234_0</prop>
+      <prop name="sraQueryString">ERR206422</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU234_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU238_0</prop>
+      <prop name="sraQueryString">ERR206423</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU238_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU239_0</prop>
+      <prop name="sraQueryString">ERR206424</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU239_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU241_0</prop>
+      <prop name="sraQueryString">ERR206425</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU241_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU242_0</prop>
+      <prop name="sraQueryString">ERR206426</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU242_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU250_0</prop>
+      <prop name="sraQueryString">ERR206427</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU250_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU254_0</prop>
+      <prop name="sraQueryString">ERR206428</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU254_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU267_0</prop>
+      <prop name="sraQueryString">ERR206429</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU267_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU268_0</prop>
+      <prop name="sraQueryString">ERR206430</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU268_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU269_0</prop>
+      <prop name="sraQueryString">ERR206479</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU269_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU271_0</prop>
+      <prop name="sraQueryString">ERR206480</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU271_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU273_0</prop>
+      <prop name="sraQueryString">ERR206481</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU273_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU274_0</prop>
+      <prop name="sraQueryString">ERR206431</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU274_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU275_0</prop>
+      <prop name="sraQueryString">ERR206432</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU275_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU278_0</prop>
+      <prop name="sraQueryString">ERR206482</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU278_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU281_0</prop>
+      <prop name="sraQueryString">ERR206483</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU281_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU283_0</prop>
+      <prop name="sraQueryString">ERR206433</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU283_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU293_0</prop>
+      <prop name="sraQueryString">ERR206434</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU293_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU296_0</prop>
+      <prop name="sraQueryString">ERR206487</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU296_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU297_0</prop>
+      <prop name="sraQueryString">ERR206435</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU297_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU298_0</prop>
+      <prop name="sraQueryString">ERR206460</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU298_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU301_0</prop>
+      <prop name="sraQueryString">ERR206461</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU301_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU315_0</prop>
+      <prop name="sraQueryString">ERR206462</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU315_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU339_0</prop>
+      <prop name="sraQueryString">ERR206463</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU339_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU345_0</prop>
+      <prop name="sraQueryString">ERR206489</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU345_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU568cl1</prop>
+      <prop name="sraQueryString">ERR018860</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU568cl1</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU573cl3</prop>
+      <prop name="sraQueryString">ERR018861</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU573cl3</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU744_0</prop>
+      <prop name="sraQueryString">ERR206436</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU744_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU774_0</prop>
+      <prop name="sraQueryString">ERR206437</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU774_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU783_0</prop>
+      <prop name="sraQueryString">ERR206438</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU783_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU796_0</prop>
+      <prop name="sraQueryString">ERR206465</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU796_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU797_0</prop>
+      <prop name="sraQueryString">ERR206439</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU797_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU798_0</prop>
+      <prop name="sraQueryString">ERR206466</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU798_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU800_1</prop>
+      <prop name="sraQueryString">ERR206467</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU800_1</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU808_0</prop>
+      <prop name="sraQueryString">ERR206468</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU808_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU815_0</prop>
+      <prop name="sraQueryString">ERR206469</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU815_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU816_1</prop>
+      <prop name="sraQueryString">ERR206470</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU816_1</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU824_0</prop>
+      <prop name="sraQueryString">ERR206471</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU824_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU828_0</prop>
+      <prop name="sraQueryString">ERR206448</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU828_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU844_0</prop>
+      <prop name="sraQueryString">ERR206440</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU844_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU850_0</prop>
+      <prop name="sraQueryString">ERR206441</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU850_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU869_0</prop>
+      <prop name="sraQueryString">ERR206442</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU869_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU872_6</prop>
+      <prop name="sraQueryString">ERR206443</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU872_6</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU889_0</prop>
+      <prop name="sraQueryString">ERR206449</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU889_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU902_1</prop>
+      <prop name="sraQueryString">ERR206444</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU902_1</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU906_0</prop>
+      <prop name="sraQueryString">ERR206445</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU906_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU931_0</prop>
+      <prop name="sraQueryString">ERR206450</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU931_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU975_0</prop>
+      <prop name="sraQueryString">ERR206451</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU975_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU982_0</prop>
+      <prop name="sraQueryString">ERR206446</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU982_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BHU994_1</prop>
+      <prop name="sraQueryString">ERR206452</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BHU994_1</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK025_0cl1</prop>
+      <prop name="sraQueryString">ERR206299</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK025_0cl1</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK026_0cl5</prop>
+      <prop name="sraQueryString">ERR018831</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK026_0cl5</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK029_0cl6</prop>
+      <prop name="sraQueryString">ERR206300</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK029_0cl6</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK035_0cl1</prop>
+      <prop name="sraQueryString">ERR018830</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK035_0cl1</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK043_0cl2</prop>
+      <prop name="sraQueryString">ERR018858, ERR018862</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK043_0cl2</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK066_0</prop>
+      <prop name="sraQueryString">ERR206348</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK066_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK067_0cl2</prop>
+      <prop name="sraQueryString">ERR018850</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK067_0cl2</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK077_0cl5</prop>
+      <prop name="sraQueryString">ERR206301</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK077_0cl5</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK080_0cl1</prop>
+      <prop name="sraQueryString">ERR018851</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK080_0cl1</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK081_0cl8</prop>
+      <prop name="sraQueryString">ERR206302</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK081_0cl8</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK085_0cl8</prop>
+      <prop name="sraQueryString">ERR206365</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK085_0cl8</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK087_0cl11</prop>
+      <prop name="sraQueryString">ERR206388</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK087_0cl11</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK090_0cl4</prop>
+      <prop name="sraQueryString">ERR206309</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK090_0cl4</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK156_0</prop>
+      <prop name="sraQueryString">ERR206350</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK156_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK158_0cl9</prop>
+      <prop name="sraQueryString">ERR206310</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK158_0cl9</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK173_0cl3</prop>
+      <prop name="sraQueryString">ERR206367</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK173_0cl3</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK173_1cl9</prop>
+      <prop name="sraQueryString">ERR206389</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK173_1cl9</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK177_0cl7</prop>
+      <prop name="sraQueryString">ERR206311</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK177_0cl7</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK178_0cl3</prop>
+      <prop name="sraQueryString">ERR206390</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK178_0cl3</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK181_0cl1</prop>
+      <prop name="sraQueryString">ERR206304</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK181_0cl1</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK181_12</prop>
+      <prop name="sraQueryString">ERR206343</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK181_12</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK190_0cl3</prop>
+      <prop name="sraQueryString">ERR206391</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK190_0cl3</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK206_0cl10</prop>
+      <prop name="sraQueryString">ERR206399</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK206_0cl10</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK208_0cl2</prop>
+      <prop name="sraQueryString">ERR206312</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK208_0cl2</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK274_0cl5</prop>
+      <prop name="sraQueryString">ERR206313</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK274_0cl5</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK275_0cl18</prop>
+      <prop name="sraQueryString">ERR206392, ERR206495</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK275_0cl18</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK275_1cl3</prop>
+      <prop name="sraQueryString">ERR018856</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK275_1cl3</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK276_0cl6</prop>
+      <prop name="sraQueryString">ERR206314</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK276_0cl6</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK279_0cl6</prop>
+      <prop name="sraQueryString">ERR206315</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK279_0cl6</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK280_0</prop>
+      <prop name="sraQueryString">ERR206351</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK280_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK282_0cl4</prop>
+      <prop name="sraQueryString">ERR206371</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK282_0cl4</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK288_0</prop>
+      <prop name="sraQueryString">ERR206297</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK288_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK293_0</prop>
+      <prop name="sraQueryString">ERR206352</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK293_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK294_0cl1</prop>
+      <prop name="sraQueryString">ERR206375</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK294_0cl1</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK295_0cl6</prop>
+      <prop name="sraQueryString">ERR206316</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK295_0cl6</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK298_0cl8</prop>
+      <prop name="sraQueryString">ERR018833</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK298_0cl8</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK344_0</prop>
+      <prop name="sraQueryString">ERR206353</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK344_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK345_0</prop>
+      <prop name="sraQueryString">ERR206319</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK345_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK375_0</prop>
+      <prop name="sraQueryString">ERR206320</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK375_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK380_0</prop>
+      <prop name="sraQueryString">ERR206321</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK380_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK411_0</prop>
+      <prop name="sraQueryString">ERR206331</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK411_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK413_0</prop>
+      <prop name="sraQueryString">ERR206322</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK413_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK433_0</prop>
+      <prop name="sraQueryString">ERR206323</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK433_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK455_0cl2</prop>
+      <prop name="sraQueryString">ERR206305</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK455_0cl2</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK455_5cl3</prop>
+      <prop name="sraQueryString">ERR206306</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK455_5cl3</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK471_7</prop>
+      <prop name="sraQueryString">ERR206354</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK471_7</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK475_9</prop>
+      <prop name="sraQueryString">ERR206355</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK475_9</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK486_7</prop>
+      <prop name="sraQueryString">ERR206356</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK486_7</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK491_0</prop>
+      <prop name="sraQueryString">ERR206332</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK491_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK495_0</prop>
+      <prop name="sraQueryString">ERR206357</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK495_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK496_0</prop>
+      <prop name="sraQueryString">ERR206333</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK496_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK497_0</prop>
+      <prop name="sraQueryString">ERR206334</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK497_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK498_0</prop>
+      <prop name="sraQueryString">ERR206335</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK498_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK499_0</prop>
+      <prop name="sraQueryString">ERR206358</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK499_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK500_0</prop>
+      <prop name="sraQueryString">ERR206336</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK500_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK501_0</prop>
+      <prop name="sraQueryString">ERR206359</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK501_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK502_0</prop>
+      <prop name="sraQueryString">ERR206337</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK502_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK505_0</prop>
+      <prop name="sraQueryString">ERR206360</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK505_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK506_0</prop>
+      <prop name="sraQueryString">ERR206338</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK506_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK507_0</prop>
+      <prop name="sraQueryString">ERR206361</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK507_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK509_0</prop>
+      <prop name="sraQueryString">ERR206362</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK509_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK509_2</prop>
+      <prop name="sraQueryString">ERR206363</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK509_2</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK513_0cl8</prop>
+      <prop name="sraQueryString">ERR206317</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK513_0cl8</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK514_0</prop>
+      <prop name="sraQueryString">ERR206339</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK514_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK515_0</prop>
+      <prop name="sraQueryString">ERR206340</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK515_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK516_0</prop>
+      <prop name="sraQueryString">ERR206341</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK516_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK518_0</prop>
+      <prop name="sraQueryString">ERR206324</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK518_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK519_0</prop>
+      <prop name="sraQueryString">ERR206325</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK519_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK519_12</prop>
+      <prop name="sraQueryString">ERR206492</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK519_12</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK520_0</prop>
+      <prop name="sraQueryString">ERR206326</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK520_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK526_0</prop>
+      <prop name="sraQueryString">ERR206327</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK526_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK530_0</prop>
+      <prop name="sraQueryString">ERR206328</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK530_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK562_0</prop>
+      <prop name="sraQueryString">ERR206329</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK562_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK569_0</prop>
+      <prop name="sraQueryString">ERR206330</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK569_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK594_0</prop>
+      <prop name="sraQueryString">ERR206493</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK594_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK602_0</prop>
+      <prop name="sraQueryString">ERR206494</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK602_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK604_0</prop>
+      <prop name="sraQueryString">ERR206496</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK604_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK608_0</prop>
+      <prop name="sraQueryString">ERR206497</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK608_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK609_0</prop>
+      <prop name="sraQueryString">ERR206498</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK609_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK612_0</prop>
+      <prop name="sraQueryString">ERR206499</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK612_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK615_0</prop>
+      <prop name="sraQueryString">ERR206500</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK615_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK616_0</prop>
+      <prop name="sraQueryString">ERR206501</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK616_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK619_0</prop>
+      <prop name="sraQueryString">ERR206502</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK619_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK623_0</prop>
+      <prop name="sraQueryString">ERR206503</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK623_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK648_0</prop>
+      <prop name="sraQueryString">ERR206504</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK648_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK649_0</prop>
+      <prop name="sraQueryString">ERR206505</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK649_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">BPK650_0</prop>
+      <prop name="sraQueryString">ERR206506</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">BPK650_0</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">NEP021_6cl6</prop>
+      <prop name="sraQueryString">ERR206307</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">NEP021_6cl6</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">NEP052_3</prop>
+      <prop name="sraQueryString">ERR206344</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">NEP052_3</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">NEP098_6</prop>
+      <prop name="sraQueryString">ERR206345</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">NEP098_6</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">NEP107_6</prop>
+      <prop name="sraQueryString">ERR206346</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">NEP107_6</prop>
+   </dataset>
+
+   <dataset class="SNPs_HTS_Sample_QuerySRA">
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="snpStrainAbbrev">NEP123_6</prop>
+      <prop name="sraQueryString">ERR206347</prop>
+   </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">TriTrypDB</prop>
+      <prop name="organismAbbrev">ldonBPK282A1</prop>
+      <prop name="experimentName">Imamura_Indian_Subcontinent</prop>
+      <prop name="experimentVersion">2015-05-22</prop>
+      <prop name="sampleName">NEP123_6</prop>
+   </dataset>
+
+</datasets>
+

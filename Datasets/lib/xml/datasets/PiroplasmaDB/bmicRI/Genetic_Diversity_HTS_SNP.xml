@@ -1,0 +1,549 @@
+<datasets>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">Bab01</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">Bab01</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">Bab02</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">Bab02</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">Bab03</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">Bab03</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">Bab04</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">Bab04</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">Bab05</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">Bab05</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">Bab06</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">Bab06</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">Bab07</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">Bab07</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">Bab08</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">Bab08</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">Bab10</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">Bab10</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">Bab11</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">Bab11</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">Bab12</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">Bab12</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">Bab13</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">Bab13</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">Bab14</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">Bab14</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">Bab15</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">Bab15</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">Bab16A</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">Bab16A</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">Bab16B</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">Bab16B</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">Bab16C</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">Bab16C</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">Bab16E</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">Bab16E</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">BWH2014</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">BWH2014</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">GI1986</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">GI1986</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">GI1990</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">GI1990</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">GI2004</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">GI2004</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">GI2014</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">GI2014</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">RMNS1997</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">RMNS1997</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">MGH2001</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">MGH2001</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">MN-1</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">MN-1</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">BWH2003</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">BWH2003</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">MORNS2015</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">MORNS2015</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">SN1988</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">SN1988</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">Gray</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">Gray</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">MNBO10</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">MNBO10</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">ND11</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">ND11</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">Peabody</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">Peabody</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">RMNS2001</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">RMNS2001</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">Russia</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">Russia</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">PI2000</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">PI2000</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">UMMS1</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">UMMS1</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">UMMS2</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">UMMS2</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">UMMS3</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">UMMS3</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">UMMS4</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">UMMS4</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">UMMS5</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">UMMS5</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="snpStrainAbbrev">WI7</prop>
+  </dataset>
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="organismAbbrev">bmicRI</prop>
+    <prop name="experimentName">Genetic_Diversity_HTS_SNP</prop>
+    <prop name="experimentVersion">2016-04-09</prop>
+    <prop name="sampleName">WI7</prop>
+  </dataset>
+
+</datasets>

@@ -1,0 +1,645 @@
+<datasets>
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2009_AM421</prop>
+    <prop name="sraQueryString">ERR438795</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2009_AM421</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2009_AM422</prop>
+    <prop name="sraQueryString">ERR438796</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2009_AM422</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2010_AM546</prop>
+    <prop name="sraQueryString">ERR438789</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2010_AM546</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2010_AM548</prop>
+    <prop name="sraQueryString">ERR438790</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2010_AM548</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2010_AM551</prop>
+    <prop name="sraQueryString">ERR438791</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2010_AM551</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2010_AM552</prop>
+    <prop name="sraQueryString">ERR438792</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2010_AM552</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2010_AM553</prop>
+    <prop name="sraQueryString">ERR438793</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2010_AM553</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2010_AM554</prop>
+    <prop name="sraQueryString">ERR438794</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2010_AM554</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2010_AM560_1</prop>
+    <prop name="sraQueryString">ERR304762</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2010_AM560_1</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2010_AM560_2</prop>
+    <prop name="sraQueryString">ERR304763</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2010_AM560_2</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2010_AM560_3</prop>
+    <prop name="sraQueryString">ERR304764</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2010_AM560_3</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2010_AM563</prop>
+    <prop name="sraQueryString">ERR304766</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2010_AM563</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2009_GR356_1</prop>
+    <prop name="sraQueryString">ERR205809</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2009_GR356_1</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2009_GR356_2</prop>
+    <prop name="sraQueryString">ERR205810</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2009_GR356_2</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2009_GR356_3</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2009_GR356_3</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2009_GR356_4</prop>
+    <prop name="sraQueryString">ERR304754</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2009_GR356_4</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2009_GR356_5</prop>
+    <prop name="sraQueryString">ERR304755</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2009_GR356_5</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2009_GR356_6</prop>
+    <prop name="sraQueryString">ERR304756</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2009_GR356_6</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2009_GR356_7</prop>
+    <prop name="sraQueryString">ERR304757</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2009_GR356_7</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2009_GR356_8</prop>
+    <prop name="sraQueryString">ERR304758</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2009_GR356_8</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2009_GR356_9</prop>
+    <prop name="sraQueryString">ERR304759</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2009_GR356_9</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2009_GR356_10</prop>
+    <prop name="sraQueryString">ERR304761</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2009_GR356_10</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2010_GR363SP_1</prop>
+    <prop name="sraQueryString">ERR207774</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2010_GR363SP_1</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2010_GR363SP_2</prop>
+    <prop name="sraQueryString">ERR207775</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2010_GR363SP_2</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2010_GR363SP_3</prop>
+    <prop name="sraQueryString">ERR207776</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2010_GR363SP_3</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2010_GR363SK_1</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2010_GR363SK_1</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2010_GR363SK_2</prop>
+    <prop name="sraQueryString">ERR205802</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2010_GR363SK_2</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2010_GR363SK_3</prop>
+    <prop name="sraQueryString">ERR205803</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2010_GR363SK_3</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2010_GR364SP_1</prop>
+    <prop name="sraQueryString">ERR205818</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2010_GR364SP_1</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2010_GR364SP_2</prop>
+    <prop name="sraQueryString">ERR205819</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2010_GR364SP_2</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2010_GR364SP_3</prop>
+    <prop name="sraQueryString">ERR205820</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2010_GR364SP_3</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2010_GR364SK_1</prop>
+    <prop name="sraQueryString">ERR207780</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2010_GR364SK_1</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2010_GR364SK_2</prop>
+    <prop name="sraQueryString">ERR310823</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2010_GR364SK_2</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2010_GR364SK_3</prop>
+    <prop name="sraQueryString">ERR310824</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2010_GR364SK_3</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2010_GR383_1</prop>
+    <prop name="sraQueryString">ERR205814</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2010_GR383_1</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2010_GR383_2</prop>
+    <prop name="sraQueryString">ERR205815</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2010_GR383_2</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2010_GR383_3</prop>
+    <prop name="sraQueryString">ERR205816</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2010_GR383_3</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2010_GR383_4</prop>
+    <prop name="sraQueryString">ERR205817</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2010_GR383_4</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2010_GR383_5</prop>
+    <prop name="sraQueryString">ERR310826</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2010_GR383_5</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2009_LD373BM</prop>
+    <prop name="sraQueryString">ERR438787</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2009_LD373BM</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2009_LD373SP</prop>
+    <prop name="sraQueryString">ERR438788</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2009_LD373SP</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_ET_2010_GR379</prop>
+    <prop name="sraQueryString">ERR363219</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_ET_2010_GR379</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="snpStrainAbbrev">MHOM_SD_98_LEM3570</prop>
+    <prop name="sraQueryString">ERR363227</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="organismAbbrev">ldonBPK282A1</prop>
+    <prop name="experimentName">Zackay_Genome_Comparison_Ethiopia</prop>
+    <prop name="experimentVersion">2013-05-21</prop>
+    <prop name="sampleName">MHOM_SD_98_LEM3570</prop>
+  </dataset>
+
+</datasets>

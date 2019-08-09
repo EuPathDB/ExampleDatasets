@@ -1,0 +1,86 @@
+<datasets>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">hsapREF</prop>
+    <prop name="experimentName">Heo_Intestine_Lung_Organoids</prop>
+    <prop name="sampleName">SRR6984248</prop>
+    <prop name="sraQueryString">SRR6984248,SRR6984249,SRR6984250,SRR6984251</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">hsapREF</prop>
+    <prop name="experimentName">Heo_Intestine_Lung_Organoids</prop>
+    <prop name="sampleName">SRR6984256</prop>
+    <prop name="sraQueryString">SRR6984256,SRR6984257,SRR6984258,SRR6984259</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">hsapREF</prop>
+    <prop name="experimentName">Heo_Intestine_Lung_Organoids</prop>
+    <prop name="sampleName">SRR6984264</prop>
+    <prop name="sraQueryString">SRR6984264,SRR6984265,SRR6984266,SRR6984267</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">hsapREF</prop>
+    <prop name="experimentName">Heo_Intestine_Lung_Organoids</prop>
+    <prop name="sampleName">SRR6984252</prop>
+    <prop name="sraQueryString">SRR6984252,SRR6984253,SRR6984254,SRR6984255</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">hsapREF</prop>
+    <prop name="experimentName">Heo_Intestine_Lung_Organoids</prop>
+    <prop name="sampleName">SRR6984260</prop>
+    <prop name="sraQueryString">SRR6984260,SRR6984261,SRR6984262,SRR6984263</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">hsapREF</prop>
+    <prop name="experimentName">Heo_Intestine_Lung_Organoids</prop>
+    <prop name="sampleName">SRR6984268</prop>
+    <prop name="sraQueryString">SRR6984268,SRR6984269,SRR6984270,SRR6984271</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">hsapREF</prop>
+    <prop name="experimentName">Heo_Intestine_Lung_Organoids</prop>
+    <prop name="sampleName">SRR6984272</prop>
+    <prop name="sraQueryString">SRR6984272,SRR6984273,SRR6984274,SRR6984275</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">hsapREF</prop>
+    <prop name="experimentName">Heo_Intestine_Lung_Organoids</prop>
+    <prop name="sampleName">SRR6984280</prop>
+    <prop name="sraQueryString">SRR6984280,SRR6984281,SRR6984282,SRR6984283</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">hsapREF</prop>
+    <prop name="experimentName">Heo_Intestine_Lung_Organoids</prop>
+    <prop name="sampleName">SRR6984288</prop>
+    <prop name="sraQueryString">SRR6984288,SRR6984289,SRR6984290,SRR6984291</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">hsapREF</prop>
+    <prop name="experimentName">Heo_Intestine_Lung_Organoids</prop>
+    <prop name="sampleName">SRR6984276</prop>
+    <prop name="sraQueryString">SRR6984276,SRR6984277,SRR6984278,SRR6984279</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">hsapREF</prop>
+    <prop name="experimentName">Heo_Intestine_Lung_Organoids</prop>
+    <prop name="sampleName">SRR6984284</prop>
+    <prop name="sraQueryString">SRR6984284,SRR6984285,SRR6984286,SRR6984287</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">hsapREF</prop>
+    <prop name="experimentName">Heo_Intestine_Lung_Organoids</prop>
+    <prop name="sampleName">SRR6984292</prop>
+    <prop name="sraQueryString">SRR6984292,SRR6984293,SRR6984294,SRR6984295</prop>
+  </dataset>
+
+</datasets>

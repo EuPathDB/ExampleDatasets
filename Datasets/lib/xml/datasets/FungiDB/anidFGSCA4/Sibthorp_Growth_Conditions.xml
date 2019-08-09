@@ -1,0 +1,32 @@
+<datasets>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">anidFGSCA4</prop>
+    <prop name="experimentName">Sibthorp_Growth_Conditions</prop>
+    <prop name="sampleName">ERR327534</prop>
+    <prop name="sraQueryString">ERR327534</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">anidFGSCA4</prop>
+    <prop name="experimentName">Sibthorp_Growth_Conditions</prop>
+    <prop name="sampleName">ERR327535</prop>
+    <prop name="sraQueryString">ERR327535</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">anidFGSCA4</prop>
+    <prop name="experimentName">Sibthorp_Growth_Conditions</prop>
+    <prop name="sampleName">ERR327536</prop>
+    <prop name="sraQueryString">ERR327536</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">anidFGSCA4</prop>
+    <prop name="experimentName">Sibthorp_Growth_Conditions</prop>
+    <prop name="sampleName">ERR327537</prop>
+    <prop name="sraQueryString">ERR327537</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">anidFGSCA4</prop>
+    <prop name="experimentName">Sibthorp_Growth_Conditions</prop>
+    <prop name="sampleName">ERR327538</prop>
+    <prop name="sraQueryString">ERR327538</prop>
+  </dataset>
+</datasets>

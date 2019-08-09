@@ -1,0 +1,128 @@
+<datasets>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">btauHereford</prop>
+    <prop name="experimentName">Widmer_intracellularStages</prop>
+    <prop name="sampleName">ERR2818599</prop>
+    <prop name="sraQueryString">ERR2818599</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">btauHereford</prop>
+    <prop name="experimentName">Widmer_intracellularStages</prop>
+    <prop name="sampleName">ERR2818600</prop>
+    <prop name="sraQueryString">ERR2818600</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">btauHereford</prop>
+    <prop name="experimentName">Widmer_intracellularStages</prop>
+    <prop name="sampleName">ERR2818601</prop>
+    <prop name="sraQueryString">ERR2818601</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">btauHereford</prop>
+    <prop name="experimentName">Widmer_intracellularStages</prop>
+    <prop name="sampleName">ERR2818602</prop>
+    <prop name="sraQueryString">ERR2818602</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">btauHereford</prop>
+    <prop name="experimentName">Widmer_intracellularStages</prop>
+    <prop name="sampleName">ERR2818603</prop>
+    <prop name="sraQueryString">ERR2818603</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">btauHereford</prop>
+    <prop name="experimentName">Widmer_intracellularStages</prop>
+    <prop name="sampleName">ERR2818604</prop>
+    <prop name="sraQueryString">ERR2818604</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">btauHereford</prop>
+    <prop name="experimentName">Widmer_intracellularStages</prop>
+    <prop name="sampleName">ERR2818605</prop>
+    <prop name="sraQueryString">ERR2818605</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">btauHereford</prop>
+    <prop name="experimentName">Widmer_intracellularStages</prop>
+    <prop name="sampleName">ERR2818606</prop>
+    <prop name="sraQueryString">ERR2818606</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">btauHereford</prop>
+    <prop name="experimentName">Widmer_intracellularStages</prop>
+    <prop name="sampleName">ERR2818607</prop>
+    <prop name="sraQueryString">ERR2818607</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">btauHereford</prop>
+    <prop name="experimentName">Widmer_intracellularStages</prop>
+    <prop name="sampleName">ERR2818608</prop>
+    <prop name="sraQueryString">ERR2818608</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">btauHereford</prop>
+    <prop name="experimentName">Widmer_intracellularStages</prop>
+    <prop name="sampleName">ERR2818609</prop>
+    <prop name="sraQueryString">ERR2818609</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">btauHereford</prop>
+    <prop name="experimentName">Widmer_intracellularStages</prop>
+    <prop name="sampleName">ERR2818610</prop>
+    <prop name="sraQueryString">ERR2818610</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">btauHereford</prop>
+    <prop name="experimentName">Widmer_intracellularStages</prop>
+    <prop name="sampleName">ERR2818611</prop>
+    <prop name="sraQueryString">ERR2818611</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">btauHereford</prop>
+    <prop name="experimentName">Widmer_intracellularStages</prop>
+    <prop name="sampleName">ERR2818616</prop>
+    <prop name="sraQueryString">ERR2818616</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">btauHereford</prop>
+    <prop name="experimentName">Widmer_intracellularStages</prop>
+    <prop name="sampleName">ERR2818617</prop>
+    <prop name="sraQueryString">ERR2818617</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">btauHereford</prop>
+    <prop name="experimentName">Widmer_intracellularStages</prop>
+    <prop name="sampleName">ERR2818618</prop>
+    <prop name="sraQueryString">ERR2818618</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">btauHereford</prop>
+    <prop name="experimentName">Widmer_intracellularStages</prop>
+    <prop name="sampleName">ERR2818619</prop>
+    <prop name="sraQueryString">ERR2818619</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">btauHereford</prop>
+    <prop name="experimentName">Widmer_intracellularStages</prop>
+    <prop name="sampleName">ERR2818620</prop>
+    <prop name="sraQueryString">ERR2818620</prop>
+  </dataset>
+
+</datasets>

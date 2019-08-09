@@ -1,0 +1,472 @@
+<datasets>
+   
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set1_2hr</prop>
+    <prop name="sraQueryString">SRX697269</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set1_4hr</prop>
+    <prop name="sraQueryString">SRX697235</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set1_6hr</prop>
+    <prop name="sraQueryString">SRX697236</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set1_8hr</prop>
+    <prop name="sraQueryString">SRX697270</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set1_10hr</prop>
+    <prop name="sraQueryString">SRX697263</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set1_12hr</prop>
+    <prop name="sraQueryString">SRX697286</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set1_14hr</prop>
+    <prop name="sraQueryString">SRX697237</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set1_16hr</prop>
+    <prop name="sraQueryString">SRX697254</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set1_18hr</prop>
+    <prop name="sraQueryString">SRX697291</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set1_20hr</prop>
+    <prop name="sraQueryString">SRX697253</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set1_22hr</prop>
+    <prop name="sraQueryString">SRX697280</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set1_24hr</prop>
+    <prop name="sraQueryString">SRX697276</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set1_26hr</prop>
+    <prop name="sraQueryString">SRX697250</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set1_28hr</prop>
+    <prop name="sraQueryString">SRX697243</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set1_32hr</prop>
+    <prop name="sraQueryString">SRX697299</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set1_34hr</prop>
+    <prop name="sraQueryString">SRX697281</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set1_36hr</prop>
+    <prop name="sraQueryString">SRX697296</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set1_38hr</prop>
+    <prop name="sraQueryString">SRX697262</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set1_40hr</prop>
+    <prop name="sraQueryString">SRX697251</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set1_42hr</prop>
+    <prop name="sraQueryString">SRX697292</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set1_44hr</prop>
+    <prop name="sraQueryString">SRX697275</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set1_46hr</prop>
+    <prop name="sraQueryString">SRX697268</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set1_48hr</prop>
+    <prop name="sraQueryString">SRX697287</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set2_2hr</prop>
+    <prop name="sraQueryString">SRX697248</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set2_4hr</prop>
+    <prop name="sraQueryString">SRX697290</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set2_6hr</prop>
+    <prop name="sraQueryString">SRX697234</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set2_8hr</prop>
+    <prop name="sraQueryString">SRX697298</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set2_10hr</prop>
+    <prop name="sraQueryString">SRX697274</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set2_12hr</prop>
+    <prop name="sraQueryString">SRX697284</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set2_14hr</prop>
+    <prop name="sraQueryString">SRX697249</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set2_16hr</prop>
+    <prop name="sraQueryString">SRX697245</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set2_18hr</prop>
+    <prop name="sraQueryString">SRX697293</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set2_20hr</prop>
+    <prop name="sraQueryString">SRX697240</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set2_22hr</prop>
+    <prop name="sraQueryString">SRX697247</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set2_24hr</prop>
+    <prop name="sraQueryString">SRX697277</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set2_26hr</prop>
+    <prop name="sraQueryString">SRX697282</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set2_30hr</prop>
+    <prop name="sraQueryString">SRX697285</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set2_32hr</prop>
+    <prop name="sraQueryString">SRX697246</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set2_34hr</prop>
+    <prop name="sraQueryString">SRX697278</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set2_36hr</prop>
+    <prop name="sraQueryString">SRX697267</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set2_38hr</prop>
+    <prop name="sraQueryString">SRX697295</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set2_40hr</prop>
+    <prop name="sraQueryString">SRX697279</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set2_42hr</prop>
+    <prop name="sraQueryString">SRX697294</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set2_44hr</prop>
+    <prop name="sraQueryString">SRX697256</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set2_46hr</prop>
+    <prop name="sraQueryString">SRX697260</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set2_48hr</prop>
+    <prop name="sraQueryString">SRX697257</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set3_2hr</prop>
+    <prop name="sraQueryString">SRX697283</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set3_4hr</prop>
+    <prop name="sraQueryString">SRX697288</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set3_6hr</prop>
+    <prop name="sraQueryString">SRX697265</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set3_8hr</prop>
+    <prop name="sraQueryString">SRX697297</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set3_10hr</prop>
+    <prop name="sraQueryString">SRX697261</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set3_12hr</prop>
+    <prop name="sraQueryString">SRX697272</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set3_14hr</prop>
+    <prop name="sraQueryString">SRX697273</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set3_16hr</prop>
+    <prop name="sraQueryString">SRX697252</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set3_18hr</prop>
+    <prop name="sraQueryString">SRX697255</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set3_20hr</prop>
+    <prop name="sraQueryString">SRX697233</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set3_22hr</prop>
+    <prop name="sraQueryString">SRX697266</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set3_24hr</prop>
+    <prop name="sraQueryString">SRX697239</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set3_26hr</prop>
+    <prop name="sraQueryString">SRX697289</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set3_28hr</prop>
+    <prop name="sraQueryString">SRX697241</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set3_30hr</prop>
+    <prop name="sraQueryString">SRX697264</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set3_32hr</prop>
+    <prop name="sraQueryString">SRX697259</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set3_34hr</prop>
+    <prop name="sraQueryString">SRX697258</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set3_36hr</prop>
+    <prop name="sraQueryString">SRX697238</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set3_38hr</prop>
+    <prop name="sraQueryString">SRX697244</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set3_40hr</prop>
+    <prop name="sraQueryString">SRX697242</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncraOR74A</prop>
+    <prop name="experimentName">Clock_Regulated_Genes</prop>
+    <prop name="sampleName">set3_42hr</prop>
+    <prop name="sraQueryString">SRX697271</prop>
+  </dataset>
+
+</datasets>

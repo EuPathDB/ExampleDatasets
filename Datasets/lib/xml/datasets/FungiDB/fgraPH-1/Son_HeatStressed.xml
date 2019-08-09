@@ -1,0 +1,43 @@
+<datasets>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Son_HeatStressed</prop>
+    <prop name="sampleName">SRX1613192</prop>
+    <prop name="sraQueryString">SRX1613192</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Son_HeatStressed</prop>
+    <prop name="sampleName">SRX1613193</prop>
+    <prop name="sraQueryString">SRX1613193</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Son_HeatStressed</prop>
+    <prop name="sampleName">SRX1613194</prop>
+    <prop name="sraQueryString">SRX1613194</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Son_HeatStressed</prop>
+    <prop name="sampleName">SRX1613195</prop>
+    <prop name="sraQueryString">SRX1613195</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Son_HeatStressed</prop>
+    <prop name="sampleName">SRX1613196</prop>
+    <prop name="sraQueryString">SRX1613196</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Son_HeatStressed</prop>
+    <prop name="sampleName">SRX1613197</prop>
+    <prop name="sraQueryString">SRX1613197</prop>
+  </dataset>
+</datasets>

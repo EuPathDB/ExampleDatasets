@@ -1,0 +1,44 @@
+<datasets>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Xu_Stage_Specific</prop>
+    <prop name="sampleName">SRX1163829</prop>
+    <prop name="sraQueryString">SRX1163829</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Xu_Stage_Specific</prop>
+    <prop name="sampleName">SRX1163861</prop>
+    <prop name="sraQueryString">SRX1163861</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Xu_Stage_Specific</prop>
+    <prop name="sampleName">SRX1163826</prop>
+    <prop name="sraQueryString">SRX1163826</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Xu_Stage_Specific</prop>
+    <prop name="sampleName">SRX1163828</prop>
+    <prop name="sraQueryString">SRX1163828</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Xu_Stage_Specific</prop>
+    <prop name="sampleName">SRX1163817</prop>
+    <prop name="sraQueryString">SRX1163817</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Xu_Stage_Specific</prop>
+    <prop name="sampleName">SRX1163818</prop>
+    <prop name="sraQueryString">SRX1163818</prop>
+  </dataset>
+
+</datasets>

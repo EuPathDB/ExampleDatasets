@@ -1,0 +1,30 @@
+<datasets>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Wang_VegetativeAndInfectiousGrowth</prop>
+    <prop name="sampleName">SRX1089519</prop>
+    <prop name="sraQueryString">SRX1089519</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Wang_VegetativeAndInfectiousGrowth</prop>
+    <prop name="sampleName">SRX1089517</prop>
+    <prop name="sraQueryString">SRX1089517</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Wang_VegetativeAndInfectiousGrowth</prop>
+    <prop name="sampleName">SRX1253790</prop>
+    <prop name="sraQueryString">SRX1253790</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">fgraPH-1</prop>
+    <prop name="experimentName">Wang_VegetativeAndInfectiousGrowth</prop>
+    <prop name="sampleName">SRX1253791</prop>
+    <prop name="sraQueryString">SRX1253791</prop>
+  </dataset>
+
+</datasets>

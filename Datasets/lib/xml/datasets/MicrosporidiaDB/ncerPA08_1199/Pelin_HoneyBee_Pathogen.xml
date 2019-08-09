@@ -1,0 +1,58 @@
+<datasets>
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncerPA08_1199</prop>
+    <prop name="experimentName">Pelin_HoneyBee_Pathogen</prop>
+    <prop name="snpStrainAbbrev">Argentina08_742</prop>
+    <prop name="sraQueryString">SRR926333</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncerPA08_1199</prop>
+    <prop name="experimentName">Pelin_HoneyBee_Pathogen</prop>
+    <prop name="snpStrainAbbrev">Argentina08_754</prop>
+    <prop name="sraQueryString">SRR1596197</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncerPA08_1199</prop>
+    <prop name="experimentName">Pelin_HoneyBee_Pathogen</prop>
+    <prop name="snpStrainAbbrev">Croatia07_1177</prop>
+    <prop name="sraQueryString">SRR926331</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncerPA08_1199</prop>
+    <prop name="experimentName">Pelin_HoneyBee_Pathogen</prop>
+    <prop name="snpStrainAbbrev">France09_342</prop>
+    <prop name="sraQueryString">SRR926322</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncerPA08_1199</prop>
+    <prop name="experimentName">Pelin_HoneyBee_Pathogen</prop>
+    <prop name="snpStrainAbbrev">Hawaii10_1204</prop>
+    <prop name="sraQueryString">SRR926332</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncerPA08_1199</prop>
+    <prop name="experimentName">Pelin_HoneyBee_Pathogen</prop>
+    <prop name="snpStrainAbbrev">Spain08_1199</prop>
+    <prop name="sraQueryString">SRR926320</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncerPA08_1199</prop>
+    <prop name="experimentName">Pelin_HoneyBee_Pathogen</prop>
+    <prop name="snpStrainAbbrev">Spain11_912</prop>
+    <prop name="sraQueryString">SRR1596194</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">ncerPA08_1199</prop>
+    <prop name="experimentName">Pelin_HoneyBee_Pathogen</prop>
+    <prop name="snpStrainAbbrev">Turkey10_230</prop>
+    <prop name="sraQueryString">SRR926321</prop>
+  </dataset>
+
+</datasets>

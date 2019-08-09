@@ -1,0 +1,11 @@
+<datasets>
+    
+    <dataset class="smallNcRnaSamples">
+        <prop name="projectName">FungiDB</prop>
+        <prop name="organismAbbrev">cneoH99</prop>
+        <prop name="experimentName">Dumesic_Small_RNA</prop>
+        <prop name="experimentVersion">2013-01-21</prop>
+        <prop name="sampleName">WT</prop>
+    </dataset>
+   
+</datasets>

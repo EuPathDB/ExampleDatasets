@@ -1,0 +1,17 @@
+<datasets>
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Feng_Comparative_Paired_End_HTS_SNPs</prop>
+    <prop name="snpStrainAbbrev">31727</prop>
+    <prop name="sraQueryString">SRR3473975</prop>
+  </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">CryptoDB</prop>
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Feng_Comparative_Paired_End_HTS_SNPs</prop>
+    <prop name="experimentVersion">2017-04-14</prop>
+    <prop name="sampleName">31727</prop>
+  </dataset>
+
+</datasets>

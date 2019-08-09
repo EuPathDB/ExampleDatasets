@@ -1,0 +1,27 @@
+<datasets>
+    
+    <dataset class="smallNcRnaSamples">
+        <prop name="projectName">FungiDB</prop>
+        <prop name="organismAbbrev">ncraOR74A</prop>
+        <prop name="experimentName">Stajich_Small_RNA</prop>
+        <prop name="experimentVersion">2015-06-23</prop>
+        <prop name="sampleName">PP</prop>
+    </dataset>
+   
+    <dataset class="smallNcRnaSamples">
+        <prop name="projectName">FungiDB</prop>
+        <prop name="organismAbbrev">ncraOR74A</prop>
+        <prop name="experimentName">Stajich_Small_RNA</prop>
+        <prop name="experimentVersion">2015-06-23</prop>
+        <prop name="sampleName">2PF</prop>
+    </dataset>
+
+    <dataset class="smallNcRnaSamples">
+        <prop name="projectName">FungiDB</prop>
+        <prop name="organismAbbrev">ncraOR74A</prop>
+        <prop name="experimentName">Stajich_Small_RNA</prop>
+        <prop name="experimentVersion">2015-06-23</prop>
+        <prop name="sampleName">4PF</prop>
+    </dataset>
+
+</datasets>

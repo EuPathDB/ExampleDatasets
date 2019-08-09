@@ -1,0 +1,65 @@
+<datasets>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">btauHereford</prop>
+    <prop name="experimentName">Horcajo_Infection_with_Ncan</prop>
+    <prop name="sampleName">SRR8426442</prop>
+    <prop name="sraQueryString">SRR8426442</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">btauHereford</prop>
+    <prop name="experimentName">Horcajo_Infection_with_Ncan</prop>
+    <prop name="sampleName">SRR8426443</prop>
+    <prop name="sraQueryString">SRR8426443</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">btauHereford</prop>
+    <prop name="experimentName">Horcajo_Infection_with_Ncan</prop>
+    <prop name="sampleName">SRR8426444</prop>
+    <prop name="sraQueryString">SRR8426444</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">btauHereford</prop>
+    <prop name="experimentName">Horcajo_Infection_with_Ncan</prop>
+    <prop name="sampleName">SRR8426441 </prop>
+    <prop name="sraQueryString">SRR8426441 </prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">btauHereford</prop>
+    <prop name="experimentName">Horcajo_Infection_with_Ncan</prop>
+    <prop name="sampleName">SRR8426445 </prop>
+    <prop name="sraQueryString">SRR8426445 </prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">btauHereford</prop>
+    <prop name="experimentName">Horcajo_Infection_with_Ncan</prop>
+    <prop name="sampleName">SRR8426448</prop>
+    <prop name="sraQueryString">SRR8426448</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">btauHereford</prop>
+    <prop name="experimentName">Horcajo_Infection_with_Ncan</prop>
+    <prop name="sampleName">SRR8426446</prop>
+    <prop name="sraQueryString">SRR8426446</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">btauHereford</prop>
+    <prop name="experimentName">Horcajo_Infection_with_Ncan</prop>
+    <prop name="sampleName">SRR8426447</prop>
+    <prop name="sraQueryString">SRR8426447</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">btauHereford</prop>
+    <prop name="experimentName">Horcajo_Infection_with_Ncan</prop>
+    <prop name="sampleName">SRR8426449</prop>
+    <prop name="sraQueryString">SRR8426449</prop>
+  </dataset>
+
+</datasets>

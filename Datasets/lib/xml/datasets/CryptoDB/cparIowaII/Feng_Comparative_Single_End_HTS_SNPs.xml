@@ -1,0 +1,33 @@
+<datasets>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Feng_Comparative_Single_End_HTS_SNPs</prop>
+    <prop name="snpStrainAbbrev">35090</prop>
+    <prop name="sraQueryString">SRR3473977</prop>
+  </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">CryptoDB</prop>
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Feng_Comparative_Single_End_HTS_SNPs</prop>
+    <prop name="experimentVersion">2017-04-14</prop>
+    <prop name="sampleName">35090</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Feng_Comparative_Single_End_HTS_SNPs</prop>
+    <prop name="snpStrainAbbrev">34902</prop>
+    <prop name="sraQueryString">SRR3473976</prop>
+  </dataset>
+
+   <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">CryptoDB</prop>
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Feng_Comparative_Single_End_HTS_SNPs</prop>
+    <prop name="experimentVersion">2017-04-14</prop>
+    <prop name="sampleName">34902</prop>
+  </dataset>
+
+</datasets>

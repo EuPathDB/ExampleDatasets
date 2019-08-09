@@ -1,0 +1,72 @@
+<datasets>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Irmer_Blood</prop>
+    <prop name="sampleName">SRR2076084</prop>
+    <prop name="sraQueryString">SRR2076084</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Irmer_Blood</prop>
+    <prop name="sampleName">SRR2076091</prop>
+    <prop name="sraQueryString">SRR2076091</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Irmer_Blood</prop>
+    <prop name="sampleName">SRR2076093</prop>
+    <prop name="sraQueryString">SRR2076093</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Irmer_Blood</prop>
+    <prop name="sampleName">SRR2076090</prop>
+    <prop name="sraQueryString">SRR2076090</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Irmer_Blood</prop>
+    <prop name="sampleName">SRR2076092</prop>
+    <prop name="sraQueryString">SRR2076092</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Irmer_Blood</prop>
+    <prop name="sampleName">SRR2076089</prop>
+    <prop name="sraQueryString">SRR2076089</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Irmer_Blood</prop>
+    <prop name="sampleName">SRR2076085</prop>
+    <prop name="sraQueryString">SRR2076085</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Irmer_Blood</prop>
+    <prop name="sampleName">SRR2076088</prop>
+    <prop name="sraQueryString">SRR2076088</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Irmer_Blood</prop>
+    <prop name="sampleName">SRR2076086</prop>
+    <prop name="sraQueryString">SRR2076086</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Irmer_Blood</prop>
+    <prop name="sampleName">SRR2076087</prop>
+    <prop name="sraQueryString">SRR2076087</prop>
+  </dataset>
+
+</datasets>

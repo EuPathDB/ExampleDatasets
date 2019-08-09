@@ -1,0 +1,30 @@
+<datasets>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">SwierzyFourInfectedCells</prop>
+    <prop name="sampleName">SRX2542166</prop>
+    <prop name="sraQueryString">SRX2542166</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">SwierzyFourInfectedCells</prop>
+    <prop name="sampleName">SRX2542168</prop>
+    <prop name="sraQueryString">SRX2542168</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">SwierzyFourInfectedCells</prop>
+    <prop name="sampleName">SRX2542170</prop>
+    <prop name="sraQueryString">SRX2542170</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">tgonME49</prop>
+    <prop name="experimentName">SwierzyFourInfectedCells</prop>
+    <prop name="sampleName">SRX2542172</prop>
+    <prop name="sraQueryString">SRX2542172</prop>
+  </dataset>
+</datasets>

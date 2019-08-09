@@ -1,0 +1,254 @@
+<datasets>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211539</prop>
+    <prop name="sraQueryString">ERX211539</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211526</prop>
+    <prop name="sraQueryString">ERX211526</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211529</prop>
+    <prop name="sraQueryString">ERX211529</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211530</prop>
+    <prop name="sraQueryString">ERX211530</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211527</prop>
+    <prop name="sraQueryString">ERX211527</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211525</prop>
+    <prop name="sraQueryString">ERX211525</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211537</prop>
+    <prop name="sraQueryString">ERX211537</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211524</prop>
+    <prop name="sraQueryString">ERX211524</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211535</prop>
+    <prop name="sraQueryString">ERX211535</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211518</prop>
+    <prop name="sraQueryString">ERX211518</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211543</prop>
+    <prop name="sraQueryString">ERX211543</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211541</prop>
+    <prop name="sraQueryString">ERX211541</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211523</prop>
+    <prop name="sraQueryString">ERX211523</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211545</prop>
+    <prop name="sraQueryString">ERX211545</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211533</prop>
+    <prop name="sraQueryString">ERX211533</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211513</prop>
+    <prop name="sraQueryString">ERX211513</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211514</prop>
+    <prop name="sraQueryString">ERX211514</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211531</prop>
+    <prop name="sraQueryString">ERX211531</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211532</prop>
+    <prop name="sraQueryString">ERX211532</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211547</prop>
+    <prop name="sraQueryString">ERX211547</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211520</prop>
+    <prop name="sraQueryString">ERX211520</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211534</prop>
+    <prop name="sraQueryString">ERX211534</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211515</prop>
+    <prop name="sraQueryString">ERX211515</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211528</prop>
+    <prop name="sraQueryString">ERX211528</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211516</prop>
+    <prop name="sraQueryString">ERX211516</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211536</prop>
+    <prop name="sraQueryString">ERX211536</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211542</prop>
+    <prop name="sraQueryString">ERX211542</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211519</prop>
+    <prop name="sraQueryString">ERX211519</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211546</prop>
+    <prop name="sraQueryString">ERX211546</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211544</prop>
+    <prop name="sraQueryString">ERX211544</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211521</prop>
+    <prop name="sraQueryString">ERX211521</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211540</prop>
+    <prop name="sraQueryString">ERX211540</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211522</prop>
+    <prop name="sraQueryString">ERX211522</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211538</prop>
+    <prop name="sraQueryString">ERX211538</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211548</prop>
+    <prop name="sraQueryString">ERX211548</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">afumAf293</prop>
+    <prop name="experimentName">Bowyer_itraconazole_resistance</prop>
+    <prop name="sampleName">ERX211517</prop>
+    <prop name="sraQueryString">ERX211517</prop>
+  </dataset>
+
+</datasets>

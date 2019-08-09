@@ -1,0 +1,92 @@
+<datasets>
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Hahn_African_Ape_Isolates</prop>
+    <prop name="snpStrainAbbrev">PvSY56</prop>
+    <prop name="sraQueryString">SRR7255037</prop>
+  </dataset>
+<!-- refs #33543 - Undo CNV
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PlasmoDB</prop>
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Hahn_African_Ape_Isolates</prop>
+    <prop name="experimentVersion">2018-08-01</prop>
+    <prop name="sampleName">PvSY56</prop>
+  </dataset>
+-->
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Hahn_African_Ape_Isolates</prop>
+    <prop name="snpStrainAbbrev">PvSY43</prop>
+    <prop name="sraQueryString">SRR7255039</prop>
+  </dataset>
+<!--
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PlasmoDB</prop>
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Hahn_African_Ape_Isolates</prop>
+    <prop name="experimentVersion">2018-08-01</prop>
+    <prop name="sampleName">PvSY43</prop>
+  </dataset>
+-->
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Hahn_African_Ape_Isolates</prop>
+    <prop name="snpStrainAbbrev">PvSY90</prop>
+    <prop name="sraQueryString">SAMN09324544</prop>
+  </dataset>
+<!--
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PlasmoDB</prop>
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Hahn_African_Ape_Isolates</prop>
+    <prop name="experimentVersion">2018-08-01</prop>
+    <prop name="sampleName">PvSY90</prop>
+  </dataset>
+-->
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Hahn_African_Ape_Isolates</prop>
+    <prop name="snpStrainAbbrev">PvSY81</prop>
+    <prop name="sraQueryString">SAMN09324543</prop>
+  </dataset>
+<!--
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PlasmoDB</prop>
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Hahn_African_Ape_Isolates</prop>
+    <prop name="experimentVersion">2018-08-01</prop>
+    <prop name="sampleName">PvSY81</prop>
+  </dataset>
+-->
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Hahn_African_Ape_Isolates</prop>
+    <prop name="snpStrainAbbrev">PvSagu</prop>
+    <prop name="sraQueryString">SAMN09324545</prop>
+  </dataset>
+<!--
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PlasmoDB</prop>
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Hahn_African_Ape_Isolates</prop>
+    <prop name="experimentVersion">2018-08-01</prop>
+    <prop name="sampleName">PvSagu</prop>
+  </dataset>
+-->
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Hahn_African_Ape_Isolates</prop>
+    <prop name="snpStrainAbbrev">PvGor3157</prop>
+    <prop name="sraQueryString">SAMN09324546</prop>
+  </dataset>
+<!--
+  <dataset class="copyNumberVariationSamples">
+    <prop name="projectName">PlasmoDB</prop>
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Hahn_African_Ape_Isolates</prop>
+    <prop name="experimentVersion">2018-08-01</prop>
+    <prop name="sampleName">PvGor3157</prop>
+  </dataset>
+-->
+</datasets>

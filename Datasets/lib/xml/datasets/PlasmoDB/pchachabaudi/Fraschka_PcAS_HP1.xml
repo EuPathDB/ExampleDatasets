@@ -1,0 +1,17 @@
+<datasets>
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pchachabaudi</prop>
+    <prop name="experimentName">Fraschka_PcAS_HP1</prop>
+    <prop name="sampleName">PcAS_schizont_HP1</prop>
+    <prop name="inputName">PcAS_schizont_Input</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pchachabaudi</prop>
+    <prop name="experimentName">Fraschka_PcAS_HP1</prop>
+    <prop name="sampleName">PcAS_schizont_Input</prop>
+    <prop name="inputName">PcAS_schizont_Input</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+</datasets>

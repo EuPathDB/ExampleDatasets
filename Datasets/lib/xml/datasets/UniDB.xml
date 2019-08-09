@@ -1,0 +1,169 @@
+<datasets>
+
+  <constant name="projectName" value="UniDB"/>
+
+<!-- GLOBAL(ish) -->
+
+  <dataset class="updateOntologyFromTabDelim">
+    <prop name="name">icemr</prop>
+    <prop name="version">2017-09</prop>
+    <prop name="isPreferred">true</prop>
+  </dataset>
+
+  <dataset class="updateRepositoryOntologyTerms">
+    <prop name="version">development</prop>
+    <prop name="name">eupath_isa</prop>
+    <prop name="isPreferred">true</prop>
+  </dataset> 
+
+  <dataset class="updateEupathOntologyTerms">
+    <prop name="version">development</prop>
+    <prop name="isPreferred">true</prop>
+  </dataset> 
+
+
+  <dataset class="chEBI_Compounds">
+    <prop name="version">2015-06-01</prop>
+  </dataset>
+
+  <dataset class="HMDB_Compounds">
+    <prop name="version">2018-07-10</prop>
+  </dataset> 
+
+  <dataset class="Pathways">
+    <prop name="version">2013.07</prop>
+    <prop name="format">KEGG</prop>
+    <prop name="source">KEGG</prop>
+    <prop name="projectName">$$projectName$$</prop>
+  </dataset>
+
+  <dataset class="Pathways">
+    <prop name="version">2017.02.07</prop>
+    <prop name="format">BioCyc</prop>
+    <prop name="source">MetaCyc</prop>
+    <prop name="projectName">$$projectName$$</prop>
+  </dataset>
+
+  <dataset class="Pathways">
+    <prop name="version">2017.11.16</prop>
+    <prop name="format">MPMP</prop>
+    <prop name="source">MPMP</prop>
+    <prop name="projectName">$$projectName$$</prop>
+  </dataset>
+
+  <dataset class="Pathways">
+    <prop name="version">2017.02.07</prop>
+    <prop name="format">BioCyc</prop>
+    <prop name="source">TrypanoCyc</prop>
+    <prop name="projectName">$$projectName$$</prop>
+  </dataset>
+
+  <dataset class="Pathways">
+    <prop name="version">2017.02.07</prop>
+    <prop name="format">BioCyc</prop>
+    <prop name="source">LeishCyc</prop>
+    <prop name="projectName">$$projectName$$</prop>
+  </dataset>
+
+  <dataset class="ReactionsXRefs">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="version">2016-02-09</prop>
+    <prop name="source">Henry</prop>
+  </dataset>
+
+  <dataset class="metaboliteProfiles">
+    <prop name="projectName">$$projectName$$</prop>
+    <prop name="experimentName">LlinasMetabolites</prop>
+    <prop name="experimentVersion">2015-08-10</prop>
+ </dataset>
+
+
+ <dataset class="ISASimple"/>
+
+<!-- Components/Projects -->
+
+  <dataset class="unidbComponentProject">
+    <prop name="projectName">PiroplasmaDB</prop>
+    <prop name="databaseInstance">piro-inc</prop>
+    <prop name="workflowVersion">29</prop>
+  </dataset>
+
+
+  <dataset class="unidbComponentProject">
+    <prop name="projectName">GiardiaDB</prop>
+    <prop name="databaseInstance">giar-inc</prop>
+    <prop name="workflowVersion">29</prop>
+  </dataset>
+
+<!--
+
+  <dataset class="unidbComponentProject">
+    <prop name="projectName">AmoebaDB</prop>
+    <prop name="databaseInstance">ameb-inc</prop>
+    <prop name="workflowVersion">29</prop>
+  </dataset>
+
+
+  <dataset class="unidbComponentProject">
+    <prop name="projectName">HostDB</prop>
+    <prop name="databaseInstance">host-inc</prop>
+    <prop name="workflowVersion">29</prop>
+  </dataset>
+
+  <dataset class="unidbComponentProject">
+    <prop name="projectName">MicrosporidiaDB</prop>
+    <prop name="databaseInstance">micr-inc</prop>
+    <prop name="workflowVersion">29</prop>
+  </dataset>
+
+
+  <dataset class="unidbComponentProject">
+    <prop name="projectName">TrichDB</prop>
+    <prop name="databaseInstance">tvag-inc</prop>
+    <prop name="workflowVersion">29</prop>
+  </dataset>
+
+
+
+  <dataset class="unidbComponentProject">
+    <prop name="projectName">PlasmoDB</prop>
+    <prop name="databaseInstance">plas040n</prop>
+    <prop name="workflowVersion">26</prop>
+  </dataset>
+
+  <dataset class="unidbComponentProject">
+    <prop name="projectName">CryptoDB</prop>
+    <prop name="databaseInstance">cryp040n</prop>
+    <prop name="workflowVersion">29</prop>
+  </dataset>
+
+  <dataset class="unidbComponentProject">
+    <prop name="projectName">SchistoDB</prop>
+    <prop name="databaseInstance">schi040n</prop>
+    <prop name="workflowVersion">29</prop>
+  </dataset>
+
+  <dataset class="unidbComponentProject">
+    <prop name="projectName">ToxoDB</prop>
+    <prop name="databaseInstance">toxo040n</prop>
+    <prop name="workflowVersion">27</prop>
+  </dataset>
+
+  <dataset class="unidbComponentProject">
+    <prop name="projectName">TriTrypDB</prop>
+    <prop name="databaseInstance">tryp040n</prop>
+    <prop name="workflowVersion">29</prop>
+  </dataset>
+
+  <dataset class="unidbComponentProject">
+    <prop name="projectName">FungiDB</prop>
+    <prop name="databaseInstance">fung040n</prop>
+    <prop name="workflowVersion">29</prop>
+  </dataset>
+
+-->
+
+
+
+
+</datasets>

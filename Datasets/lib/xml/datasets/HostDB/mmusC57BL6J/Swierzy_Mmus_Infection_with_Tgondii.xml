@@ -1,0 +1,59 @@
+<datasets>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">mmusC57BL6J</prop>
+    <prop name="experimentName">Swierzy_Mmus_Infection_with_Tgondii</prop>
+    <prop name="sampleName">SRR5234814</prop>
+    <prop name="sraQueryString">SRR5234814</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">mmusC57BL6J</prop>
+    <prop name="experimentName">Swierzy_Mmus_Infection_with_Tgondii</prop>
+    <prop name="sampleName">SRR5234815</prop>
+    <prop name="sraQueryString">SRR5234815</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">mmusC57BL6J</prop>
+    <prop name="experimentName">Swierzy_Mmus_Infection_with_Tgondii</prop>
+    <prop name="sampleName">SRR5234816</prop>
+    <prop name="sraQueryString">SRR5234816</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">mmusC57BL6J</prop>
+    <prop name="experimentName">Swierzy_Mmus_Infection_with_Tgondii</prop>
+    <prop name="sampleName">SRR5234817</prop>
+    <prop name="sraQueryString">SRR5234817</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">mmusC57BL6J</prop>
+    <prop name="experimentName">Swierzy_Mmus_Infection_with_Tgondii</prop>
+    <prop name="sampleName">SRR5234818</prop>
+    <prop name="sraQueryString">SRR5234818</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">mmusC57BL6J</prop>
+    <prop name="experimentName">Swierzy_Mmus_Infection_with_Tgondii</prop>
+    <prop name="sampleName">SRR5234819</prop>
+    <prop name="sraQueryString">SRR5234819</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">mmusC57BL6J</prop>
+    <prop name="experimentName">Swierzy_Mmus_Infection_with_Tgondii</prop>
+    <prop name="sampleName">SRR5234820</prop>
+    <prop name="sraQueryString">SRR5234820</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">mmusC57BL6J</prop>
+    <prop name="experimentName">Swierzy_Mmus_Infection_with_Tgondii</prop>
+    <prop name="sampleName">SRR5234821</prop>
+    <prop name="sraQueryString">SRR5234821</prop>
+  </dataset>
+
+</datasets>

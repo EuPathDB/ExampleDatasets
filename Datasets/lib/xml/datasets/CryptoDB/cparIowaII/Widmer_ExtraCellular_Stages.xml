@@ -1,0 +1,107 @@
+<datasets>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Widmer_ExtraCellular_Stages</prop>
+    <prop name="sampleName">ERR2433403</prop>
+    <prop name="sraQueryString">ERR2433403</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Widmer_ExtraCellular_Stages</prop>
+    <prop name="sampleName">ERR2433402</prop>
+    <prop name="sraQueryString">ERR2433402</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Widmer_ExtraCellular_Stages</prop>
+    <prop name="sampleName">ERR2433401</prop>
+    <prop name="sraQueryString">ERR2433401</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Widmer_ExtraCellular_Stages</prop>
+    <prop name="sampleName">ERR2433400</prop>
+    <prop name="sraQueryString">ERR2433400</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Widmer_ExtraCellular_Stages</prop>
+    <prop name="sampleName">ERR2433399</prop>
+    <prop name="sraQueryString">ERR2433399</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Widmer_ExtraCellular_Stages</prop>
+    <prop name="sampleName">ERR2433398</prop>
+    <prop name="sraQueryString">ERR2433398</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Widmer_ExtraCellular_Stages</prop>
+    <prop name="sampleName">ERR2433397</prop>
+    <prop name="sraQueryString">ERR2433397</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Widmer_ExtraCellular_Stages</prop>
+    <prop name="sampleName">ERR2433396</prop>
+    <prop name="sraQueryString">ERR2433396</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Widmer_ExtraCellular_Stages</prop>
+    <prop name="sampleName">ERR2433395</prop>
+    <prop name="sraQueryString">ERR2433395</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Widmer_ExtraCellular_Stages</prop>
+    <prop name="sampleName">ERR2433394</prop>
+    <prop name="sraQueryString">ERR2433394</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Widmer_ExtraCellular_Stages</prop>
+    <prop name="sampleName">ERR2433393</prop>
+    <prop name="sraQueryString">ERR2433393</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Widmer_ExtraCellular_Stages</prop>
+    <prop name="sampleName">ERR2433392</prop>
+    <prop name="sraQueryString">ERR2433392</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Widmer_ExtraCellular_Stages</prop>
+    <prop name="sampleName">ERR2433391</prop>
+    <prop name="sraQueryString">ERR2433391</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Widmer_ExtraCellular_Stages</prop>
+    <prop name="sampleName">ERR2433390</prop>
+    <prop name="sraQueryString">ERR2433390</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cparIowaII</prop>
+    <prop name="experimentName">Widmer_ExtraCellular_Stages</prop>
+    <prop name="sampleName">ERR2433389</prop>
+    <prop name="sraQueryString">ERR2433389</prop>
+  </dataset>
+
+</datasets>

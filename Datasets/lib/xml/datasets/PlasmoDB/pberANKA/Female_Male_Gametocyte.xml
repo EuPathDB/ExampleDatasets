@@ -1,0 +1,59 @@
+<datasets>
+
+  <dataset class="rnaSeqSample">
+    <prop name="organismAbbrev">pberANKA</prop>
+    <prop name="experimentName">Female_Male_Gametocyte</prop>
+    <prop name="sampleName">Female_gametocytes_1</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample">
+    <prop name="organismAbbrev">pberANKA</prop>
+    <prop name="experimentName">Female_Male_Gametocyte</prop>
+    <prop name="sampleName">Female_gametocytes_2</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample">
+    <prop name="organismAbbrev">pberANKA</prop>
+    <prop name="experimentName">Female_Male_Gametocyte</prop>
+    <prop name="sampleName">Female_gametocytes_3</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample">
+    <prop name="organismAbbrev">pberANKA</prop>
+    <prop name="experimentName">Female_Male_Gametocyte</prop>
+    <prop name="sampleName">Male_gametocytes_1</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample">
+    <prop name="organismAbbrev">pberANKA</prop>
+    <prop name="experimentName">Female_Male_Gametocyte</prop>
+    <prop name="sampleName">Male_gametocytes_2</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample">
+    <prop name="organismAbbrev">pberANKA</prop>
+    <prop name="experimentName">Female_Male_Gametocyte</prop>
+    <prop name="sampleName">Male_gametocytes_3</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample">
+    <prop name="organismAbbrev">pberANKA</prop>
+    <prop name="experimentName">Female_Male_Gametocyte</prop>
+    <prop name="sampleName">Erthyrocytic_stages_1</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample">
+    <prop name="organismAbbrev">pberANKA</prop>
+    <prop name="experimentName">Female_Male_Gametocyte</prop>
+    <prop name="sampleName">Erthyrocytic_stages_2</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample">
+    <prop name="organismAbbrev">pberANKA</prop>
+    <prop name="experimentName">Female_Male_Gametocyte</prop>
+    <prop name="sampleName">Erthyrocytic_stages_3</prop>
+  </dataset>
+
+</datasets>
+
+

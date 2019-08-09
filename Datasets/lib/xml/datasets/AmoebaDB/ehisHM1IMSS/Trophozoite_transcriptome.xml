@@ -1,0 +1,8 @@
+<datasets>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ehisHM1IMSS</prop>
+    <prop name="experimentName">Trophozoite_transcriptome</prop>
+    <prop name="sampleName">DRR106679</prop>
+    <prop name="sraQueryString">DRR106679</prop>
+  </dataset>
+</datasets>

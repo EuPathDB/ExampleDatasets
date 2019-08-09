@@ -1,0 +1,74 @@
+<datasets>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ehisHM1IMSS</prop>
+    <prop name="experimentName">Weber_Plasticity_Pathogenesis</prop>
+    <prop name="sampleName">ERR1518939</prop>
+    <prop name="sraQueryString">ERR1518939</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ehisHM1IMSS</prop>
+    <prop name="experimentName">Weber_Plasticity_Pathogenesis</prop>
+    <prop name="sampleName">ERR1518940</prop>
+    <prop name="sraQueryString">ERR1518940</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ehisHM1IMSS</prop>
+    <prop name="experimentName">Weber_Plasticity_Pathogenesis</prop>
+    <prop name="sampleName">ERR1518941</prop>
+    <prop name="sraQueryString">ERR1518941</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ehisHM1IMSS</prop>
+    <prop name="experimentName">Weber_Plasticity_Pathogenesis</prop>
+    <prop name="sampleName">ERR1518942</prop>
+    <prop name="sraQueryString">ERR1518942</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ehisHM1IMSS</prop>
+    <prop name="experimentName">Weber_Plasticity_Pathogenesis</prop>
+    <prop name="sampleName">ERR1518943</prop>
+    <prop name="sraQueryString">ERR1518943</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ehisHM1IMSS</prop>
+    <prop name="experimentName">Weber_Plasticity_Pathogenesis</prop>
+    <prop name="sampleName">ERR1518944</prop>
+    <prop name="sraQueryString">ERR1518944</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ehisHM1IMSS</prop>
+    <prop name="experimentName">Weber_Plasticity_Pathogenesis</prop>
+    <prop name="sampleName">ERR1518945</prop>
+    <prop name="sraQueryString">ERR1518945</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ehisHM1IMSS</prop>
+    <prop name="experimentName">Weber_Plasticity_Pathogenesis</prop>
+    <prop name="sampleName">ERR1518946</prop>
+    <prop name="sraQueryString">ERR1518946</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ehisHM1IMSS</prop>
+    <prop name="experimentName">Weber_Plasticity_Pathogenesis</prop>
+    <prop name="sampleName">ERR1518947</prop>
+    <prop name="sraQueryString">ERR1518947</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ehisHM1IMSS</prop>
+    <prop name="experimentName">Weber_Plasticity_Pathogenesis</prop>
+    <prop name="sampleName">ERR1518948</prop>
+    <prop name="sraQueryString">ERR1518948</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ehisHM1IMSS</prop>
+    <prop name="experimentName">Weber_Plasticity_Pathogenesis</prop>
+    <prop name="sampleName">ERR1518949</prop>
+    <prop name="sraQueryString">ERR1518949</prop>
+  </dataset>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ehisHM1IMSS</prop>
+    <prop name="experimentName">Weber_Plasticity_Pathogenesis</prop>
+    <prop name="sampleName">ERR1518950</prop>
+    <prop name="sraQueryString">ERR1518950</prop>
+  </dataset>
+</datasets>

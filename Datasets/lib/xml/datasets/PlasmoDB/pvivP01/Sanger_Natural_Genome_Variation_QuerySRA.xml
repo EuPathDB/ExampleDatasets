@@ -1,0 +1,18 @@
+<datasets>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">pvivP01</prop>
+    <prop name="experimentName">Sanger_Natural_Genome_Variation_QuerySRA</prop>
+    <prop name="snpStrainAbbrev">P01_resequence1</prop>
+    <prop name="sraQueryString">ERR034096</prop>
+  </dataset>
+
+  <dataset class="copyNumberVariationSamples">
+      <prop name="projectName">PlasmoDB</prop>
+      <prop name="organismAbbrev">pvivP01</prop>
+      <prop name="experimentName">Sanger_Natural_Genome_Variation_QuerySRA</prop>
+      <prop name="experimentVersion">2010-09-17</prop>
+      <prop name="sampleName">P01_resequence1</prop>
+  </dataset>
+
+</datasets>

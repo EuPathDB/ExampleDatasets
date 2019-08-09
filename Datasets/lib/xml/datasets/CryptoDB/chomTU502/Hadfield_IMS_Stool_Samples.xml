@@ -1,0 +1,23 @@
+<datasets>
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Hadfield_IMS_Stool_Samples</prop>
+    <prop name="snpStrainAbbrev">UKH3</prop>
+    <prop name="sraQueryString">SRR6131684</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Hadfield_IMS_Stool_Samples</prop>
+    <prop name="snpStrainAbbrev">UKH4</prop>
+    <prop name="sraQueryString">SRR6143718</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Hadfield_IMS_Stool_Samples</prop>
+    <prop name="snpStrainAbbrev">UKH5</prop>
+    <prop name="sraQueryString">SRR6144056</prop>
+  </dataset>
+
+</datasets>

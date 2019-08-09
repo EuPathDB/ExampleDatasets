@@ -1,0 +1,17 @@
+<datasets>
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pyoeyoelii17X</prop>
+    <prop name="experimentName">Fraschka_Py_HP1</prop>
+    <prop name="sampleName">PyYM_schizont_HP1</prop>
+    <prop name="inputName">PyYM_schizont_Input</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+
+  <dataset class="chipSeqSample">
+    <prop name="organismAbbrev">pyoeyoelii17X</prop>
+    <prop name="experimentName">Fraschka_Py_HP1</prop>
+    <prop name="sampleName">PyYM_schizont_Input</prop>
+    <prop name="inputName">PyYM_schizont_Input</prop>
+    <prop name="fragmentLength"></prop>
+  </dataset>
+</datasets>

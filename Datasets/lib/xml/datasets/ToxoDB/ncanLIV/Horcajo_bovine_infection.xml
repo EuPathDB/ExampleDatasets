@@ -1,0 +1,90 @@
+<datasets>
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncanLIV</prop>
+    <prop name="experimentName">Horcajo_bovine_infection</prop>
+    <prop name="sampleName">SRR8334935</prop>
+    <prop name="sraQueryString">SRR8334935</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncanLIV</prop>
+    <prop name="experimentName">Horcajo_bovine_infection</prop>
+    <prop name="sampleName">SRR8334936</prop>
+    <prop name="sraQueryString">SRR8334936</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncanLIV</prop>
+    <prop name="experimentName">Horcajo_bovine_infection</prop>
+    <prop name="sampleName">SRR8334933</prop>
+    <prop name="sraQueryString">SRR8334933</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncanLIV</prop>
+    <prop name="experimentName">Horcajo_bovine_infection</prop>
+    <prop name="sampleName">SRR8334934</prop>
+    <prop name="sraQueryString">SRR8334934</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncanLIV</prop>
+    <prop name="experimentName">Horcajo_bovine_infection</prop>
+    <prop name="sampleName">SRR8334937</prop>
+    <prop name="sraQueryString">SRR8334937</prop>
+  </dataset>
+  
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncanLIV</prop>
+    <prop name="experimentName">Horcajo_bovine_infection</prop>
+    <prop name="sampleName">SRR8334938</prop>
+    <prop name="sraQueryString">SRR8334938</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncanLIV</prop>
+    <prop name="experimentName">Horcajo_bovine_infection</prop>
+    <prop name="sampleName">SRR8426442</prop>
+    <prop name="sraQueryString">SRR8426442</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncanLIV</prop>
+    <prop name="experimentName">Horcajo_bovine_infection</prop>
+    <prop name="sampleName">SRR8426443</prop>
+    <prop name="sraQueryString">SRR8426443</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncanLIV</prop>
+    <prop name="experimentName">Horcajo_bovine_infection</prop>
+    <prop name="sampleName">SRR8426444</prop>
+    <prop name="sraQueryString">SRR8426444</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncanLIV</prop>
+    <prop name="experimentName">Horcajo_bovine_infection</prop>
+    <prop name="sampleName">SRR8426441</prop>
+    <prop name="sraQueryString">SRR8426441</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncanLIV</prop>
+    <prop name="experimentName">Horcajo_bovine_infection</prop>
+    <prop name="sampleName">SRR8426445</prop>
+    <prop name="sraQueryString">SRR8426445</prop>
+  </dataset>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">ncanLIV</prop>
+    <prop name="experimentName">Horcajo_bovine_infection</prop>
+    <prop name="sampleName">SRR8426448</prop>
+    <prop name="sraQueryString">SRR8426448</prop>
+  </dataset>
+
+</datasets>
+
+
+
+

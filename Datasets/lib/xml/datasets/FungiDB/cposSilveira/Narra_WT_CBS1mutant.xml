@@ -1,0 +1,31 @@
+<datasets>
+
+  <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cposSilveira</prop>
+    <prop name="experimentName">Narra_WT_CBS1mutant</prop>
+    <prop name="sampleName">SRR4015208</prop>
+    <prop name="sraQueryString">SRR4015208</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cposSilveira</prop>
+    <prop name="experimentName">Narra_WT_CBS1mutant</prop>
+    <prop name="sampleName">SRR4015209</prop>
+    <prop name="sraQueryString">SRR4015209</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cposSilveira</prop>
+    <prop name="experimentName">Narra_WT_CBS1mutant</prop>
+    <prop name="sampleName">SRR4015210</prop>
+    <prop name="sraQueryString">SRR4015210</prop>
+  </dataset>
+
+   <dataset class="rnaSeqSample_QuerySRA">
+    <prop name="organismAbbrev">cposSilveira</prop>
+    <prop name="experimentName">Narra_WT_CBS1mutant</prop>
+    <prop name="sampleName">SRR4015211</prop>
+    <prop name="sraQueryString">SRR4015211</prop>
+  </dataset>
+
+</datasets>

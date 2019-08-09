@@ -1,0 +1,222 @@
+<datasets>
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_3</prop>
+    <prop name="sraQueryString">ERR2240054</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_4</prop>
+    <prop name="sraQueryString">ERR2240055</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_8</prop>
+    <prop name="sraQueryString">ERR2240056</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_12</prop>
+    <prop name="sraQueryString">ERR2240057</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_13</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_14</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_16</prop>
+    <prop name="sraQueryString">ERR2240060</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_19</prop>
+    <prop name="sraQueryString">ERR2240061</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_20</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_21</prop>
+    <prop name="sraQueryString">ERR2240063</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_22</prop>
+    <prop name="sraQueryString">ERR2240064</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_23</prop>
+    <prop name="sraQueryString">ERR2240065</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_24</prop>
+    <prop name="sraQueryString">ERR2240066</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_26</prop>
+    <prop name="sraQueryString">ERR2240067</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_27</prop>
+    <prop name="sraQueryString">ERR2240068</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_30</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_31</prop>
+    <prop name="sraQueryString">ERR2240070</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_32</prop>
+    <prop name="sraQueryString">ERR2240071</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_33</prop>
+    <prop name="sraQueryString">ERR2240072</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_34</prop>
+    <prop name="sraQueryString">ERR2240073</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_35</prop>
+    <prop name="sraQueryString">ERR2240074</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_36</prop>
+    <prop name="sraQueryString">ERR2240075</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_37</prop>
+    <prop name="sraQueryString">ERR2240076</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_38</prop>
+    <prop name="sraQueryString">ERR2240077</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_39</prop>
+    <prop name="sraQueryString">ERR2240078</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_41</prop>
+    <prop name="sraQueryString">ERR2240079</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_42</prop>
+    <prop name="sraQueryString">ERR2240080</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_49</prop>
+    <prop name="sraQueryString">ERR2240081</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_50</prop>
+    <prop name="sraQueryString">ERR2240082</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_51</prop>
+    <prop name="sraQueryString">ERR2240083</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_54</prop>
+    <prop name="sraQueryString">ERR2240084</prop>
+  </dataset>
+
+  <dataset class="SNPs_HTS_Sample_QuerySRA">
+    <prop name="organismAbbrev">chomTU502</prop>
+    <prop name="experimentName">Gilchrist_Genetic_Diversity_Bangladesh</prop>
+    <prop name="snpStrainAbbrev">icddr-b_17</prop>
+    <prop name="sraQueryString">ERR2722072</prop>
+  </dataset>
+
+</datasets>
