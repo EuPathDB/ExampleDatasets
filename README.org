@@ -1,0 +1,36 @@
+* ExampleDatasets
+
+mock / sample dataset xml; Component specific dataset projects will conform to the same format
+  + [[https://github.com/VEuPathDB/ApiCommonDatasets][ApiCommonDatasets]]
+  + [[https://github.com/VEuPathDB/MicrobiomeDatasets][MicrobiomeDatasets]]
+  + [[https://github.com/VEuPathDB/ClinEpiDatasets][ClinEpiDatasets]]
+
+** Dependencies
+
+   + yarn / npm / ant
+   + WEBAPP_PROP_FILE file (file with one property for the webapp target directory)
+      webappTargetDir=BLAH
+   + environment variables for GUS_HOME and PROJECT_HOME
+   + Internal Dependencies
+     + ApiCommonWorkflow (ClinEpiWorkflow and MicrobiomeWorkflow are required for those components)
+
+** Installation instructions.
+
+   + bld ExampleDatasets; generateFromDatasets ExampleDatasets
+
+** Operating instructions.
+
+   + Reflow commands (rf) to load datasets into GUS instance
+
+    #+begin_example
+    rf list [ready|on_deck|running|failed|done]
+    rf run [real|test]
+    rf undo [test|real] <step name>
+    rf reset test
+    rf set [ready|kill|offline|online|stopafter|resume] <stepname_pattern> [undo]
+    #+end_example
+
+** Manifest
+
+   + Datasets/lib/xml/datasets/ :: Nested xml structure depends on workflow graph structure.  For genomics projects, one file per organism and subdirectories for organism specific datasets.
+
